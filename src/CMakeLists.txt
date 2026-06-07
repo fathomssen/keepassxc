@@ -296,6 +296,15 @@ if(KPXC_FEATURE_NETWORK)
             gui/IconDownloaderDialog.cpp)
 endif()
 
+if(KPXC_FEATURE_WEBDAV)
+    list(APPEND gui_SOURCES
+            webdav/WebDavSettings.cpp
+            webdav/WebDavClient.cpp
+            webdav/WebDavCredentialStore.cpp
+            webdav/WebDavHandler.cpp
+            gui/remote/DatabaseSettingsWidgetWebDav.cpp)
+endif()
+
 add_subdirectory(cli)
 add_subdirectory(thirdparty)
 

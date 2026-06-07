@@ -37,6 +37,9 @@ class DatabaseSettingsWidgetFdoSecrets;
 #endif
 class DatabaseSettingsWidgetMaintenance;
 class DatabaseSettingsWidgetRemote;
+#ifdef KPXC_FEATURE_WEBDAV
+class DatabaseSettingsWidgetWebDav;
+#endif
 class QTabWidget;
 
 class DatabaseSettingsDialog : public EditWidget
@@ -51,6 +54,9 @@ public:
     void load(const QSharedPointer<Database>& db);
     void showDatabaseKeySettings(int index = 0);
     void showRemoteSettings();
+#ifdef KPXC_FEATURE_WEBDAV
+    void showWebDavSettings();
+#endif
 
 signals:
     void editFinished(bool accepted);
@@ -74,6 +80,10 @@ private:
 #endif
     QPointer<DatabaseSettingsWidgetMaintenance> m_maintenanceWidget;
     QPointer<DatabaseSettingsWidgetRemote> m_remoteWidget;
+#ifdef KPXC_FEATURE_WEBDAV
+    QPointer<DatabaseSettingsWidgetWebDav> m_webDavWidget;
+    int m_webDavPageIndex = -1;
+#endif
 };
 
 #endif // KEEPASSXC_DATABASESETTINGSDIALOG_H

@@ -1231,6 +1231,21 @@ void MainWindow::updateRemoteSyncMenuEntries()
             m_ui->menuRemoteSync->addAction(remoteSyncAction);
             connect(remoteSyncAction, &QAction::triggered, dbWidget, [=] { dbWidget->syncWithRemote(params); });
         }
+
+#ifdef KPXC_FEATURE_WEBDAV
+        m_ui->menuRemoteSync->addSeparator();
+
+        auto* wdavSetupAction = m_ui->menuRemoteSync->addAction(tr("Setup WebDAV Sync…"));
+        connect(wdavSetupAction, &QAction::triggered, dbWidget, &DatabaseWidget::switchToWebDavSettings);
+
+        m_ui->menuRemoteSync->addSeparator();
+
+        for (const auto* params : dbWidget->getWebDavParams()) {
+            auto* wdavAction = new QAction(icons()->icon("network-server"), params->name, this);
+            m_ui->menuRemoteSync->addAction(wdavAction);
+            connect(wdavAction, &QAction::triggered, dbWidget, [=] { dbWidget->syncWithWebDav(params); });
+        }
+#endif
     }
 }
 

@@ -24,6 +24,9 @@
 #include "DatabaseSettingsWidgetBrowser.h"
 #endif
 #include "../remote/DatabaseSettingsWidgetRemote.h"
+#ifdef KPXC_FEATURE_WEBDAV
+#include "../remote/DatabaseSettingsWidgetWebDav.h"
+#endif
 #include "DatabaseSettingsWidgetMaintenance.h"
 #include "keeshare/DatabaseSettingsWidgetKeeShare.h"
 #ifdef KPXC_FEATURE_FDOSECRETS
@@ -51,6 +54,9 @@ DatabaseSettingsDialog::DatabaseSettingsDialog(QWidget* parent)
 #endif
     , m_maintenanceWidget(new DatabaseSettingsWidgetMaintenance(this))
     , m_remoteWidget(new DatabaseSettingsWidgetRemote(this))
+#ifdef KPXC_FEATURE_WEBDAV
+    , m_webDavWidget(new DatabaseSettingsWidgetWebDav(this))
+#endif
 {
     connect(this, SIGNAL(accepted()), SLOT(save()));
     connect(this, SIGNAL(rejected()), SLOT(reject()));
@@ -73,6 +79,12 @@ DatabaseSettingsDialog::DatabaseSettingsDialog(QWidget* parent)
     m_securityTabWidget->setCurrentIndex(0);
 
     addPage(tr("Remote Sync"), icons()->icon("remote-sync"), m_remoteWidget);
+
+#ifdef KPXC_FEATURE_WEBDAV
+    // Index: General(0) + Security(1) + Remote Sync(2) + WebDAV(3)
+    m_webDavPageIndex = 3;
+    addPage(tr("WebDAV Sync"), icons()->icon("network-server"), m_webDavWidget);
+#endif
 
 #ifdef KPXC_FEATURE_BROWSER
     addPage(tr("Browser Integration"), icons()->icon("internet-web-browser"), m_browserWidget);
@@ -101,6 +113,9 @@ void DatabaseSettingsDialog::load(const QSharedPointer<Database>& db)
     m_databaseKeyWidget->loadSettings(db);
     m_encryptionWidget->loadSettings(db);
     m_remoteWidget->loadSettings(db);
+#ifdef KPXC_FEATURE_WEBDAV
+    m_webDavWidget->loadSettings(db);
+#endif
 #ifdef KPXC_FEATURE_BROWSER
     m_browserWidget->loadSettings(db);
 #endif
@@ -127,6 +142,13 @@ void DatabaseSettingsDialog::showRemoteSettings()
     setCurrentPage(2);
 }
 
+#ifdef KPXC_FEATURE_WEBDAV
+void DatabaseSettingsDialog::showWebDavSettings()
+{
+    setCurrentPage(m_webDavPageIndex);
+}
+#endif
+
 void DatabaseSettingsDialog::save()
 {
     if (!m_generalWidget->saveSettings()) {
@@ -151,6 +173,13 @@ void DatabaseSettingsDialog::save()
         return;
     }
 
+#ifdef KPXC_FEATURE_WEBDAV
+    if (!m_webDavWidget->saveSettings()) {
+        setCurrentPage(m_webDavPageIndex);
+        return;
+    }
+#endif
+
     // Browser settings don't have anything to save
 
     m_keeShareWidget->saveSettings();
@@ -167,6 +196,9 @@ void DatabaseSettingsDialog::reject()
     m_databaseKeyWidget->discard();
     m_encryptionWidget->discard();
     m_remoteWidget->discard();
+#ifdef KPXC_FEATURE_WEBDAV
+    m_webDavWidget->discard();
+#endif
 #ifdef KPXC_FEATURE_BROWSER
     m_browserWidget->discard();
 #endif

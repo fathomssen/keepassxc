@@ -59,6 +59,11 @@
 #include "keeshare/KeeShare.h"
 #include "remote/RemoteHandler.h"
 #include "remote/RemoteSettings.h"
+#ifdef KPXC_FEATURE_WEBDAV
+#include "webdav/WebDavCredentialStore.h"
+#include "webdav/WebDavHandler.h"
+#include "webdav/WebDavSettings.h"
+#endif
 
 #ifdef KPXC_FEATURE_NETWORK
 #include "gui/IconDownloaderDialog.h"
@@ -93,6 +98,9 @@ DatabaseWidget::DatabaseWidget(QSharedPointer<Database> db, QWidget* parent)
     , m_tagView(new TagView(this))
     , m_saveAttempts(0)
     , m_remoteSettings(new RemoteSettings(m_db, this))
+#ifdef KPXC_FEATURE_WEBDAV
+    , m_webDavSettings(new WebDavSettings(m_db, this))
+#endif
     , m_entrySearcher(new EntrySearcher(false))
 {
     Q_ASSERT(m_db);
@@ -490,6 +498,9 @@ void DatabaseWidget::replaceDatabase(QSharedPointer<Database> db)
     m_groupView->changeDatabase(m_db);
     m_tagView->setDatabase(m_db);
     m_remoteSettings->setDatabase(m_db);
+#ifdef KPXC_FEATURE_WEBDAV
+    m_webDavSettings->setDatabase(m_db);
+#endif
 
     // Restore the new parent group pointer, if not found default to the root group
     // this prevents data loss when merging a database while creating a new entry
@@ -1675,6 +1686,93 @@ void DatabaseWidget::switchToRemoteSettings()
     m_databaseSettingDialog->showRemoteSettings();
 }
 
+#ifdef KPXC_FEATURE_WEBDAV
+void DatabaseWidget::switchToWebDavSettings()
+{
+    switchToDatabaseSettings();
+    m_databaseSettingDialog->showWebDavSettings();
+}
+
+QList<WebDavParams*> DatabaseWidget::getWebDavParams() const
+{
+    return m_webDavSettings->getAllParams();
+}
+
+void DatabaseWidget::syncWithWebDav(const WebDavParams* params)
+{
+    setDisabled(true);
+    emit databaseSyncInProgress();
+
+    // Retrieve password from session cache; prompt if absent
+    QString password = WebDavCredentialStore::instance()->getPassword(params->name);
+    if (password.isEmpty()) {
+        bool ok = false;
+        password = QInputDialog::getText(this,
+                                         tr("WebDAV Password"),
+                                         tr("Enter WebDAV password for '%1':").arg(params->name),
+                                         QLineEdit::Password,
+                                         {},
+                                         &ok);
+        if (!ok) {
+            setDisabled(false);
+            emit updateSyncProgress(-1, QString());
+            return;
+        }
+        WebDavCredentialStore::instance()->setPassword(params->name, password);
+    }
+
+    emit updateSyncProgress(25, tr("Downloading..."));
+    QScopedPointer<WebDavHandler> handler(new WebDavHandler(this));
+    WebDavHandler::WebDavResult result = handler->download(params, password);
+
+    if (result.success) {
+        QString error;
+        QSharedPointer<Database> remoteDb = QSharedPointer<Database>::create();
+        if (!remoteDb->open(result.filePath, m_db->key(), &error)) {
+            result.success = false;
+            result.errorMessage =
+                tr("WebDAV database has a different master key. Please ensure both databases use the same key.");
+        } else {
+            remoteDb->markAsTemporaryDatabase();
+            if (!syncWithDatabase(remoteDb, error)) {
+                result.success = false;
+                result.errorMessage = error;
+            }
+        }
+    }
+
+    uploadAndFinishWebDavSync(params, result);
+}
+
+void DatabaseWidget::uploadAndFinishWebDavSync(const WebDavParams* params, WebDavHandler::WebDavResult result)
+{
+    if (result.success && !result.notModified) {
+        emit updateSyncProgress(75, tr("Uploading..."));
+        const QString password = WebDavCredentialStore::instance()->getPassword(params->name);
+        QScopedPointer<WebDavHandler> handler(new WebDavHandler(this));
+        result = handler->upload(result.filePath, params, password);
+    }
+    finishWebDavSync(params, result);
+}
+
+void DatabaseWidget::finishWebDavSync(const WebDavParams* params, WebDavHandler::WebDavResult result)
+{
+    setDisabled(false);
+    emit updateSyncProgress(-1, QString());
+    if (result.success) {
+        emit databaseSyncCompleted(params->name);
+        if (!result.notModified) {
+            showMessage(tr("WebDAV sync '%1' completed successfully!").arg(params->name),
+                        MessageWidget::Positive,
+                        false);
+        }
+    } else {
+        emit databaseSyncFailed(params->name, result.errorMessage);
+        showErrorMessage(tr("WebDAV sync '%1' failed: %2").arg(params->name, result.errorMessage));
+    }
+}
+#endif // KPXC_FEATURE_WEBDAV
+
 #ifdef KPXC_FEATURE_BROWSER
 void DatabaseWidget::switchToPasskeys()
 {
@@ -1852,6 +1950,9 @@ void DatabaseWidget::onDatabaseModified()
 {
     refreshSearch();
     m_remoteSettings->loadSettings();
+#ifdef KPXC_FEATURE_WEBDAV
+    m_webDavSettings->loadSettings();
+#endif
     int autosaveDelayMs = m_db->metadata()->autosaveDelayMin() * 60 * 1000; // min to msec for QTimer
     bool autosaveAfterEveryChangeConfig = config()->get(Config::AutoSaveAfterEveryChange).toBool();
     if (autosaveDelayMs > 0 && autosaveAfterEveryChangeConfig) {

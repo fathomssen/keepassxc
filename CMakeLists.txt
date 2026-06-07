@@ -74,6 +74,12 @@ if(NOT KPXC_FEATURE_NETWORK AND KPXC_FEATURE_UPDATES)
     set(KPXC_FEATURE_UPDATES OFF)
 endif()
 
+option(KPXC_FEATURE_WEBDAV "WebDAV database sync with offline caching" ON)
+if(NOT KPXC_FEATURE_NETWORK AND KPXC_FEATURE_WEBDAV)
+    message(STATUS "Disabling KPXC_FEATURE_WEBDAV because KPXC_FEATURE_NETWORK is disabled")
+    set(KPXC_FEATURE_WEBDAV OFF)
+endif()
+
 # FDO Secrets is only available on Linux
 if(NOT UNIX OR APPLE OR HAIKU)
 	set(KPXC_FEATURE_FDOSECRETS OFF)
@@ -88,6 +94,7 @@ endif()
 add_feature_info("Networking" KPXC_FEATURE_NETWORK "Code that can reach out to external networks is included (e.g. downloading icons)")
 add_feature_info("Update Checks" KPXC_FEATURE_UPDATES "Periodic update checks can be performed")
 add_feature_info("Documentation" KPXC_FEATURE_DOCS "Offline documentation")
+add_feature_info("WebDAV Sync" KPXC_FEATURE_WEBDAV "WebDAV database sync with offline caching")
 
 # Retrieve git HEAD revision hash
 set(GIT_HEAD_OVERRIDE "" CACHE STRING "Manually set the Git HEAD hash when missing (eg, when no .git folder exists)")

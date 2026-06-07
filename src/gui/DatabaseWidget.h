@@ -27,6 +27,9 @@
 #include "gui/MessageWidget.h"
 #include "gui/entry/EntryModel.h"
 #include "remote/RemoteHandler.h"
+#ifdef KPXC_FEATURE_WEBDAV
+#include "webdav/WebDavHandler.h"
+#endif
 
 class DatabaseOpenDialog;
 class DatabaseOpenWidget;
@@ -47,6 +50,10 @@ class TagView;
 class ElidedLabel;
 class RemoteSettings;
 struct RemoteParams;
+#ifdef KPXC_FEATURE_WEBDAV
+class WebDavSettings;
+struct WebDavParams;
+#endif
 
 namespace Ui
 {
@@ -131,6 +138,11 @@ public:
     void syncWithRemote(const RemoteParams* params);
     void syncDatabaseWithLockedDatabase(const QString& filePath, const RemoteParams* params);
     QList<RemoteParams*> getRemoteParams() const;
+
+#ifdef KPXC_FEATURE_WEBDAV
+    void syncWithWebDav(const WebDavParams* params);
+    QList<WebDavParams*> getWebDavParams() const;
+#endif
 
 signals:
     // relayed Database signals
@@ -235,6 +247,9 @@ public slots:
     void switchToDatabaseReports();
     void switchToDatabaseSettings();
     void switchToRemoteSettings();
+#ifdef KPXC_FEATURE_WEBDAV
+    void switchToWebDavSettings();
+#endif
 #ifdef KPXC_FEATURE_BROWSER
     void switchToPasskeys();
     void showImportPasskeyDialog(bool isEntry = false);
@@ -290,6 +305,10 @@ private slots:
     bool syncWithDatabase(const QSharedPointer<Database>& otherDb, QString& error);
     void uploadAndFinishSync(const RemoteParams* params, RemoteHandler::RemoteResult result);
     void finishSync(const RemoteParams* params, RemoteHandler::RemoteResult result);
+#ifdef KPXC_FEATURE_WEBDAV
+    void uploadAndFinishWebDavSync(const WebDavParams* params, WebDavHandler::WebDavResult result);
+    void finishWebDavSync(const WebDavParams* params, WebDavHandler::WebDavResult result);
+#endif
     void emitCurrentModeChanged();
     // Database autoreload slots
     void reloadDatabaseFile(bool triggeredBySave);
@@ -334,6 +353,9 @@ private:
     bool m_attemptingLock = false;
 
     QScopedPointer<RemoteSettings> m_remoteSettings;
+#ifdef KPXC_FEATURE_WEBDAV
+    QScopedPointer<WebDavSettings> m_webDavSettings;
+#endif
 
     // Search state
     QScopedPointer<EntrySearcher> m_entrySearcher;

@@ -181,6 +181,11 @@ if(KPXC_FEATURE_NETWORK)
         LIBS ${TEST_LIBRARIES})
 endif()
 
+if(KPXC_FEATURE_WEBDAV)
+    add_unit_test(NAME testwebdav SOURCES TestWebDav.cpp mock/MockWebDavClient.cpp
+        LIBS ${TEST_LIBRARIES})
+endif()
+
 if(WITH_GUI_TESTS)
     add_subdirectory(gui)
 endif()
