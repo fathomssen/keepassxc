@@ -139,6 +139,8 @@ WebDavHandler::WebDavResult WebDavHandler::download(const WebDavParams* params, 
 
     result.success = true;
     result.filePath = destPath;
+    result.etag = reply.etag;
+    result.lastModified = reply.lastModified;
     return result;
 }
 

@@ -17,10 +17,15 @@
 
 #include "DatabaseTabWidget.h"
 
+#include <QFile>
 #include <QFileInfo>
 #include <QTabBar>
 
 #include "autotype/AutoType.h"
+#ifdef KPXC_FEATURE_WEBDAV
+#include "webdav/WebDavCredentialStore.h"
+#include "webdav/WebDavHandler.h"
+#endif
 #include "core/Merger.h"
 #include "core/Tools.h"
 #include "format/CsvExporter.h"
@@ -255,6 +260,54 @@ void DatabaseTabWidget::addDatabaseTab(DatabaseWidget* dbWidget, bool inBackgrou
             this,
             &DatabaseTabWidget::unlockDatabaseInDialogForSync);
 }
+
+#ifdef KPXC_FEATURE_WEBDAV
+void DatabaseTabWidget::openDatabaseFromWebDav(WebDavParams params, const QString& password)
+{
+    QScopedPointer<WebDavHandler> handler(new WebDavHandler(this));
+    WebDavHandler::WebDavResult result = handler->download(&params, password);
+    if (!result.success) {
+        emit messageGlobal(tr("WebDAV download failed: %1").arg(result.errorMessage), MessageWidget::Error);
+        return;
+    }
+
+    // Read the downloaded data and save to a permanent cache location
+    QByteArray data;
+    {
+        QFile tempFile(result.filePath);
+        if (tempFile.open(QIODevice::ReadOnly)) {
+            data = tempFile.readAll();
+        }
+        QFile::remove(result.filePath);
+    }
+
+    if (data.isEmpty()) {
+        emit messageGlobal(tr("WebDAV download returned an empty file."), MessageWidget::Error);
+        return;
+    }
+
+    const QString cachePath = WebDavHandler::saveToCacheDir(&params, data);
+    if (cachePath.isEmpty()) {
+        emit messageGlobal(tr("Failed to cache WebDAV database locally."), MessageWidget::Error);
+        return;
+    }
+    params.cachedFilePath = cachePath;
+    params.lastETag = result.etag;
+    params.lastModified = result.lastModified;
+
+    // Cache WebDAV password in session store
+    WebDavCredentialStore::instance()->setPassword(params.name, password);
+
+    // Open the cached file as a new tab; inject WebDavParams into DB settings after the user unlocks
+    auto* dbWidget = new DatabaseWidget(QSharedPointer<Database>::create(cachePath), this);
+    connect(dbWidget, &DatabaseWidget::databaseUnlocked, this, [dbWidget, params]() mutable {
+        dbWidget->addWebDavParams(std::move(params));
+    }, Qt::SingleShotConnection);
+
+    addDatabaseTab(dbWidget);
+    dbWidget->performUnlockDatabase({});
+}
+#endif
 
 void DatabaseTabWidget::importFile()
 {

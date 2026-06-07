@@ -72,6 +72,10 @@
 #include "browser/BrowserService.h"
 #endif
 
+#ifdef KPXC_FEATURE_WEBDAV
+#include "webdav/WebDavOpenDialog.h"
+#endif
+
 #if defined(Q_OS_UNIX) && !defined(Q_OS_MACOS) && !defined(QT_NO_DBUS)
 #include "mainwindowadaptor.h"
 #endif
@@ -323,6 +327,9 @@ MainWindow::MainWindow()
 
     m_ui->actionDatabaseNew->setIcon(icons()->icon("document-new"));
     m_ui->actionDatabaseOpen->setIcon(icons()->icon("document-open"));
+#ifdef KPXC_FEATURE_WEBDAV
+    m_ui->actionDatabaseOpenWebDav->setIcon(icons()->icon("remote-sync"));
+#endif
     m_ui->menuRecentDatabases->setIcon(icons()->icon("document-open-recent"));
     m_ui->actionDatabaseSave->setIcon(icons()->icon("document-save"));
     m_ui->actionDatabaseSaveAs->setIcon(icons()->icon("document-save-as"));
@@ -447,6 +454,11 @@ MainWindow::MainWindow()
 
     connect(m_ui->actionDatabaseNew, SIGNAL(triggered()), m_ui->tabWidget, SLOT(newDatabase()));
     connect(m_ui->actionDatabaseOpen, SIGNAL(triggered()), m_ui->tabWidget, SLOT(openDatabase()));
+#ifdef KPXC_FEATURE_WEBDAV
+    connect(m_ui->actionDatabaseOpenWebDav, &QAction::triggered, this, &MainWindow::openDatabaseFromWebDav);
+#else
+    m_ui->actionDatabaseOpenWebDav->setVisible(false);
+#endif
     connect(m_ui->actionDatabaseSave, SIGNAL(triggered()), m_ui->tabWidget, SLOT(saveDatabase()));
     connect(m_ui->actionDatabaseSaveAs, SIGNAL(triggered()), m_ui->tabWidget, SLOT(saveDatabaseAs()));
     connect(m_ui->actionDatabaseSaveBackup, SIGNAL(triggered()), m_ui->tabWidget, SLOT(saveDatabaseBackup()));
@@ -1213,6 +1225,25 @@ void MainWindow::switchToDatabaseFile(const QString& file)
     switchToDatabases();
 }
 
+#ifdef KPXC_FEATURE_WEBDAV
+void MainWindow::openDatabaseFromWebDav()
+{
+    WebDavOpenDialog dialog(this);
+    if (dialog.exec() != QDialog::Accepted) {
+        return;
+    }
+    WebDavParams params = dialog.params();
+    const QString password = dialog.password();
+    if (params.name.isEmpty() || params.url.isEmpty()) {
+        return;
+    }
+    switchToDatabases();
+    QApplication::setOverrideCursor(Qt::WaitCursor);
+    m_ui->tabWidget->openDatabaseFromWebDav(std::move(params), password);
+    QApplication::restoreOverrideCursor();
+}
+#endif
+
 void MainWindow::updateRemoteSyncMenuEntries()
 {
     m_ui->menuRemoteSync->clear();
@@ -1241,7 +1272,7 @@ void MainWindow::updateRemoteSyncMenuEntries()
         m_ui->menuRemoteSync->addSeparator();
 
         for (const auto* params : dbWidget->getWebDavParams()) {
-            auto* wdavAction = new QAction(icons()->icon("network-server"), params->name, this);
+            auto* wdavAction = new QAction(icons()->icon("preferences-system-network-sharing"), params->name, this);
             m_ui->menuRemoteSync->addAction(wdavAction);
             connect(wdavAction, &QAction::triggered, dbWidget, [=] { dbWidget->syncWithWebDav(params); });
         }

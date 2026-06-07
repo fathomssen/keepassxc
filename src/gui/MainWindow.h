@@ -127,6 +127,9 @@ private slots:
     void switchToNewDatabase();
     void switchToOpenDatabase();
     void switchToDatabaseFile(const QString& file);
+#ifdef KPXC_FEATURE_WEBDAV
+    void openDatabaseFromWebDav();
+#endif
     void updateRemoteSyncMenuEntries();
     void databaseStatusChanged(DatabaseWidget* dbWidget);
     void databaseTabChanged(int tabIndex);

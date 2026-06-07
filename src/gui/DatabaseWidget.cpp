@@ -1698,6 +1698,12 @@ QList<WebDavParams*> DatabaseWidget::getWebDavParams() const
     return m_webDavSettings->getAllParams();
 }
 
+void DatabaseWidget::addWebDavParams(WebDavParams params)
+{
+    m_webDavSettings->addParams(new WebDavParams(std::move(params)));
+    m_webDavSettings->saveSettings();
+}
+
 void DatabaseWidget::syncWithWebDav(const WebDavParams* params)
 {
     setDisabled(true);

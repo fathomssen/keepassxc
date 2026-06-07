@@ -26,6 +26,10 @@
 #include <QTabWidget>
 #include <QTimer>
 
+#ifdef KPXC_FEATURE_WEBDAV
+#include "webdav/WebDavParams.h"
+#endif
+
 class Database;
 class DatabaseWidget;
 class DatabaseWidgetStateSync;
@@ -86,6 +90,9 @@ public slots:
     void showDatabaseReports(bool state);
     void showDatabaseSettings(bool state);
     void showDatabaseSecurity();
+#ifdef KPXC_FEATURE_WEBDAV
+    void openDatabaseFromWebDav(WebDavParams params, const QString& password);
+#endif
 #ifdef KPXC_FEATURE_BROWSER
     void showPasskeys();
     void importPasskey();

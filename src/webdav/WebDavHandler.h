@@ -35,6 +35,8 @@ public:
         QString errorMessage;
         QString filePath;
         bool notModified = false; // true when served from local cache (304 or offline fallback)
+        QString etag;             // ETag from a successful 200 GET
+        QString lastModified;     // Last-Modified from a successful 200 GET
     };
 
     explicit WebDavHandler(QObject* parent = nullptr);

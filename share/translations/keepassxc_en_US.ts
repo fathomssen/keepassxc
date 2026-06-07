@@ -1,858 +1,860 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="en_US">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="en_US">
 <context>
     <name>AboutDialog</name>
     <message>
         <source>About KeePassXC</source>
-        <translation>About KeePassXC</translation>
+        <translation type="vanished">About KeePassXC</translation>
     </message>
     <message>
         <source>About</source>
-        <translation>About</translation>
+        <translation type="vanished">About</translation>
     </message>
     <message>
         <source>Report bugs at: &lt;a href=&quot;https://github.com/keepassxreboot/keepassxc/issues&quot; style=&quot;text-decoration: underline;&quot;&gt;https://github.com&lt;/a&gt;</source>
-        <translation>Report bugs at: &lt;a href=&quot;https://github.com/keepassxreboot/keepassxc/issues&quot; style=&quot;text-decoration: underline;&quot;&gt;https://github.com&lt;/a&gt;</translation>
+        <translation type="vanished">Report bugs at: &lt;a href=&quot;https://github.com/keepassxreboot/keepassxc/issues&quot; style=&quot;text-decoration: underline;&quot;&gt;https://github.com&lt;/a&gt;</translation>
     </message>
     <message>
         <source>KeePassXC is distributed under the terms of the GNU General Public License (GPL) version 2 or (at your option) version 3.</source>
-        <translation>KeePassXC is distributed under the terms of the GNU General Public License (GPL) version 2 or (at your option) version 3.</translation>
+        <translation type="vanished">KeePassXC is distributed under the terms of the GNU General Public License (GPL) version 2 or (at your option) version 3.</translation>
     </message>
     <message>
         <source>Project Maintainers:</source>
-        <translation>Project Maintainers:</translation>
+        <translation type="vanished">Project Maintainers:</translation>
     </message>
     <message>
         <source>Special thanks from the KeePassXC team go to debfx for creating the original KeePassX.</source>
-        <translation>Special thanks from the KeePassXC team go to debfx for creating the original KeePassX.</translation>
+        <translation type="vanished">Special thanks from the KeePassXC team go to debfx for creating the original KeePassX.</translation>
     </message>
     <message>
         <source>Contributors</source>
-        <translation>Contributors</translation>
+        <translation type="vanished">Contributors</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://github.com/keepassxreboot/keepassxc/graphs/contributors&quot;&gt;See Contributions on GitHub&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://github.com/keepassxreboot/keepassxc/graphs/contributors&quot;&gt;See Contributions on GitHub&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://github.com/keepassxreboot/keepassxc/graphs/contributors&quot;&gt;See Contributions on GitHub&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Debug Info</source>
-        <translation>Debug Info</translation>
+        <translation type="vanished">Debug Info</translation>
     </message>
     <message>
         <source>Include the following information whenever you report a bug:</source>
-        <translation>Include the following information whenever you report a bug:</translation>
+        <translation type="vanished">Include the following information whenever you report a bug:</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation>Copy to clipboard</translation>
+        <translation type="vanished">Copy to clipboard</translation>
     </message>
 </context>
 <context>
     <name>AccessControlDialog</name>
     <message>
         <source>KeePassXC -  Access Request</source>
-        <translation>KeePassXC -  Access Request</translation>
+        <translation type="vanished">KeePassXC -  Access Request</translation>
     </message>
     <message>
         <source>Non-existing/inaccessible executable path. Please double-check the client is legit.</source>
-        <translation>Non-existing/inaccessible executable path. Please double-check the client is legit.</translation>
+        <translation type="vanished">Non-existing/inaccessible executable path. Please double-check the client is legit.</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;%1 &lt;/span&gt;is requesting access to the following entries:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;%1 &lt;/span&gt;is requesting access to the following entries:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;%1 &lt;/span&gt;is requesting access to the following entries:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Name</translation>
+        <translation type="vanished">Name</translation>
     </message>
     <message>
         <source>PID</source>
-        <translation>PID</translation>
+        <translation type="vanished">PID</translation>
     </message>
     <message>
         <source>Executable</source>
-        <translation>Executable</translation>
+        <translation type="vanished">Executable</translation>
     </message>
     <message>
         <source>Command Line</source>
-        <translation>Command Line</translation>
+        <translation type="vanished">Command Line</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation>Details</translation>
+        <translation type="vanished">Details</translation>
     </message>
     <message>
         <source>Your decision will be remembered for the duration while both the requesting client AND KeePassXC are running.</source>
-        <translation>Your decision will be remembered for the duration while both the requesting client AND KeePassXC are running.</translation>
+        <translation type="vanished">Your decision will be remembered for the duration while both the requesting client AND KeePassXC are running.</translation>
     </message>
     <message>
         <source>Remember</source>
-        <translation>Remember</translation>
+        <translation type="vanished">Remember</translation>
     </message>
     <message>
         <source>Allow Selected</source>
-        <translation>Allow Selected</translation>
+        <translation type="vanished">Allow Selected</translation>
     </message>
     <message>
         <source>Deny All &amp;&amp; Future</source>
-        <translation>Deny All &amp;&amp; Future</translation>
+        <translation type="vanished">Deny All &amp;&amp; Future</translation>
     </message>
     <message>
         <source>Allow All &amp;&amp; &amp;Future</source>
-        <translation>Allow All &amp;&amp; &amp;Future</translation>
+        <translation type="vanished">Allow All &amp;&amp; &amp;Future</translation>
     </message>
 </context>
 <context>
     <name>AccessControlDialog::DenyButton</name>
     <message>
         <source>Deny for this program</source>
-        <translation>Deny for this program</translation>
+        <translation type="vanished">Deny for this program</translation>
     </message>
 </context>
 <context>
     <name>AgentSettingsWidget</name>
     <message>
         <source>Enable SSH Agent integration</source>
-        <translation>Enable SSH Agent integration</translation>
+        <translation type="vanished">Enable SSH Agent integration</translation>
     </message>
     <message>
         <source>Use Pageant</source>
-        <translation>Use Pageant</translation>
+        <translation type="vanished">Use Pageant</translation>
     </message>
     <message>
         <source>Use OpenSSH</source>
-        <translation>Use OpenSSH</translation>
+        <translation type="vanished">Use OpenSSH</translation>
     </message>
     <message>
         <source>Use both agents</source>
-        <translation>Use both agents</translation>
+        <translation type="vanished">Use both agents</translation>
     </message>
     <message>
         <source>SSH_AUTH_SOCK override</source>
-        <translation>SSH_AUTH_SOCK override</translation>
+        <translation type="vanished">SSH_AUTH_SOCK override</translation>
     </message>
     <message>
         <source>SSH_AUTH_SOCK value</source>
-        <translation>SSH_AUTH_SOCK value</translation>
+        <translation type="vanished">SSH_AUTH_SOCK value</translation>
     </message>
     <message>
         <source>(empty)</source>
-        <translation>(empty)</translation>
+        <translation type="vanished">(empty)</translation>
     </message>
     <message>
         <source>SSH_SK_PROVIDER value</source>
-        <translation>SSH_SK_PROVIDER value</translation>
+        <translation type="vanished">SSH_SK_PROVIDER value</translation>
     </message>
     <message>
         <source>SSH_SK_PROVIDER override</source>
-        <translation>SSH_SK_PROVIDER override</translation>
+        <translation type="vanished">SSH_SK_PROVIDER override</translation>
     </message>
     <message>
         <source>No SSH Agent socket available. Either make sure SSH_AUTH_SOCK environment variable exists or set an override.</source>
-        <translation>No SSH Agent socket available. Either make sure SSH_AUTH_SOCK environment variable exists or set an override.</translation>
+        <translation type="vanished">No SSH Agent socket available. Either make sure SSH_AUTH_SOCK environment variable exists or set an override.</translation>
     </message>
     <message>
         <source>SSH Agent connection is working!</source>
-        <translation>SSH Agent connection is working!</translation>
+        <translation type="vanished">SSH Agent connection is working!</translation>
     </message>
 </context>
 <context>
     <name>ApplicationSettingsWidget</name>
     <message>
         <source>Application Settings</source>
-        <translation>Application Settings</translation>
+        <translation type="vanished">Application Settings</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>General</translation>
+        <translation type="vanished">General</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation>Security</translation>
+        <translation type="vanished">Security</translation>
     </message>
     <message>
         <source>This setting cannot be enabled when minimize on unlock is enabled.</source>
-        <translation>This setting cannot be enabled when minimize on unlock is enabled.</translation>
+        <translation type="vanished">This setting cannot be enabled when minimize on unlock is enabled.</translation>
     </message>
     <message>
         <source>Access error for config file %1</source>
-        <translation>Access error for config file %1</translation>
+        <translation type="vanished">Access error for config file %1</translation>
     </message>
     <message>
         <source>Icon only</source>
-        <translation>Icon only</translation>
+        <translation type="vanished">Icon only</translation>
     </message>
     <message>
         <source>Text only</source>
-        <translation>Text only</translation>
+        <translation type="vanished">Text only</translation>
     </message>
     <message>
         <source>Text beside icon</source>
-        <translation>Text beside icon</translation>
+        <translation type="vanished">Text beside icon</translation>
     </message>
     <message>
         <source>Text under icon</source>
-        <translation>Text under icon</translation>
+        <translation type="vanished">Text under icon</translation>
     </message>
     <message>
         <source>Follow style</source>
-        <translation>Follow style</translation>
+        <translation type="vanished">Follow style</translation>
     </message>
     <message>
         <source>Monochrome</source>
-        <translation>Monochrome</translation>
+        <translation type="vanished">Monochrome</translation>
     </message>
     <message>
         <source>Monochrome (light)</source>
-        <translation>Monochrome (light)</translation>
+        <translation type="vanished">Monochrome (light)</translation>
     </message>
     <message>
         <source>Monochrome (dark)</source>
-        <translation>Monochrome (dark)</translation>
+        <translation type="vanished">Monochrome (dark)</translation>
     </message>
     <message>
         <source>Colorful</source>
-        <translation>Colorful</translation>
+        <translation type="vanished">Colorful</translation>
     </message>
     <message>
         <source>You must restart the application to set the new language. Would you like to restart now?</source>
-        <translation>You must restart the application to set the new language. Would you like to restart now?</translation>
+        <translation type="vanished">You must restart the application to set the new language. Would you like to restart now?</translation>
     </message>
     <message>
         <source>Select backup storage directory</source>
-        <translation>Select backup storage directory</translation>
+        <translation type="vanished">Select backup storage directory</translation>
     </message>
     <message>
         <source>Confirm Reset</source>
-        <translation>Confirm Reset</translation>
+        <translation type="vanished">Confirm Reset</translation>
     </message>
     <message>
         <source>Are you sure you want to reset all settings to default?</source>
-        <translation>Are you sure you want to reset all settings to default?</translation>
+        <translation type="vanished">Are you sure you want to reset all settings to default?</translation>
     </message>
     <message>
         <source>Import KeePassXC Settings</source>
-        <translation>Import KeePassXC Settings</translation>
+        <translation type="vanished">Import KeePassXC Settings</translation>
     </message>
     <message>
         <source>Failed to import settings from %1, not a valid settings file.</source>
-        <translation>Failed to import settings from %1, not a valid settings file.</translation>
+        <translation type="vanished">Failed to import settings from %1, not a valid settings file.</translation>
     </message>
     <message>
         <source>Export KeePassXC Settings</source>
-        <translation>Export KeePassXC Settings</translation>
+        <translation type="vanished">Export KeePassXC Settings</translation>
     </message>
     <message>
         <source>Small</source>
-        <translation>Small</translation>
+        <translation type="vanished">Small</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Normal</translation>
+        <translation type="vanished">Normal</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation>Medium</translation>
+        <translation type="vanished">Medium</translation>
     </message>
     <message>
         <source>Large</source>
-        <translation>Large</translation>
+        <translation type="vanished">Large</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Custom</translation>
+        <translation type="vanished">Custom</translation>
     </message>
 </context>
 <context>
     <name>ApplicationSettingsWidgetGeneral</name>
     <message>
         <source>Basic Settings</source>
-        <translation>Basic Settings</translation>
+        <translation type="vanished">Basic Settings</translation>
     </message>
     <message>
         <source>Startup</source>
-        <translation>Startup</translation>
+        <translation type="vanished">Startup</translation>
     </message>
     <message>
         <source>Start only a single instance of KeePassXC</source>
-        <translation>Start only a single instance of KeePassXC</translation>
+        <translation type="vanished">Start only a single instance of KeePassXC</translation>
     </message>
     <message>
         <source>Automatically launch KeePassXC at system startup</source>
-        <translation>Automatically launch KeePassXC at system startup</translation>
+        <translation type="vanished">Automatically launch KeePassXC at system startup</translation>
     </message>
     <message>
         <source>Minimize window at application startup</source>
-        <translation>Minimize window at application startup</translation>
+        <translation type="vanished">Minimize window at application startup</translation>
     </message>
     <message>
         <source>Minimize window after unlocking database</source>
-        <translation>Minimize window after unlocking database</translation>
+        <translation type="vanished">Minimize window after unlocking database</translation>
     </message>
     <message>
         <source>Remember previously used databases</source>
-        <translation>Remember previously used databases</translation>
+        <translation type="vanished">Remember previously used databases</translation>
     </message>
     <message>
         <source> recent files</source>
-        <translation> recent files</translation>
+        <translation type="vanished"> recent files</translation>
     </message>
     <message>
         <source>Load previously open databases on startup</source>
-        <translation>Load previously open databases on startup</translation>
+        <translation type="vanished">Load previously open databases on startup</translation>
     </message>
     <message>
         <source>Remember database key files and security dongles</source>
-        <translation>Remember database key files and security dongles</translation>
+        <translation type="vanished">Remember database key files and security dongles</translation>
     </message>
     <message>
         <source>Check for updates at application startup once per week</source>
-        <translation>Check for updates at application startup once per week</translation>
+        <translation type="vanished">Check for updates at application startup once per week</translation>
     </message>
     <message>
         <source>Include beta releases when checking for updates</source>
-        <translation>Include beta releases when checking for updates</translation>
+        <translation type="vanished">Include beta releases when checking for updates</translation>
     </message>
     <message>
         <source>File Management</source>
-        <translation>File Management</translation>
+        <translation type="vanished">File Management</translation>
     </message>
     <message>
         <source>Automatically save after every change</source>
-        <translation>Automatically save after every change</translation>
+        <translation type="vanished">Automatically save after every change</translation>
     </message>
     <message>
         <source>Automatically save when locking database</source>
-        <translation>Automatically save when locking database</translation>
+        <translation type="vanished">Automatically save when locking database</translation>
     </message>
     <message>
         <source>Automatically save non-data changes when locking database</source>
-        <translation>Automatically save non-data changes when locking database</translation>
+        <translation type="vanished">Automatically save non-data changes when locking database</translation>
     </message>
     <message>
         <source>Automatically reload the database when modified externally</source>
-        <translation>Automatically reload the database when modified externally</translation>
+        <translation type="vanished">Automatically reload the database when modified externally</translation>
     </message>
     <message>
         <source>Backup database file before saving</source>
-        <translation>Backup database file before saving</translation>
+        <translation type="vanished">Backup database file before saving</translation>
     </message>
     <message>
         <source>{DB_FILENAME}.old.kdbx</source>
-        <translation>{DB_FILENAME}.old.kdbx</translation>
+        <translation type="vanished">{DB_FILENAME}.old.kdbx</translation>
     </message>
     <message>
         <source>Use alternative saving method (may solve problems with Dropbox, Google Drive, GVFS, etc.)</source>
-        <translation>Use alternative saving method (may solve problems with Dropbox, Google Drive, GVFS, etc.)</translation>
+        <translation type="vanished">Use alternative saving method (may solve problems with Dropbox, Google Drive, GVFS, etc.)</translation>
     </message>
     <message>
         <source>Temporary file moved into place</source>
-        <translation>Temporary file moved into place</translation>
+        <translation type="vanished">Temporary file moved into place</translation>
     </message>
     <message>
         <source>Directly write to database file (dangerous)</source>
-        <translation>Directly write to database file (dangerous)</translation>
+        <translation type="vanished">Directly write to database file (dangerous)</translation>
     </message>
     <message>
         <source>Entry Management</source>
-        <translation>Entry Management</translation>
+        <translation type="vanished">Entry Management</translation>
     </message>
     <message>
         <source>Use group icon on entry creation</source>
-        <translation>Use group icon on entry creation</translation>
+        <translation type="vanished">Use group icon on entry creation</translation>
     </message>
     <message>
         <source>Minimize when opening a URL</source>
-        <translation>Minimize when opening a URL</translation>
+        <translation type="vanished">Minimize when opening a URL</translation>
     </message>
     <message>
         <source>Hide window when copying to clipboard</source>
-        <translation>Hide window when copying to clipboard</translation>
+        <translation type="vanished">Hide window when copying to clipboard</translation>
     </message>
     <message>
         <source>Minimize</source>
-        <translation>Minimize</translation>
+        <translation type="vanished">Minimize</translation>
     </message>
     <message>
         <source>Drop to background</source>
-        <translation>Drop to background</translation>
+        <translation type="vanished">Drop to background</translation>
     </message>
     <message>
         <source>Favicon download timeout:</source>
-        <translation>Favicon download timeout:</translation>
+        <translation type="vanished">Favicon download timeout:</translation>
     </message>
     <message>
         <source>Website icon download timeout in seconds</source>
-        <translation>Website icon download timeout in seconds</translation>
+        <translation type="vanished">Website icon download timeout in seconds</translation>
     </message>
     <message>
         <source> sec</source>
         <comment>Seconds</comment>
-        <translation> sec</translation>
+        <translation type="vanished"> sec</translation>
     </message>
     <message>
         <source>User Interface</source>
-        <translation>User Interface</translation>
+        <translation type="vanished">User Interface</translation>
     </message>
     <message>
         <source>Toolbar button style</source>
-        <translation>Toolbar button style</translation>
+        <translation type="vanished">Toolbar button style</translation>
     </message>
     <message>
         <source>Movable toolbar</source>
-        <translation>Movable toolbar</translation>
+        <translation type="vanished">Movable toolbar</translation>
     </message>
     <message>
         <source>Language selection</source>
-        <translation>Language selection</translation>
+        <translation type="vanished">Language selection</translation>
     </message>
     <message>
         <source>Language:</source>
-        <translation>Language:</translation>
+        <translation type="vanished">Language:</translation>
     </message>
     <message>
         <source>(restart program to activate)</source>
-        <translation>(restart program to activate)</translation>
+        <translation type="vanished">(restart program to activate)</translation>
     </message>
     <message>
         <source>Toolbar button style:</source>
-        <translation>Toolbar button style:</translation>
+        <translation type="vanished">Toolbar button style:</translation>
     </message>
     <message>
         <source>Show passwords in color</source>
-        <translation>Show passwords in color</translation>
+        <translation type="vanished">Show passwords in color</translation>
     </message>
     <message>
         <source>Use monospaced font for notes</source>
-        <translation>Use monospaced font for notes</translation>
+        <translation type="vanished">Use monospaced font for notes</translation>
     </message>
     <message>
         <source>Minimize instead of app exit</source>
-        <translation>Minimize instead of app exit</translation>
+        <translation type="vanished">Minimize instead of app exit</translation>
     </message>
     <message>
         <source>Show a system tray icon</source>
-        <translation>Show a system tray icon</translation>
+        <translation type="vanished">Show a system tray icon</translation>
     </message>
     <message>
         <source>Tray icon type</source>
-        <translation>Tray icon type</translation>
+        <translation type="vanished">Tray icon type</translation>
     </message>
     <message>
         <source>Tray icon type:</source>
-        <translation>Tray icon type:</translation>
+        <translation type="vanished">Tray icon type:</translation>
     </message>
     <message>
         <source>Hide window to system tray when minimized</source>
-        <translation>Hide window to system tray when minimized</translation>
+        <translation type="vanished">Hide window to system tray when minimized</translation>
     </message>
     <message>
         <source>Reset settings to default…</source>
-        <translation>Reset settings to default…</translation>
+        <translation type="vanished">Reset settings to default…</translation>
     </message>
     <message>
         <source>Auto-Type</source>
-        <translation>Auto-Type</translation>
+        <translation type="vanished">Auto-Type</translation>
     </message>
     <message>
         <source>Use entry title to match windows for global Auto-Type</source>
-        <translation>Use entry title to match windows for global Auto-Type</translation>
+        <translation type="vanished">Use entry title to match windows for global Auto-Type</translation>
     </message>
     <message>
         <source>Use entry URL to match windows for global Auto-Type</source>
-        <translation>Use entry URL to match windows for global Auto-Type</translation>
+        <translation type="vanished">Use entry URL to match windows for global Auto-Type</translation>
     </message>
     <message>
         <source>Always ask before performing Auto-Type</source>
-        <translation>Always ask before performing Auto-Type</translation>
+        <translation type="vanished">Always ask before performing Auto-Type</translation>
     </message>
     <message>
         <source>Hide expired entries from Auto-Type</source>
-        <translation>Hide expired entries from Auto-Type</translation>
+        <translation type="vanished">Hide expired entries from Auto-Type</translation>
     </message>
     <message>
         <source>Re-lock previously locked database after performing Auto-Type</source>
-        <translation>Re-lock previously locked database after performing Auto-Type</translation>
+        <translation type="vanished">Re-lock previously locked database after performing Auto-Type</translation>
     </message>
     <message>
         <source>Auto-Type start delay:</source>
-        <translation>Auto-Type start delay:</translation>
+        <translation type="vanished">Auto-Type start delay:</translation>
     </message>
     <message>
         <source>Global Auto-Type shortcut:</source>
-        <translation>Global Auto-Type shortcut:</translation>
+        <translation type="vanished">Global Auto-Type shortcut:</translation>
     </message>
     <message>
         <source>Auto-type start delay milliseconds</source>
-        <translation>Auto-type start delay milliseconds</translation>
+        <translation type="vanished">Auto-type start delay milliseconds</translation>
     </message>
     <message>
         <source> ms</source>
         <comment>Milliseconds</comment>
-        <translation> ms</translation>
+        <translation type="vanished"> ms</translation>
     </message>
     <message>
         <source>Auto-Type typing delay:</source>
-        <translation>Auto-Type typing delay:</translation>
+        <translation type="vanished">Auto-Type typing delay:</translation>
     </message>
     <message>
         <source>Global auto-type shortcut</source>
-        <translation>Global auto-type shortcut</translation>
+        <translation type="vanished">Global auto-type shortcut</translation>
     </message>
     <message>
         <source>Auto-type character typing delay milliseconds</source>
-        <translation>Auto-type character typing delay milliseconds</translation>
+        <translation type="vanished">Auto-type character typing delay milliseconds</translation>
     </message>
     <message>
         <source>Remember last typed entry for:</source>
-        <translation>Remember last typed entry for:</translation>
+        <translation type="vanished">Remember last typed entry for:</translation>
     </message>
     <message>
         <source>On database unlock, show entries that will expire within</source>
-        <translation>On database unlock, show entries that will expire within</translation>
+        <translation type="vanished">On database unlock, show entries that will expire within</translation>
     </message>
     <message>
         <source>On database unlock, show entries that will expire within </source>
-        <translation>On database unlock, show entries that will expire within </translation>
+        <translation type="vanished">On database unlock, show entries that will expire within </translation>
     </message>
     <message>
         <source> days</source>
         <comment>number of days warning for password expiration</comment>
-        <translation> days</translation>
+        <translation type="vanished"> days</translation>
     </message>
     <message>
         <source>Destination format:</source>
-        <translation>Destination format:</translation>
+        <translation type="vanished">Destination format:</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;{DB_FILENAME}&lt;/span&gt; is replaced with the filename of the saved database without extension&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;{TIME:&amp;lt;format&amp;gt;}&lt;/span&gt; is replaced with the specified time format (default: dd_MM_yyyy_hh-mm-ss)&lt;/p&gt;&lt;p&gt;See the User Guide for more details&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;{DB_FILENAME}&lt;/span&gt; is replaced with the filename of the saved database without extension&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;{TIME:&amp;lt;format&amp;gt;}&lt;/span&gt; is replaced with the specified time format (default: dd_MM_yyyy_hh-mm-ss)&lt;/p&gt;&lt;p&gt;See the User Guide for more details&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;{DB_FILENAME}&lt;/span&gt; is replaced with the filename of the saved database without extension&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;{TIME:&amp;lt;format&amp;gt;}&lt;/span&gt; is replaced with the specified time format (default: dd_MM_yyyy_hh-mm-ss)&lt;/p&gt;&lt;p&gt;See the User Guide for more details&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Choose folder...</source>
-        <translation>Choose folder...</translation>
+        <translation type="vanished">Choose folder...</translation>
     </message>
     <message>
         <source>Show confirmation before moving entries to recycle bin</source>
-        <translation>Show confirmation before moving entries to recycle bin</translation>
+        <translation type="vanished">Show confirmation before moving entries to recycle bin</translation>
     </message>
     <message>
         <source>Copy data on double clicking field in entry view</source>
-        <translation>Copy data on double clicking field in entry view</translation>
+        <translation type="vanished">Copy data on double clicking field in entry view</translation>
     </message>
     <message>
         <source>Show toolbar</source>
-        <translation>Show toolbar</translation>
+        <translation type="vanished">Show toolbar</translation>
     </message>
     <message>
         <source>Show the menu bar by pressing the Alt key</source>
-        <translation>Show the menu bar by pressing the Alt key</translation>
+        <translation type="vanished">Show the menu bar by pressing the Alt key</translation>
     </message>
     <message>
         <source>Show menubar</source>
-        <translation>Show menubar</translation>
+        <translation type="vanished">Show menubar</translation>
     </message>
     <message>
         <source>Import settings…</source>
-        <translation>Import settings…</translation>
+        <translation type="vanished">Import settings…</translation>
     </message>
     <message>
         <source>Export settings…</source>
-        <translation>Export settings…</translation>
+        <translation type="vanished">Export settings…</translation>
     </message>
     <message>
         <source>Open browser on double clicking URL field in entry view</source>
-        <translation>Open browser on double clicking URL field in entry view</translation>
+        <translation type="vanished">Open browser on double clicking URL field in entry view</translation>
     </message>
     <message>
         <source>Font size:</source>
-        <translation>Font size:</translation>
+        <translation type="vanished">Font size:</translation>
     </message>
     <message>
         <source>Font size selection</source>
-        <translation>Font size selection</translation>
+        <translation type="vanished">Font size selection</translation>
     </message>
     <message>
         <source>Skip confirmation for main window Auto-Type actions</source>
-        <translation>Skip confirmation for main window Auto-Type actions</translation>
+        <translation type="vanished">Skip confirmation for main window Auto-Type actions</translation>
     </message>
     <message>
         <source>Auto-generate password for new entries</source>
-        <translation>Auto-generate password for new entries</translation>
+        <translation type="vanished">Auto-generate password for new entries</translation>
     </message>
 </context>
 <context>
     <name>ApplicationSettingsWidgetSecurity</name>
     <message>
         <source>Timeouts</source>
-        <translation>Timeouts</translation>
+        <translation type="vanished">Timeouts</translation>
     </message>
     <message>
         <source>Database lock timeout seconds</source>
-        <translation>Database lock timeout seconds</translation>
+        <translation type="vanished">Database lock timeout seconds</translation>
     </message>
     <message>
         <source> sec</source>
         <comment>Seconds</comment>
-        <translation> sec</translation>
+        <translation type="vanished"> sec</translation>
     </message>
     <message>
         <source>Clear clipboard after</source>
-        <translation>Clear clipboard after</translation>
+        <translation type="vanished">Clear clipboard after</translation>
     </message>
     <message>
         <source>Clear search query after</source>
-        <translation>Clear search query after</translation>
+        <translation type="vanished">Clear search query after</translation>
     </message>
     <message>
         <source> min</source>
         <comment>Minutes</comment>
-        <translation> min</translation>
+        <translation type="vanished"> min</translation>
     </message>
     <message>
         <source>Clipboard clear seconds</source>
-        <translation>Clipboard clear seconds</translation>
+        <translation type="vanished">Clipboard clear seconds</translation>
     </message>
     <message>
         <source>Lock databases after inactivity of</source>
-        <translation>Lock databases after inactivity of</translation>
+        <translation type="vanished">Lock databases after inactivity of</translation>
     </message>
     <message>
         <source>Convenience</source>
-        <translation>Convenience</translation>
+        <translation type="vanished">Convenience</translation>
     </message>
     <message>
         <source>Enable database quick unlock (Touch ID / Windows Hello)</source>
-        <translation>Enable database quick unlock (Touch ID / Windows Hello)</translation>
+        <translation type="vanished">Enable database quick unlock (Touch ID / Windows Hello)</translation>
     </message>
     <message>
         <source>Lock databases when session is locked or lid is closed</source>
-        <translation>Lock databases when session is locked or lid is closed</translation>
+        <translation type="vanished">Lock databases when session is locked or lid is closed</translation>
     </message>
     <message>
         <source>Lock databases after minimizing the window</source>
-        <translation>Lock databases after minimizing the window</translation>
+        <translation type="vanished">Lock databases after minimizing the window</translation>
     </message>
     <message>
         <source>Hide passwords when editing them</source>
-        <translation>Hide passwords when editing them</translation>
+        <translation type="vanished">Hide passwords when editing them</translation>
     </message>
     <message>
         <source>Use placeholder for empty password fields</source>
-        <translation>Use placeholder for empty password fields</translation>
+        <translation type="vanished">Use placeholder for empty password fields</translation>
     </message>
     <message>
         <source>Hide passwords in the entry preview panel</source>
-        <translation>Hide passwords in the entry preview panel</translation>
+        <translation type="vanished">Hide passwords in the entry preview panel</translation>
     </message>
     <message>
         <source>Privacy</source>
-        <translation>Privacy</translation>
+        <translation type="vanished">Privacy</translation>
     </message>
     <message>
         <source>Use DuckDuckGo service to download website icons</source>
-        <translation>Use DuckDuckGo service to download website icons</translation>
+        <translation type="vanished">Use DuckDuckGo service to download website icons</translation>
     </message>
     <message>
         <source>Hide TOTP in the entry preview panel</source>
-        <translation>Hide TOTP in the entry preview panel</translation>
+        <translation type="vanished">Hide TOTP in the entry preview panel</translation>
     </message>
     <message>
         <source>Lock databases when switching user</source>
-        <translation>Lock databases when switching user</translation>
+        <translation type="vanished">Lock databases when switching user</translation>
     </message>
     <message>
         <source>Lock Options</source>
-        <translation>Lock Options</translation>
+        <translation type="vanished">Lock Options</translation>
     </message>
     <message>
         <source>Hide notes in the entry preview panel</source>
-        <translation>Hide notes in the entry preview panel</translation>
+        <translation type="vanished">Hide notes in the entry preview panel</translation>
     </message>
 </context>
 <context>
     <name>AttachmentWidget</name>
     <message>
         <source>Attachment Viewer</source>
-        <translation>Attachment Viewer</translation>
+        <translation type="vanished">Attachment Viewer</translation>
     </message>
     <message>
         <source>Unknown attachment type</source>
-        <translation>Unknown attachment type</translation>
+        <translation type="vanished">Unknown attachment type</translation>
     </message>
 </context>
 <context>
     <name>AutoType</name>
     <message>
         <source>The requested Auto-Type sequence cannot be used due to an error:</source>
-        <translation>The requested Auto-Type sequence cannot be used due to an error:</translation>
+        <translation type="vanished">The requested Auto-Type sequence cannot be used due to an error:</translation>
     </message>
     <message>
         <source>Auto-Type Error</source>
-        <translation>Auto-Type Error</translation>
+        <translation type="vanished">Auto-Type Error</translation>
     </message>
     <message>
         <source>Permission Required</source>
-        <translation>Permission Required</translation>
+        <translation type="vanished">Permission Required</translation>
     </message>
     <message>
         <source>KeePassXC requires the Accessibility permission in order to perform entry level Auto-Type. If you already granted permission, you may have to restart KeePassXC.</source>
-        <translation>KeePassXC requires the Accessibility permission in order to perform entry level Auto-Type. If you already granted permission, you may have to restart KeePassXC.</translation>
+        <translation type="vanished">KeePassXC requires the Accessibility permission in order to perform entry level Auto-Type. If you already granted permission, you may have to restart KeePassXC.</translation>
     </message>
     <message>
         <source>KeePassXC requires the Accessibility and Screen Recorder permission in order to perform global Auto-Type. Screen Recording is necessary to use the window title to find entries. If you already granted permission, you may have to restart KeePassXC.</source>
-        <translation>KeePassXC requires the Accessibility and Screen Recorder permission in order to perform global Auto-Type. Screen Recording is necessary to use the window title to find entries. If you already granted permission, you may have to restart KeePassXC.</translation>
+        <translation type="vanished">KeePassXC requires the Accessibility and Screen Recorder permission in order to perform global Auto-Type. Screen Recording is necessary to use the window title to find entries. If you already granted permission, you may have to restart KeePassXC.</translation>
     </message>
     <message>
         <source>Invalid entry provided</source>
-        <translation>Invalid entry provided</translation>
+        <translation type="vanished">Invalid entry provided</translation>
     </message>
     <message>
         <source>Bracket imbalance detected, found extra { or }</source>
-        <translation>Bracket imbalance detected, found extra { or }</translation>
+        <translation type="vanished">Bracket imbalance detected, found extra { or }</translation>
     </message>
     <message>
         <source>Too many repetitions detected, max is %1: %2</source>
-        <translation>Too many repetitions detected, max is %1: %2</translation>
+        <translation type="vanished">Too many repetitions detected, max is %1: %2</translation>
     </message>
     <message>
         <source>Very slow key press detected, max is %1: %2</source>
-        <translation>Very slow key press detected, max is %1: %2</translation>
+        <translation type="vanished">Very slow key press detected, max is %1: %2</translation>
     </message>
     <message>
         <source>Very long delay detected, max is %1: %2</source>
-        <translation>Very long delay detected, max is %1: %2</translation>
+        <translation type="vanished">Very long delay detected, max is %1: %2</translation>
     </message>
     <message>
         <source>Entry does not have attribute for PICKCHARS: %1</source>
-        <translation>Entry does not have attribute for PICKCHARS: %1</translation>
+        <translation type="vanished">Entry does not have attribute for PICKCHARS: %1</translation>
     </message>
     <message>
         <source>Invalid placeholder: %1</source>
-        <translation>Invalid placeholder: %1</translation>
+        <translation type="vanished">Invalid placeholder: %1</translation>
     </message>
     <message>
         <source>Entry has invalid TOTP settings</source>
-        <translation>Entry has invalid TOTP settings</translation>
+        <translation type="vanished">Entry has invalid TOTP settings</translation>
     </message>
 </context>
 <context>
     <name>AutoTypeAssociationsModel</name>
     <message>
         <source>Window</source>
-        <translation>Window</translation>
+        <translation type="vanished">Window</translation>
     </message>
     <message>
         <source>Sequence</source>
-        <translation>Sequence</translation>
+        <translation type="vanished">Sequence</translation>
     </message>
     <message>
         <source>(empty)</source>
-        <translation>(empty)</translation>
+        <translation type="vanished">(empty)</translation>
     </message>
     <message>
         <source>Default sequence</source>
-        <translation>Default sequence</translation>
+        <translation type="vanished">Default sequence</translation>
     </message>
 </context>
 <context>
     <name>AutoTypeMatchModel</name>
     <message>
         <source>Group</source>
-        <translation>Group</translation>
+        <translation type="vanished">Group</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation>Title</translation>
+        <translation type="vanished">Title</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Username</translation>
+        <translation type="vanished">Username</translation>
     </message>
     <message>
         <source>Sequence</source>
-        <translation>Sequence</translation>
+        <translation type="vanished">Sequence</translation>
     </message>
 </context>
 <context>
     <name>AutoTypePlatformX11</name>
     <message>
         <source>Sequence aborted: Caps Lock is on</source>
-        <translation>Sequence aborted: Caps Lock is on</translation>
+        <translation type="vanished">Sequence aborted: Caps Lock is on</translation>
     </message>
     <message>
         <source>Sequence aborted: Modifier keys held by user</source>
-        <translation>Sequence aborted: Modifier keys held by user</translation>
+        <translation type="vanished">Sequence aborted: Modifier keys held by user</translation>
     </message>
     <message>
         <source>Unable to get valid keycode for key: </source>
-        <translation>Unable to get valid keycode for key: </translation>
+        <translation type="vanished">Unable to get valid keycode for key: </translation>
     </message>
     <message>
         <source>Trying to send invalid keyboard symbol.</source>
-        <translation>Trying to send invalid keyboard symbol.</translation>
+        <translation type="vanished">Trying to send invalid keyboard symbol.</translation>
     </message>
 </context>
 <context>
     <name>AutoTypeSelectDialog</name>
     <message>
         <source>Auto-Type - KeePassXC</source>
-        <translation>Auto-Type - KeePassXC</translation>
+        <translation type="vanished">Auto-Type - KeePassXC</translation>
     </message>
     <message>
         <source>Double click a row to perform Auto-Type or find an entry using the search:</source>
-        <translation>Double click a row to perform Auto-Type or find an entry using the search:</translation>
+        <translation type="vanished">Double click a row to perform Auto-Type or find an entry using the search:</translation>
     </message>
     <message>
         <source>Search all open databases</source>
-        <translation>Search all open databases</translation>
+        <translation type="vanished">Search all open databases</translation>
     </message>
     <message>
         <source>Search…</source>
-        <translation>Search…</translation>
+        <translation type="vanished">Search…</translation>
     </message>
     <message>
         <source>Type Sequence</source>
-        <translation>Type Sequence</translation>
+        <translation type="vanished">Type Sequence</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancel</translation>
+        <translation type="vanished">Cancel</translation>
     </message>
     <message>
         <source>Type {USERNAME}</source>
-        <translation>Type {USERNAME}</translation>
+        <translation type="vanished">Type {USERNAME}</translation>
     </message>
     <message>
         <source>Type {PASSWORD}</source>
-        <translation>Type {PASSWORD}</translation>
+        <translation type="vanished">Type {PASSWORD}</translation>
     </message>
     <message>
         <source>Type {TOTP}</source>
-        <translation>Type {TOTP}</translation>
+        <translation type="vanished">Type {TOTP}</translation>
     </message>
     <message>
         <source>Copy Username</source>
-        <translation>Copy Username</translation>
+        <translation type="vanished">Copy Username</translation>
     </message>
     <message>
         <source>Copy Password</source>
-        <translation>Copy Password</translation>
+        <translation type="vanished">Copy Password</translation>
     </message>
     <message>
         <source>Copy TOTP</source>
-        <translation>Copy TOTP</translation>
+        <translation type="vanished">Copy TOTP</translation>
     </message>
     <message>
         <source>Use Virtual Keyboard</source>
-        <translation>Use Virtual Keyboard</translation>
+        <translation type="vanished">Use Virtual Keyboard</translation>
     </message>
     <message>
         <source>Type {URL}</source>
-        <translation>Type {URL}</translation>
+        <translation type="vanished">Type {URL}</translation>
     </message>
     <message>
         <source>Copy URL</source>
-        <translation>Copy URL</translation>
+        <translation type="vanished">Copy URL</translation>
     </message>
     <message>
         <source>&lt;p&gt;The following shortcuts are available:&lt;br/&gt;
@@ -867,7 +869,7 @@ Ctrl+Shift+2 - Copy password&lt;br/&gt;
 Ctrl+Shift+3 - Copy TOTP&lt;br/&gt;
 Ctrl+Shift+4 - Copy URL&lt;br/&gt;
 &lt;/p&gt;</source>
-        <translation>&lt;p&gt;The following shortcuts are available:&lt;br/&gt;
+        <translation type="vanished">&lt;p&gt;The following shortcuts are available:&lt;br/&gt;
 Ctrl+F - Focus search&lt;br/&gt;
 Ctrl+1 - Type username&lt;br/&gt;
 Ctrl+2 - Type password&lt;br/&gt;
@@ -882,139 +884,131 @@ Ctrl+Shift+4 - Copy URL&lt;br/&gt;
     </message>
     <message>
         <source>You can use advanced search queries to find any entry in your open databases.</source>
-        <translation>You can use advanced search queries to find any entry in your open databases.</translation>
-    </message>
-</context>
-<context>
-    <name>BinaryStream</name>
-    <message>
-        <source>Failed to read string data: %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>String length exceeds 10 MiB limit (requested %1)</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">You can use advanced search queries to find any entry in your open databases.</translation>
     </message>
 </context>
 <context>
     <name>BrowserAccessControlDialog</name>
     <message>
         <source>KeePassXC - Browser Access Request</source>
-        <translation>KeePassXC - Browser Access Request</translation>
+        <translation type="vanished">KeePassXC - Browser Access Request</translation>
     </message>
     <message>
         <source>%1 is requesting access to the following entries:</source>
-        <translation>%1 is requesting access to the following entries:</translation>
+        <translation type="vanished">%1 is requesting access to the following entries:</translation>
     </message>
     <message>
         <source>Remember access to checked entries</source>
-        <translation>Remember access to checked entries</translation>
+        <translation type="vanished">Remember access to checked entries</translation>
     </message>
     <message>
         <source>Remember</source>
-        <translation>Remember</translation>
+        <translation type="vanished">Remember</translation>
     </message>
     <message>
         <source>Allow access to entries</source>
-        <translation>Allow access to entries</translation>
+        <translation type="vanished">Allow access to entries</translation>
     </message>
     <message>
         <source>Allow Selected</source>
-        <translation>Allow Selected</translation>
+        <translation type="vanished">Allow Selected</translation>
     </message>
     <message>
         <source>Deny All</source>
-        <translation>Deny All</translation>
+        <translation type="vanished">Deny All</translation>
     </message>
     <message>
         <source>Disable for this site</source>
-        <translation>Disable for this site</translation>
+        <translation type="vanished">Disable for this site</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation>Undo</translation>
+        <translation type="vanished">Undo</translation>
     </message>
 </context>
 <context>
     <name>BrowserEntrySaveDialog</name>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancel</translation>
+        <translation type="vanished">Cancel</translation>
     </message>
     <message>
         <source>You have multiple databases open.
 Please select the correct database for saving credentials.</source>
-        <translation>You have multiple databases open.
+        <translation type="vanished">You have multiple databases open.
 Please select the correct database for saving credentials.</translation>
     </message>
     <message>
         <source>KeePassXC - Select Database</source>
-        <translation>KeePassXC - Select Database</translation>
+        <translation type="vanished">KeePassXC - Select Database</translation>
     </message>
 </context>
 <context>
     <name>BrowserPasskeysConfirmationDialog</name>
     <message>
         <source>Cancel</source>
-        <translation>Cancel</translation>
+        <translation type="vanished">Cancel</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation>Update</translation>
+        <translation type="vanished">Update</translation>
     </message>
     <message>
         <source>Authenticate</source>
-        <translation>Authenticate</translation>
+        <translation type="vanished">Authenticate</translation>
     </message>
     <message>
         <source>Register new</source>
-        <translation>Register new</translation>
+        <translation type="vanished">Register new</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation>Register</translation>
+        <translation type="vanished">Register</translation>
     </message>
     <message numerus="yes">
         <source>Timeout in &lt;b&gt;%n&lt;/b&gt; seconds...</source>
-        <translation><numerusform>Timeout in &lt;b&gt;%n&lt;/b&gt; second...</numerusform><numerusform>Timeout in &lt;b&gt;%n&lt;/b&gt; seconds...</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>Timeout in &lt;b&gt;%n&lt;/b&gt; second...</numerusform>
+            <numerusform>Timeout in &lt;b&gt;%n&lt;/b&gt; seconds...</numerusform>
+        </translation>
     </message>
     <message>
         <source>Relying Party: %1</source>
-        <translation>Relying Party: %1</translation>
+        <translation type="vanished">Relying Party: %1</translation>
     </message>
     <message>
         <source>Username: %1</source>
-        <translation>Username: %1</translation>
+        <translation type="vanished">Username: %1</translation>
     </message>
     <message>
         <source>KeePassXC - Passkey credentials</source>
-        <translation>KeePassXC - Passkey credentials</translation>
+        <translation type="vanished">KeePassXC - Passkey credentials</translation>
     </message>
     <message>
         <source>Add to existing entry</source>
-        <translation>Add to existing entry</translation>
+        <translation type="vanished">Add to existing entry</translation>
     </message>
     <message>
         <source>Existing passkey found.
 Do you want to register a new passkey for:</source>
-        <translation>Existing passkey found.
+        <translation type="vanished">Existing passkey found.
 Do you want to register a new passkey for:</translation>
     </message>
     <message>
         <source>Select the existing passkey and press Update to replace it.</source>
-        <translation>Select the existing passkey and press Update to replace it.</translation>
+        <translation type="vanished">Select the existing passkey and press Update to replace it.</translation>
     </message>
     <message>
         <source>Authenticate passkey credentials for:</source>
-        <translation>Authenticate passkey credentials for:</translation>
+        <translation type="vanished">Authenticate passkey credentials for:</translation>
     </message>
     <message>
         <source>Do you want to register a passkey for:</source>
-        <translation>Do you want to register a passkey for:</translation>
+        <translation type="vanished">Do you want to register a passkey for:</translation>
     </message>
 </context>
 <context>
@@ -1023,7 +1017,7 @@ Do you want to register a new passkey for:</translation>
         <source>A request for creating a new group &quot;%1&quot; has been received.
 Do you want to create this group?
 </source>
-        <translation>A request for creating a new group &quot;%1&quot; has been received.
+        <translation type="vanished">A request for creating a new group &quot;%1&quot; has been received.
 Do you want to create this group?
 </translation>
     </message>
@@ -1033,7 +1027,7 @@ Do you want to create this group?
 
 Give the connection a unique name or ID, for example:
 chrome-laptop.</source>
-        <translation>You have received an association request for the following database:
+        <translation type="vanished">You have received an association request for the following database:
 %1
 
 Give the connection a unique name or ID, for example:
@@ -1041,481 +1035,484 @@ chrome-laptop.</translation>
     </message>
     <message>
         <source>Save and allow access</source>
-        <translation>Save and allow access</translation>
+        <translation type="vanished">Save and allow access</translation>
     </message>
     <message>
         <source>A shared encryption key with the name &quot;%1&quot; already exists.
 Do you want to overwrite it?</source>
-        <translation>A shared encryption key with the name &quot;%1&quot; already exists.
+        <translation type="vanished">A shared encryption key with the name &quot;%1&quot; already exists.
 Do you want to overwrite it?</translation>
     </message>
     <message>
         <source>Do you want to update the information in %1 - %2?</source>
-        <translation>Do you want to update the information in %1 - %2?</translation>
+        <translation type="vanished">Do you want to update the information in %1 - %2?</translation>
     </message>
     <message>
         <source>A request for deleting entry &quot;%1&quot; has been received.
 Do you want to delete the entry?
 </source>
-        <translation>A request for deleting entry &quot;%1&quot; has been received.
+        <translation type="vanished">A request for deleting entry &quot;%1&quot; has been received.
 Do you want to delete the entry?
 </translation>
     </message>
     <message>
         <source>%1 (Passkey)</source>
-        <translation>%1 (Passkey)</translation>
+        <translation type="vanished">%1 (Passkey)</translation>
     </message>
     <message>
         <source>KeePassXC - Create a new group</source>
-        <translation>KeePassXC - Create a new group</translation>
+        <translation type="vanished">KeePassXC - Create a new group</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation>Disable</translation>
+        <translation type="vanished">Disable</translation>
     </message>
     <message>
         <source>KeePassXC - Overwrite existing key?</source>
-        <translation>KeePassXC - Overwrite existing key?</translation>
+        <translation type="vanished">KeePassXC - Overwrite existing key?</translation>
     </message>
     <message>
         <source>KeePassXC - Update Entry</source>
-        <translation>KeePassXC - Update Entry</translation>
+        <translation type="vanished">KeePassXC - Update Entry</translation>
     </message>
     <message>
         <source>KeePassXC - Delete entry</source>
-        <translation>KeePassXC - Delete entry</translation>
+        <translation type="vanished">KeePassXC - Delete entry</translation>
     </message>
     <message>
         <source>KeePassXC - New key association request</source>
-        <translation>KeePassXC - New key association request</translation>
+        <translation type="vanished">KeePassXC - New key association request</translation>
     </message>
     <message>
         <source>Passkey</source>
-        <translation>Passkey</translation>
+        <translation type="vanished">Passkey</translation>
     </message>
     <message>
         <source>KeePassXC - Passkey credentials</source>
-        <translation>KeePassXC - Passkey credentials</translation>
+        <translation type="vanished">KeePassXC - Passkey credentials</translation>
     </message>
     <message>
         <source>Register a new passkey to this entry:</source>
-        <translation>Register a new passkey to this entry:</translation>
+        <translation type="vanished">Register a new passkey to this entry:</translation>
     </message>
     <message>
         <source>KeePassXC - Update passkey</source>
-        <translation>KeePassXC - Update passkey</translation>
+        <translation type="vanished">KeePassXC - Update passkey</translation>
     </message>
     <message>
         <source>Entry already has a passkey.
 Do you want to overwrite the passkey in %1 - %2?</source>
-        <translation>Entry already has a passkey.
+        <translation type="vanished">Entry already has a passkey.
 Do you want to overwrite the passkey in %1 - %2?</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation>Register</translation>
+        <translation type="vanished">Register</translation>
     </message>
 </context>
 <context>
     <name>BrowserSettingsWidget</name>
     <message>
         <source>Dialog</source>
-        <translation>Dialog</translation>
+        <translation type="vanished">Dialog</translation>
     </message>
     <message>
         <source>This is required for accessing your databases with KeePassXC-Browser</source>
-        <translation>This is required for accessing your databases with KeePassXC-Browser</translation>
+        <translation type="vanished">This is required for accessing your databases with KeePassXC-Browser</translation>
     </message>
     <message>
         <source>Enable browser integration</source>
-        <translation>Enable browser integration</translation>
+        <translation type="vanished">Enable browser integration</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>General</translation>
+        <translation type="vanished">General</translation>
     </message>
     <message>
         <source>Enable integration for these browsers:</source>
-        <translation>Enable integration for these browsers:</translation>
+        <translation type="vanished">Enable integration for these browsers:</translation>
     </message>
     <message>
         <source>Vivaldi</source>
-        <translation>Vivaldi</translation>
+        <translation type="vanished">Vivaldi</translation>
     </message>
     <message>
         <source>&amp;Edge</source>
-        <translation>&amp;Edge</translation>
+        <translation type="vanished">&amp;Edge</translation>
     </message>
     <message>
         <source>Firefox</source>
-        <translation>Firefox</translation>
+        <translation type="vanished">Firefox</translation>
     </message>
     <message>
         <source>Tor Browser</source>
-        <translation>Tor Browser</translation>
+        <translation type="vanished">Tor Browser</translation>
     </message>
     <message>
         <source>Brave</source>
-        <translation>Brave</translation>
+        <translation type="vanished">Brave</translation>
     </message>
     <message>
         <source>Google Chrome</source>
-        <translation>Google Chrome</translation>
+        <translation type="vanished">Google Chrome</translation>
     </message>
     <message>
         <source>Chromium</source>
-        <translation>Chromium</translation>
+        <translation type="vanished">Chromium</translation>
     </message>
     <message>
         <source>Show a notification when credentials are requested</source>
         <extracomment>Credentials mean login data requested via browser extension</extracomment>
-        <translation>Show a notification when credentials are requested</translation>
+        <translation type="vanished">Show a notification when credentials are requested</translation>
     </message>
     <message>
         <source>Request to unlock the database if it is locked</source>
-        <translation>Request to unlock the database if it is locked</translation>
+        <translation type="vanished">Request to unlock the database if it is locked</translation>
     </message>
     <message>
         <source>Only entries with the same scheme (http://, https://, …) are returned.</source>
-        <translation>Only entries with the same scheme (http://, https://, …) are returned.</translation>
+        <translation type="vanished">Only entries with the same scheme (http://, https://, …) are returned.</translation>
     </message>
     <message>
         <source>Match URL scheme (e.g., https://example.com)</source>
-        <translation>Match URL scheme (e.g., https://example.com)</translation>
+        <translation type="vanished">Match URL scheme (e.g., https://example.com)</translation>
     </message>
     <message>
         <source>Only returns the best matches for a specific URL instead of all entries for the whole domain.</source>
-        <translation>Only returns the best matches for a specific URL instead of all entries for the whole domain.</translation>
+        <translation type="vanished">Only returns the best matches for a specific URL instead of all entries for the whole domain.</translation>
     </message>
     <message>
         <source>Return only best-matching credentials</source>
-        <translation>Return only best-matching credentials</translation>
+        <translation type="vanished">Return only best-matching credentials</translation>
     </message>
     <message>
         <source>Returns expired credentials. String [expired] is added to the title.</source>
-        <translation>Returns expired credentials. String [expired] is added to the title.</translation>
+        <translation type="vanished">Returns expired credentials. String [expired] is added to the title.</translation>
     </message>
     <message>
         <source>Allow returning expired credentials</source>
-        <translation>Allow returning expired credentials</translation>
+        <translation type="vanished">Allow returning expired credentials</translation>
     </message>
     <message>
         <source>All databases connected to the extension will return matching credentials.</source>
-        <translation>All databases connected to the extension will return matching credentials.</translation>
+        <translation type="vanished">All databases connected to the extension will return matching credentials.</translation>
     </message>
     <message>
         <source>Search in all opened databases for matching credentials</source>
         <extracomment>Credentials mean login data requested via browser extension</extracomment>
-        <translation>Search in all opened databases for matching credentials</translation>
+        <translation type="vanished">Search in all opened databases for matching credentials</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation>Advanced</translation>
+        <translation type="vanished">Advanced</translation>
     </message>
     <message>
         <source>Never ask before accessing credentials</source>
         <extracomment>Credentials mean login data requested via browser extension</extracomment>
-        <translation>Never ask before accessing credentials</translation>
+        <translation type="vanished">Never ask before accessing credentials</translation>
     </message>
     <message>
         <source>Never ask before updating credentials</source>
         <extracomment>Credentials mean login data requested via browser extension</extracomment>
-        <translation>Never ask before updating credentials</translation>
+        <translation type="vanished">Never ask before updating credentials</translation>
     </message>
     <message>
         <source>Do not ask permission for HTTP Basic Auth</source>
         <extracomment>An extra HTTP Basic Auth setting</extracomment>
-        <translation>Do not ask permission for HTTP Basic Auth</translation>
+        <translation type="vanished">Do not ask permission for HTTP Basic Auth</translation>
     </message>
     <message>
         <source>Automatically creating or updating string fields is not supported.</source>
-        <translation>Automatically creating or updating string fields is not supported.</translation>
+        <translation type="vanished">Automatically creating or updating string fields is not supported.</translation>
     </message>
     <message>
         <source>Return advanced string fields which start with &quot;KPH: &quot;</source>
-        <translation>Return advanced string fields which start with &quot;KPH: &quot;</translation>
+        <translation type="vanished">Return advanced string fields which start with &quot;KPH: &quot;</translation>
     </message>
     <message>
         <source>Don&apos;t display the popup suggesting migration of legacy KeePassHTTP settings.</source>
-        <translation>Don&apos;t display the popup suggesting migration of legacy KeePassHTTP settings.</translation>
+        <translation type="vanished">Don&apos;t display the popup suggesting migration of legacy KeePassHTTP settings.</translation>
     </message>
     <message>
         <source>Do not prompt for KeePassHTTP settings migration.</source>
-        <translation>Do not prompt for KeePassHTTP settings migration.</translation>
+        <translation type="vanished">Do not prompt for KeePassHTTP settings migration.</translation>
     </message>
     <message>
         <source>Updates KeePassXC or keepassxc-proxy binary path automatically to native messaging scripts on startup.</source>
-        <translation>Updates KeePassXC or keepassxc-proxy binary path automatically to native messaging scripts on startup.</translation>
+        <translation type="vanished">Updates KeePassXC or keepassxc-proxy binary path automatically to native messaging scripts on startup.</translation>
     </message>
     <message>
         <source>Update native messaging manifest files at startup</source>
-        <translation>Update native messaging manifest files at startup</translation>
+        <translation type="vanished">Update native messaging manifest files at startup</translation>
     </message>
     <message>
         <source>Use a custom proxy location if you installed a proxy manually.</source>
-        <translation>Use a custom proxy location if you installed a proxy manually.</translation>
+        <translation type="vanished">Use a custom proxy location if you installed a proxy manually.</translation>
     </message>
     <message>
         <source>Use a custom proxy location:</source>
         <comment>Meant is the proxy for KeePassXC-Browser</comment>
-        <translation>Use a custom proxy location:</translation>
+        <translation type="vanished">Use a custom proxy location:</translation>
     </message>
     <message>
         <source>Custom proxy location field</source>
-        <translation>Custom proxy location field</translation>
+        <translation type="vanished">Custom proxy location field</translation>
     </message>
     <message>
         <source>Browser for custom proxy file</source>
-        <translation>Browser for custom proxy file</translation>
+        <translation type="vanished">Browser for custom proxy file</translation>
     </message>
     <message>
         <source>Browse…</source>
         <extracomment>Button for opening file dialog</extracomment>
-        <translation>Browse…</translation>
+        <translation type="vanished">Browse…</translation>
     </message>
     <message>
         <source>Use a custom browser configuration location:</source>
-        <translation>Use a custom browser configuration location:</translation>
+        <translation type="vanished">Use a custom browser configuration location:</translation>
     </message>
     <message>
         <source>Browser type:</source>
-        <translation>Browser type:</translation>
+        <translation type="vanished">Browser type:</translation>
     </message>
     <message>
         <source>Toolbar button style</source>
-        <translation>Toolbar button style</translation>
+        <translation type="vanished">Toolbar button style</translation>
     </message>
     <message>
         <source>Config Location:</source>
-        <translation>Config Location:</translation>
+        <translation type="vanished">Config Location:</translation>
     </message>
     <message>
         <source>Custom browser location field</source>
-        <translation>Custom browser location field</translation>
+        <translation type="vanished">Custom browser location field</translation>
     </message>
     <message>
         <source>Browse for custom browser path</source>
-        <translation>Browse for custom browser path</translation>
+        <translation type="vanished">Browse for custom browser path</translation>
     </message>
     <message>
         <source>Custom extension ID:</source>
-        <translation>Custom extension ID:</translation>
+        <translation type="vanished">Custom extension ID:</translation>
     </message>
     <message>
         <source>Custom extension ID</source>
-        <translation>Custom extension ID</translation>
+        <translation type="vanished">Custom extension ID</translation>
     </message>
     <message>
         <source>Executable Files</source>
-        <translation>Executable Files</translation>
+        <translation type="vanished">Executable Files</translation>
     </message>
     <message>
         <source>All Files</source>
-        <translation>All Files</translation>
+        <translation type="vanished">All Files</translation>
     </message>
     <message>
         <source>Select custom proxy location</source>
-        <translation>Select custom proxy location</translation>
+        <translation type="vanished">Select custom proxy location</translation>
     </message>
     <message>
         <source>Select native messaging host folder location</source>
-        <translation>Select native messaging host folder location</translation>
+        <translation type="vanished">Select native messaging host folder location</translation>
     </message>
     <message>
         <source>Allow keepassxc-proxy to list all entries with their title, URL and UUID in connected databases.</source>
-        <translation>Allow keepassxc-proxy to list all entries with their title, URL and UUID in connected databases.</translation>
+        <translation type="vanished">Allow keepassxc-proxy to list all entries with their title, URL and UUID in connected databases.</translation>
     </message>
     <message>
         <source>Allow limited access to all entries in connected databases (ignores site access restrictions)</source>
-        <translation>Allow limited access to all entries in connected databases (ignores site access restrictions)</translation>
+        <translation type="vanished">Allow limited access to all entries in connected databases (ignores site access restrictions)</translation>
     </message>
     <message>
         <source>&lt;b&gt;Warning:&lt;/b&gt; Only adjust these settings if necessary.</source>
-        <translation>&lt;b&gt;Warning:&lt;/b&gt; Only adjust these settings if necessary.</translation>
+        <translation type="vanished">&lt;b&gt;Warning:&lt;/b&gt; Only adjust these settings if necessary.</translation>
     </message>
     <message>
         <source>The custom proxy location does not exist.</source>
-        <translation>The custom proxy location does not exist.</translation>
+        <translation type="vanished">The custom proxy location does not exist.</translation>
     </message>
     <message>
         <source>&lt;b&gt;Error:&lt;/b&gt; The custom proxy location does not exist. Correct this in the advanced settings tab.</source>
-        <translation>&lt;b&gt;Error:&lt;/b&gt; The custom proxy location does not exist. Correct this in the advanced settings tab.</translation>
+        <translation type="vanished">&lt;b&gt;Error:&lt;/b&gt; The custom proxy location does not exist. Correct this in the advanced settings tab.</translation>
     </message>
     <message>
         <source>&lt;b&gt;Error:&lt;/b&gt; The installed proxy executable is missing from the expected location: %1&lt;br/&gt;Please set a custom proxy location in the advanced settings or reinstall the application.</source>
-        <translation>&lt;b&gt;Error:&lt;/b&gt; The installed proxy executable is missing from the expected location: %1&lt;br/&gt;Please set a custom proxy location in the advanced settings or reinstall the application.</translation>
+        <translation type="vanished">&lt;b&gt;Error:&lt;/b&gt; The installed proxy executable is missing from the expected location: %1&lt;br/&gt;Please set a custom proxy location in the advanced settings or reinstall the application.</translation>
     </message>
     <message>
         <source>Allows using insecure http://localhost with passkeys for testing purposes.</source>
-        <translation>Allows using insecure http://localhost with passkeys for testing purposes.</translation>
+        <translation type="vanished">Allows using insecure http://localhost with passkeys for testing purposes.</translation>
     </message>
     <message>
         <source>Allow using localhost with passkeys</source>
-        <translation>Allow using localhost with passkeys</translation>
+        <translation type="vanished">Allow using localhost with passkeys</translation>
     </message>
     <message>
         <source>KeePassXC-Browser is needed for the browser integration to work. &lt;br /&gt;Download it for %1 and %2 and %3.</source>
-        <translation>KeePassXC-Browser is needed for the browser integration to work. &lt;br /&gt;Download it for %1 and %2 and %3.</translation>
+        <translation type="vanished">KeePassXC-Browser is needed for the browser integration to work. &lt;br /&gt;Download it for %1 and %2 and %3.</translation>
     </message>
     <message>
         <source>Browsers installed using Snap or Flatpak are not supported with exception to Firefox installed using Snap.</source>
-        <translation>Browsers installed using Snap or Flatpak are not supported with exception to Firefox installed using Snap.</translation>
+        <translation type="vanished">Browsers installed using Snap or Flatpak are not supported with exception to Firefox installed using Snap.</translation>
     </message>
 </context>
 <context>
     <name>CloneDialog</name>
     <message>
         <source>Clone Entry Options</source>
-        <translation>Clone Entry Options</translation>
+        <translation type="vanished">Clone Entry Options</translation>
     </message>
     <message>
         <source>Append &apos; - Clone&apos; to title</source>
-        <translation>Append &apos; - Clone&apos; to title</translation>
+        <translation type="vanished">Append &apos; - Clone&apos; to title</translation>
     </message>
     <message>
         <source>Replace username and password with references</source>
-        <translation>Replace username and password with references</translation>
+        <translation type="vanished">Replace username and password with references</translation>
     </message>
     <message>
         <source>Copy history</source>
-        <translation>Copy history</translation>
+        <translation type="vanished">Copy history</translation>
     </message>
 </context>
 <context>
     <name>CsvImportWidget</name>
     <message>
         <source>size, rows, columns</source>
-        <translation>size, rows, columns</translation>
+        <translation type="vanished">size, rows, columns</translation>
     </message>
     <message>
         <source>Column Association</source>
-        <translation>Column Association</translation>
+        <translation type="vanished">Column Association</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Password</translation>
+        <translation type="vanished">Password</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Username</translation>
+        <translation type="vanished">Username</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation>Title</translation>
+        <translation type="vanished">Title</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Group</translation>
+        <translation type="vanished">Group</translation>
     </message>
     <message>
         <source>URL</source>
-        <translation>URL</translation>
+        <translation type="vanished">URL</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation>Notes</translation>
+        <translation type="vanished">Notes</translation>
     </message>
     <message>
         <source>TOTP</source>
-        <translation>TOTP</translation>
+        <translation type="vanished">TOTP</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation>Created</translation>
+        <translation type="vanished">Created</translation>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation>Last Modified</translation>
+        <translation type="vanished">Last Modified</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation>Icon</translation>
+        <translation type="vanished">Icon</translation>
     </message>
     <message>
         <source>Encoding</source>
-        <translation>Encoding</translation>
+        <translation type="vanished">Encoding</translation>
     </message>
     <message>
         <source>Codec</source>
-        <translation>Codec</translation>
+        <translation type="vanished">Codec</translation>
     </message>
     <message>
         <source>Text is qualified by</source>
-        <translation>Text is qualified by</translation>
+        <translation type="vanished">Text is qualified by</translation>
     </message>
     <message>
         <source>Text qualification</source>
-        <translation>Text qualification</translation>
+        <translation type="vanished">Text qualification</translation>
     </message>
     <message>
         <source>Fields are separated by</source>
-        <translation>Fields are separated by</translation>
+        <translation type="vanished">Fields are separated by</translation>
     </message>
     <message>
         <source>Field separation</source>
-        <translation>Field separation</translation>
+        <translation type="vanished">Field separation</translation>
     </message>
     <message>
         <source>Comments start with</source>
-        <translation>Comments start with</translation>
+        <translation type="vanished">Comments start with</translation>
     </message>
     <message>
         <source>Header lines skipped</source>
-        <translation>Header lines skipped</translation>
+        <translation type="vanished">Header lines skipped</translation>
     </message>
     <message>
         <source>Number of header lines to discard</source>
-        <translation>Number of header lines to discard</translation>
+        <translation type="vanished">Number of header lines to discard</translation>
     </message>
     <message>
         <source>First line has field names</source>
-        <translation>First line has field names</translation>
+        <translation type="vanished">First line has field names</translation>
     </message>
     <message>
         <source>Consider &apos;\&apos; an escape character</source>
-        <translation>Consider &apos;\&apos; an escape character</translation>
+        <translation type="vanished">Consider &apos;\&apos; an escape character</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Preview</translation>
+        <translation type="vanished">Preview</translation>
     </message>
     <message>
         <source>CSV import preview</source>
-        <translation>CSV import preview</translation>
+        <translation type="vanished">CSV import preview</translation>
     </message>
     <message>
         <source>Not Present</source>
-        <translation>Not Present</translation>
+        <translation type="vanished">Not Present</translation>
     </message>
     <message>
         <source>Column %1</source>
-        <translation>Column %1</translation>
+        <translation type="vanished">Column %1</translation>
     </message>
     <message numerus="yes">
         <source>[%n more message(s) skipped]</source>
-        <translation><numerusform>[%n more message skipped]</numerusform><numerusform>[%n more messages skipped]</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>[%n more message skipped]</numerusform>
+            <numerusform>[%n more messages skipped]</numerusform>
+        </translation>
     </message>
     <message>
         <source>Failed to parse CSV file: %1</source>
-        <translation>Failed to parse CSV file: %1</translation>
+        <translation type="vanished">Failed to parse CSV file: %1</translation>
     </message>
     <message>
         <source>Imported from CSV file: %1</source>
-        <translation>Imported from CSV file: %1</translation>
+        <translation type="vanished">Imported from CSV file: %1</translation>
     </message>
     <message>
         <source>No Title Selected</source>
-        <translation>No Title Selected</translation>
+        <translation type="vanished">No Title Selected</translation>
     </message>
     <message>
         <source>No title column was selected, entries will be hard to tell apart.
 Are you sure you want to import?</source>
-        <translation>No title column was selected, entries will be hard to tell apart.
+        <translation type="vanished">No title column was selected, entries will be hard to tell apart.
 Are you sure you want to import?</translation>
     </message>
     <message>
         <source>Tags</source>
-        <translation>Tags</translation>
+        <translation type="vanished">Tags</translation>
     </message>
 </context>
 <context>
@@ -1523,12 +1520,18 @@ Are you sure you want to import?</translation>
     <message numerus="yes">
         <source>%n row(s)</source>
         <comment>CSV row count</comment>
-        <translation><numerusform>%n row</numerusform><numerusform>%n rows</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>%n row</numerusform>
+            <numerusform>%n rows</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%n column(s)</source>
         <comment>CSV column count</comment>
-        <translation><numerusform>%n column</numerusform><numerusform>%n columns</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>%n column</numerusform>
+            <numerusform>%n columns</numerusform>
+        </translation>
     </message>
 </context>
 <context>
@@ -1536,115 +1539,115 @@ Are you sure you want to import?</translation>
     <message>
         <source>Passwords</source>
         <comment>Root group name</comment>
-        <translation>Passwords</translation>
+        <translation type="vanished">Passwords</translation>
     </message>
     <message>
         <source>File %1 does not exist.</source>
-        <translation>File %1 does not exist.</translation>
+        <translation type="vanished">File %1 does not exist.</translation>
     </message>
     <message>
         <source>Unable to open file %1.</source>
-        <translation>Unable to open file %1.</translation>
+        <translation type="vanished">Unable to open file %1.</translation>
     </message>
     <message>
         <source>Error while reading the database: %1</source>
-        <translation>Error while reading the database: %1</translation>
+        <translation type="vanished">Error while reading the database: %1</translation>
     </message>
     <message>
         <source>Could not save, database does not point to a valid file.</source>
-        <translation>Could not save, database does not point to a valid file.</translation>
+        <translation type="vanished">Could not save, database does not point to a valid file.</translation>
     </message>
     <message>
         <source>Database save is already in progress.</source>
-        <translation>Database save is already in progress.</translation>
+        <translation type="vanished">Database save is already in progress.</translation>
     </message>
     <message>
         <source>Could not save, database has not been initialized!</source>
-        <translation>Could not save, database has not been initialized!</translation>
+        <translation type="vanished">Could not save, database has not been initialized!</translation>
     </message>
     <message>
         <source>Database file has unmerged changes.</source>
-        <translation>Database file has unmerged changes.</translation>
+        <translation type="vanished">Database file has unmerged changes.</translation>
     </message>
     <message>
         <source>%1
 Backup database located at %2</source>
-        <translation>%1
+        <translation type="vanished">%1
 Backup database located at %2</translation>
     </message>
     <message>
         <source>Key not transformed. This is a bug, please report it to the developers.</source>
-        <translation>Key not transformed. This is a bug, please report it to the developers.</translation>
+        <translation type="vanished">Key not transformed. This is a bug, please report it to the developers.</translation>
     </message>
     <message>
         <source>Recycle Bin</source>
-        <translation>Recycle Bin</translation>
+        <translation type="vanished">Recycle Bin</translation>
     </message>
     <message>
         <source>Database file read error.</source>
-        <translation>Database file read error.</translation>
+        <translation type="vanished">Database file read error.</translation>
     </message>
     <message>
         <source>No file path was provided.</source>
-        <translation>No file path was provided.</translation>
+        <translation type="vanished">No file path was provided.</translation>
     </message>
 </context>
 <context>
     <name>DatabaseOpenDialog</name>
     <message>
         <source>Unlock Database - KeePassXC</source>
-        <translation>Unlock Database - KeePassXC</translation>
+        <translation type="vanished">Unlock Database - KeePassXC</translation>
     </message>
 </context>
 <context>
     <name>DatabaseOpenWidget</name>
     <message>
         <source>Unlock KeePassXC Database</source>
-        <translation>Unlock KeePassXC Database</translation>
+        <translation type="vanished">Unlock KeePassXC Database</translation>
     </message>
     <message>
         <source>Enter Password:</source>
-        <translation>Enter Password:</translation>
+        <translation type="vanished">Enter Password:</translation>
     </message>
     <message>
         <source>Password field</source>
-        <translation>Password field</translation>
+        <translation type="vanished">Password field</translation>
     </message>
     <message>
         <source>Hardware key slot selection</source>
-        <translation>Hardware key slot selection</translation>
+        <translation type="vanished">Hardware key slot selection</translation>
     </message>
     <message>
         <source>Key file to unlock the database</source>
-        <translation>Key file to unlock the database</translation>
+        <translation type="vanished">Key file to unlock the database</translation>
     </message>
     <message>
         <source>Browse for key file</source>
-        <translation>Browse for key file</translation>
+        <translation type="vanished">Browse for key file</translation>
     </message>
     <message>
         <source>Browse…</source>
-        <translation>Browse…</translation>
+        <translation type="vanished">Browse…</translation>
     </message>
     <message>
         <source>Unlock Database</source>
-        <translation>Unlock Database</translation>
+        <translation type="vanished">Unlock Database</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancel</translation>
+        <translation type="vanished">Cancel</translation>
     </message>
     <message>
         <source>Unlock</source>
-        <translation>Unlock</translation>
+        <translation type="vanished">Unlock</translation>
     </message>
     <message>
         <source>Please present or touch your YubiKey to continue…</source>
-        <translation>Please present or touch your YubiKey to continue…</translation>
+        <translation type="vanished">Please present or touch your YubiKey to continue…</translation>
     </message>
     <message>
         <source>Database Version Mismatch</source>
-        <translation>Database Version Mismatch</translation>
+        <translation type="vanished">Database Version Mismatch</translation>
     </message>
     <message>
         <source>The database you are trying to open was most likely
@@ -1654,7 +1657,7 @@ You can try to open it anyway, but it may be incomplete
 and saving any changes may incur data loss.
 
 We recommend you update your KeePassXC installation.</source>
-        <translation>The database you are trying to open was most likely
+        <translation type="vanished">The database you are trying to open was most likely
 created by a newer version of KeePassXC.
 
 You can try to open it anyway, but it may be incomplete
@@ -1664,891 +1667,906 @@ We recommend you update your KeePassXC installation.</translation>
     </message>
     <message>
         <source>Open database anyway</source>
-        <translation>Open database anyway</translation>
+        <translation type="vanished">Open database anyway</translation>
     </message>
     <message>
         <source>Database unlock canceled.</source>
-        <translation>Database unlock canceled.</translation>
+        <translation type="vanished">Database unlock canceled.</translation>
     </message>
     <message>
         <source>Unlock failed and no password given</source>
-        <translation>Unlock failed and no password given</translation>
+        <translation type="vanished">Unlock failed and no password given</translation>
     </message>
     <message>
         <source>Unlocking the database failed and you did not enter a password.
 Do you want to retry with an &quot;empty&quot; password instead?
 
 To prevent this error from appearing, you must go to &quot;Database Settings / Security&quot; and reset your password.</source>
-        <translation>Unlocking the database failed and you did not enter a password.
+        <translation type="vanished">Unlocking the database failed and you did not enter a password.
 Do you want to retry with an &quot;empty&quot; password instead?
 
 To prevent this error from appearing, you must go to &quot;Database Settings / Security&quot; and reset your password.</translation>
     </message>
     <message>
         <source>Retry with empty password</source>
-        <translation>Retry with empty password</translation>
+        <translation type="vanished">Retry with empty password</translation>
     </message>
     <message>
         <source>Failed to open key file: %1</source>
-        <translation>Failed to open key file: %1</translation>
+        <translation type="vanished">Failed to open key file: %1</translation>
     </message>
     <message>
         <source>Old key file format</source>
-        <translation>Old key file format</translation>
+        <translation type="vanished">Old key file format</translation>
     </message>
     <message>
         <source>You are using an old key file format which KeePassXC may&lt;br&gt;stop supporting in the future.&lt;br&gt;&lt;br&gt;Please consider generating a new key file by going to:&lt;br&gt;&lt;strong&gt;Database &amp;gt; Database Security &amp;gt; Change Key File.&lt;/strong&gt;&lt;br&gt;</source>
-        <translation>You are using an old key file format which KeePassXC may&lt;br&gt;stop supporting in the future.&lt;br&gt;&lt;br&gt;Please consider generating a new key file by going to:&lt;br&gt;&lt;strong&gt;Database &amp;gt; Database Security &amp;gt; Change Key File.&lt;/strong&gt;&lt;br&gt;</translation>
+        <translation type="vanished">You are using an old key file format which KeePassXC may&lt;br&gt;stop supporting in the future.&lt;br&gt;&lt;br&gt;Please consider generating a new key file by going to:&lt;br&gt;&lt;strong&gt;Database &amp;gt; Database Security &amp;gt; Change Key File.&lt;/strong&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Don&apos;t show this warning again</source>
-        <translation>Don&apos;t show this warning again</translation>
+        <translation type="vanished">Don&apos;t show this warning again</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation>All files</translation>
+        <translation type="vanished">All files</translation>
     </message>
     <message>
         <source>Key files</source>
-        <translation>Key files</translation>
+        <translation type="vanished">Key files</translation>
     </message>
     <message>
         <source>Select key file</source>
-        <translation>Select key file</translation>
+        <translation type="vanished">Select key file</translation>
     </message>
     <message>
         <source>Cannot use database file as key file</source>
-        <translation>Cannot use database file as key file</translation>
+        <translation type="vanished">Cannot use database file as key file</translation>
     </message>
     <message>
         <source>authenticate to access the database</source>
-        <translation>authenticate to access the database</translation>
+        <translation type="vanished">authenticate to access the database</translation>
     </message>
     <message>
         <source>Failed to authenticate with Quick Unlock: %1</source>
-        <translation>Failed to authenticate with Quick Unlock: %1</translation>
+        <translation type="vanished">Failed to authenticate with Quick Unlock: %1</translation>
     </message>
     <message>
         <source>Select Key File:</source>
-        <translation>Select Key File:</translation>
+        <translation type="vanished">Select Key File:</translation>
     </message>
     <message>
         <source>&lt;p&gt;In addition to a password, you can use a secret file to enhance the security of your database. This file can be generated in your database&apos;s security settings.&lt;/p&gt;&lt;p&gt;This is &lt;strong&gt;not&lt;/strong&gt; your *.kdbx database file!&lt;/p&gt;</source>
-        <translation>&lt;p&gt;In addition to a password, you can use a secret file to enhance the security of your database. This file can be generated in your database&apos;s security settings.&lt;/p&gt;&lt;p&gt;This is &lt;strong&gt;not&lt;/strong&gt; your *.kdbx database file!&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;In addition to a password, you can use a secret file to enhance the security of your database. This file can be generated in your database&apos;s security settings.&lt;/p&gt;&lt;p&gt;This is &lt;strong&gt;not&lt;/strong&gt; your *.kdbx database file!&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Use hardware key [Serial: %1]</source>
-        <translation>Use hardware key [Serial: %1]</translation>
+        <translation type="vanished">Use hardware key [Serial: %1]</translation>
     </message>
     <message>
         <source>Use hardware key</source>
-        <translation>Use hardware key</translation>
+        <translation type="vanished">Use hardware key</translation>
     </message>
     <message>
         <source>Your database file is NOT a key file!
 If you don&apos;t have a key file or don&apos;t know what that is, you don&apos;t have to select one.</source>
-        <translation>Your database file is NOT a key file!
+        <translation type="vanished">Your database file is NOT a key file!
 If you don&apos;t have a key file or don&apos;t know what that is, you don&apos;t have to select one.</translation>
     </message>
     <message>
         <source>KeePassXC database file selected</source>
-        <translation>KeePassXC database file selected</translation>
+        <translation type="vanished">KeePassXC database file selected</translation>
     </message>
     <message>
         <source>The file you selected looks like a database file.
 A database file is NOT a key file!
 
 Are you sure you want to continue with this file?.</source>
-        <translation>The file you selected looks like a database file.
+        <translation type="vanished">The file you selected looks like a database file.
 A database file is NOT a key file!
 
 Are you sure you want to continue with this file?</translation>
     </message>
     <message>
         <source>No hardware keys found.</source>
-        <translation>No hardware keys found.</translation>
+        <translation type="vanished">No hardware keys found.</translation>
     </message>
     <message>
         <source>Refresh Hardware Keys</source>
-        <translation>Refresh Hardware Keys</translation>
+        <translation type="vanished">Refresh Hardware Keys</translation>
     </message>
     <message>
         <source>Click to add a key file.</source>
-        <translation>Click to add a key file.</translation>
+        <translation type="vanished">Click to add a key file.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;#&quot; style=&quot;text-decoration: underline&quot;&gt;I have a key file&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;#&quot; style=&quot;text-decoration: underline&quot;&gt;I have a key file&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;#&quot; style=&quot;text-decoration: underline&quot;&gt;I have a key file&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Hardware keys found, but no slots are configured.</source>
-        <translation>Hardware keys found, but no slots are configured.</translation>
+        <translation type="vanished">Hardware keys found, but no slots are configured.</translation>
     </message>
     <message>
         <source>Press ESC again to close this database</source>
-        <translation>Press ESC again to close this database</translation>
+        <translation type="vanished">Press ESC again to close this database</translation>
     </message>
 </context>
 <context>
     <name>DatabaseSettingWidgetMetaData</name>
     <message>
         <source>Passwords</source>
-        <translation>Passwords</translation>
+        <translation type="vanished">Passwords</translation>
     </message>
 </context>
 <context>
     <name>DatabaseSettingsDialog</name>
     <message>
         <source>General</source>
-        <translation>General</translation>
+        <translation type="vanished">General</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation>Security</translation>
+        <translation type="vanished">Security</translation>
     </message>
     <message>
         <source>Database Credentials</source>
-        <translation>Database Credentials</translation>
+        <translation type="vanished">Database Credentials</translation>
     </message>
     <message>
         <source>Encryption Settings</source>
-        <translation>Encryption Settings</translation>
+        <translation type="vanished">Encryption Settings</translation>
     </message>
     <message>
         <source>Browser Integration</source>
-        <translation>Browser Integration</translation>
+        <translation type="vanished">Browser Integration</translation>
     </message>
     <message>
         <source>Maintenance</source>
-        <translation>Maintenance</translation>
+        <translation type="vanished">Maintenance</translation>
     </message>
     <message>
         <source>KeeShare</source>
-        <translation>KeeShare</translation>
+        <translation type="vanished">KeeShare</translation>
     </message>
     <message>
         <source>Secret Service Integration</source>
-        <translation>Secret Service Integration</translation>
+        <translation type="vanished">Secret Service Integration</translation>
     </message>
     <message>
         <source>Remote Sync</source>
-        <translation>Remote Sync</translation>
+        <translation type="vanished">Remote Sync</translation>
     </message>
     <message>
         <source>Database Settings: %1</source>
-        <translation>Database Settings: %1</translation>
+        <translation type="vanished">Database Settings: %1</translation>
     </message>
 </context>
 <context>
     <name>DatabaseSettingsWidgetBrowser</name>
     <message>
         <source>KeePassXC-Browser settings</source>
-        <translation>KeePassXC-Browser settings</translation>
+        <translation type="vanished">KeePassXC-Browser settings</translation>
     </message>
     <message>
         <source>Disconnect all browsers</source>
-        <translation>Disconnect all browsers</translation>
+        <translation type="vanished">Disconnect all browsers</translation>
     </message>
     <message>
         <source>Forget all site-specific settings on entries</source>
-        <translation>Forget all site-specific settings on entries</translation>
+        <translation type="vanished">Forget all site-specific settings on entries</translation>
     </message>
     <message>
         <source>Refresh database root group ID</source>
-        <translation>Refresh database root group ID</translation>
+        <translation type="vanished">Refresh database root group ID</translation>
     </message>
     <message>
         <source>Stored keys</source>
-        <translation>Stored keys</translation>
+        <translation type="vanished">Stored keys</translation>
     </message>
     <message>
         <source>Stored browser keys</source>
-        <translation>Stored browser keys</translation>
+        <translation type="vanished">Stored browser keys</translation>
     </message>
     <message>
         <source>Remove selected key</source>
-        <translation>Remove selected key</translation>
+        <translation type="vanished">Remove selected key</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Remove</translation>
+        <translation type="vanished">Remove</translation>
     </message>
     <message>
         <source>Delete the selected key?</source>
-        <translation>Delete the selected key?</translation>
+        <translation type="vanished">Delete the selected key?</translation>
     </message>
     <message>
         <source>Do you really want to delete the selected key?
 This may prevent connection to the browser plugin.</source>
-        <translation>Do you really want to delete the selected key?
+        <translation type="vanished">Do you really want to delete the selected key?
 This may prevent connection to the browser plugin.</translation>
     </message>
     <message>
         <source>Key</source>
-        <translation>Key</translation>
+        <translation type="vanished">Key</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>Value</translation>
+        <translation type="vanished">Value</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation>Created</translation>
+        <translation type="vanished">Created</translation>
     </message>
     <message>
         <source>Enable Browser Integration to access these settings.</source>
-        <translation>Enable Browser Integration to access these settings.</translation>
+        <translation type="vanished">Enable Browser Integration to access these settings.</translation>
     </message>
     <message>
         <source>Do you really want to disconnect all browsers?
 This may prevent connection to the browser plugin.</source>
-        <translation>Do you really want to disconnect all browsers?
+        <translation type="vanished">Do you really want to disconnect all browsers?
 This may prevent connection to the browser plugin.</translation>
     </message>
     <message>
         <source>No shared encryption keys found in KeePassXC settings.</source>
-        <translation>No shared encryption keys found in KeePassXC settings.</translation>
+        <translation type="vanished">No shared encryption keys found in KeePassXC settings.</translation>
     </message>
     <message numerus="yes">
         <source>Successfully removed %n encryption key(s) from KeePassXC settings.</source>
-        <translation><numerusform>Successfully removed %n encryption key from KeePassXC settings.</numerusform><numerusform>Successfully removed %n encryption keys from KeePassXC settings.</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>Successfully removed %n encryption key from KeePassXC settings.</numerusform>
+            <numerusform>Successfully removed %n encryption keys from KeePassXC settings.</numerusform>
+        </translation>
     </message>
     <message>
         <source>Do you really want forget all site-specific settings on every entry?
 Permissions to access entries will be revoked.</source>
-        <translation>Do you really want forget all site-specific settings on every entry?
+        <translation type="vanished">Do you really want forget all site-specific settings on every entry?
 Permissions to access entries will be revoked.</translation>
     </message>
     <message>
         <source>Removing stored permissions…</source>
-        <translation>Removing stored permissions…</translation>
+        <translation type="vanished">Removing stored permissions…</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>Abort</translation>
+        <translation type="vanished">Abort</translation>
     </message>
     <message numerus="yes">
         <source>Successfully removed permissions from %n entry(s).</source>
-        <translation><numerusform>Successfully removed permissions from %n entry.</numerusform><numerusform>Successfully removed permissions from %n entries.</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>Successfully removed permissions from %n entry.</numerusform>
+            <numerusform>Successfully removed permissions from %n entries.</numerusform>
+        </translation>
     </message>
     <message>
         <source>The active database does not contain an entry with permissions.</source>
-        <translation>The active database does not contain an entry with permissions.</translation>
+        <translation type="vanished">The active database does not contain an entry with permissions.</translation>
     </message>
     <message>
         <source>Refresh database ID</source>
-        <translation>Refresh database ID</translation>
+        <translation type="vanished">Refresh database ID</translation>
     </message>
     <message>
         <source>Do you really want refresh the database ID?
 This is only necessary if your database is a copy of another and the browser extension cannot connect.</source>
-        <translation>Do you really want refresh the database ID?
+        <translation type="vanished">Do you really want refresh the database ID?
 This is only necessary if your database is a copy of another and the browser extension cannot connect.</translation>
     </message>
     <message>
         <source>Convert legacy KeePassHTTP attributes to KeePassXC-Browser compatible custom data</source>
-        <translation>Convert legacy KeePassHTTP attributes to KeePassXC-Browser compatible custom data</translation>
+        <translation type="vanished">Convert legacy KeePassHTTP attributes to KeePassXC-Browser compatible custom data</translation>
     </message>
     <message>
         <source>No keys found</source>
-        <translation>No keys found</translation>
+        <translation type="vanished">No keys found</translation>
     </message>
     <message>
         <source>Removed keys from database</source>
-        <translation>Removed keys from database</translation>
+        <translation type="vanished">Removed keys from database</translation>
     </message>
     <message>
         <source>Removed permissions</source>
-        <translation>Removed permissions</translation>
+        <translation type="vanished">Removed permissions</translation>
     </message>
     <message>
         <source>No entry with permissions found!</source>
-        <translation>No entry with permissions found!</translation>
+        <translation type="vanished">No entry with permissions found!</translation>
     </message>
 </context>
 <context>
     <name>DatabaseSettingsWidgetDatabaseKey</name>
     <message>
         <source>Add additional protection…</source>
-        <translation>Add additional protection…</translation>
+        <translation type="vanished">Add additional protection…</translation>
     </message>
     <message>
         <source>No password set</source>
-        <translation>No password set</translation>
+        <translation type="vanished">No password set</translation>
     </message>
     <message>
         <source>WARNING! You have not set a password. Using a database without a password is strongly discouraged!
 
 Are you sure you want to continue without a password?</source>
-        <translation>WARNING! You have not set a password. Using a database without a password is strongly discouraged!
+        <translation type="vanished">WARNING! You have not set a password. Using a database without a password is strongly discouraged!
 
 Are you sure you want to continue without a password?</translation>
     </message>
     <message>
         <source>Continue without password</source>
-        <translation>Continue without password</translation>
+        <translation type="vanished">Continue without password</translation>
     </message>
     <message>
         <source>No encryption key added</source>
-        <translation>No encryption key added</translation>
+        <translation type="vanished">No encryption key added</translation>
     </message>
     <message>
         <source>You must add at least one encryption key to secure your database!</source>
-        <translation>You must add at least one encryption key to secure your database!</translation>
+        <translation type="vanished">You must add at least one encryption key to secure your database!</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Unknown error</translation>
+        <translation type="vanished">Unknown error</translation>
     </message>
     <message>
         <source>Failed to change database credentials</source>
-        <translation>Failed to change database credentials</translation>
+        <translation type="vanished">Failed to change database credentials</translation>
     </message>
     <message>
         <source>Weak password</source>
-        <translation>Weak password</translation>
+        <translation type="vanished">Weak password</translation>
     </message>
     <message>
         <source>This is a weak password! For better protection of your secrets, you should choose a stronger password.</source>
-        <translation>This is a weak password! For better protection of your secrets, you should choose a stronger password.</translation>
+        <translation type="vanished">This is a weak password! For better protection of your secrets, you should choose a stronger password.</translation>
     </message>
     <message>
         <source>The provided password does not meet the minimum quality requirement.</source>
-        <translation>The provided password does not meet the minimum quality requirement.</translation>
+        <translation type="vanished">The provided password does not meet the minimum quality requirement.</translation>
     </message>
 </context>
 <context>
     <name>DatabaseSettingsWidgetEncryption</name>
     <message>
         <source>Decryption Time:</source>
-        <translation>Decryption Time:</translation>
+        <translation type="vanished">Decryption Time:</translation>
     </message>
     <message>
         <source>Decryption time in seconds</source>
-        <translation>Decryption time in seconds</translation>
+        <translation type="vanished">Decryption time in seconds</translation>
     </message>
     <message>
         <source>Higher values offer more protection, but opening the database will take longer.</source>
-        <translation>Higher values offer more protection, but opening the database will take longer.</translation>
+        <translation type="vanished">Higher values offer more protection, but opening the database will take longer.</translation>
     </message>
     <message>
         <source>Database format:</source>
-        <translation>Database format:</translation>
+        <translation type="vanished">Database format:</translation>
     </message>
     <message>
         <source>Database format</source>
-        <translation>Database format</translation>
+        <translation type="vanished">Database format</translation>
     </message>
     <message>
         <source>Format cannot be changed: Your database uses KDBX 4 features</source>
-        <translation>Format cannot be changed: Your database uses KDBX 4 features</translation>
+        <translation type="vanished">Format cannot be changed: Your database uses KDBX 4 features</translation>
     </message>
     <message>
         <source>Unless you need to open your database with other programs, always use the latest format.</source>
-        <translation>Unless you need to open your database with other programs, always use the latest format.</translation>
+        <translation type="vanished">Unless you need to open your database with other programs, always use the latest format.</translation>
     </message>
     <message>
         <source>Encryption Algorithm:</source>
-        <translation>Encryption Algorithm:</translation>
+        <translation type="vanished">Encryption Algorithm:</translation>
     </message>
     <message>
         <source>Encryption algorithm</source>
-        <translation>Encryption algorithm</translation>
+        <translation type="vanished">Encryption algorithm</translation>
     </message>
     <message>
         <source>AES:  256 Bit   (default)</source>
-        <translation>AES:  256 Bit   (default)</translation>
+        <translation type="vanished">AES:  256 Bit   (default)</translation>
     </message>
     <message>
         <source>Twofish:  256 Bit</source>
-        <translation>Twofish:  256 Bit</translation>
+        <translation type="vanished">Twofish:  256 Bit</translation>
     </message>
     <message>
         <source>Key Derivation Function:</source>
-        <translation>Key Derivation Function:</translation>
+        <translation type="vanished">Key Derivation Function:</translation>
     </message>
     <message>
         <source>Key derivation function</source>
-        <translation>Key derivation function</translation>
+        <translation type="vanished">Key derivation function</translation>
     </message>
     <message>
         <source>Transform rounds:</source>
-        <translation>Transform rounds:</translation>
+        <translation type="vanished">Transform rounds:</translation>
     </message>
     <message>
         <source>Transform rounds</source>
-        <translation>Transform rounds</translation>
+        <translation type="vanished">Transform rounds</translation>
     </message>
     <message>
         <source>Memory Usage:</source>
-        <translation>Memory Usage:</translation>
+        <translation type="vanished">Memory Usage:</translation>
     </message>
     <message>
         <source>Memory usage</source>
-        <translation>Memory usage</translation>
+        <translation type="vanished">Memory usage</translation>
     </message>
     <message>
         <source>Parallelism:</source>
-        <translation>Parallelism:</translation>
+        <translation type="vanished">Parallelism:</translation>
     </message>
     <message>
         <source>Parallelism</source>
-        <translation>Parallelism</translation>
+        <translation type="vanished">Parallelism</translation>
     </message>
     <message>
         <source>KDBX 4 (recommended)</source>
-        <translation>KDBX 4 (recommended)</translation>
+        <translation type="vanished">KDBX 4 (recommended)</translation>
     </message>
     <message>
         <source>KDBX 3</source>
-        <translation>KDBX 3</translation>
+        <translation type="vanished">KDBX 3</translation>
     </message>
     <message>
         <source>Number of rounds too high</source>
         <comment>Key transformation rounds</comment>
-        <translation>Number of rounds too high</translation>
+        <translation type="vanished">Number of rounds too high</translation>
     </message>
     <message>
         <source>You are using a very high number of key transform rounds with Argon2.
 
 If you keep this number, your database may take hours, days, or even longer to open.</source>
-        <translation>You are using a very high number of key transform rounds with Argon2.
+        <translation type="vanished">You are using a very high number of key transform rounds with Argon2.
 
 If you keep this number, your database may take hours, days, or even longer to open.</translation>
     </message>
     <message>
         <source>Understood, keep number</source>
-        <translation>Understood, keep number</translation>
+        <translation type="vanished">Understood, keep number</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancel</translation>
+        <translation type="vanished">Cancel</translation>
     </message>
     <message>
         <source>Number of rounds too low</source>
         <comment>Key transformation rounds</comment>
-        <translation>Number of rounds too low</translation>
+        <translation type="vanished">Number of rounds too low</translation>
     </message>
     <message>
         <source>You are using a very low number of key transform rounds with AES-KDF.
 
 If you keep this number, your database will not be protected from brute force attacks.</source>
-        <translation>You are using a very low number of key transform rounds with AES-KDF.
+        <translation type="vanished">You are using a very low number of key transform rounds with AES-KDF.
 
 If you keep this number, your database will not be protected from brute force attacks.</translation>
     </message>
     <message>
         <source>KDF unchanged</source>
-        <translation>KDF unchanged</translation>
+        <translation type="vanished">KDF unchanged</translation>
     </message>
     <message>
         <source>Failed to transform key with new KDF parameters; KDF unchanged.</source>
-        <translation>Failed to transform key with new KDF parameters; KDF unchanged.</translation>
+        <translation type="vanished">Failed to transform key with new KDF parameters; KDF unchanged.</translation>
     </message>
     <message numerus="yes">
         <source> MiB</source>
         <comment>Abbreviation for Mebibytes (KDF settings)</comment>
-        <translation><numerusform> MiB</numerusform><numerusform> MiB</numerusform></translation>
+        <translation type="vanished">
+            <numerusform> MiB</numerusform>
+            <numerusform> MiB</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source> thread(s)</source>
         <comment>Threads for parallel execution (KDF settings)</comment>
-        <translation><numerusform> thread</numerusform><numerusform> threads</numerusform></translation>
+        <translation type="vanished">
+            <numerusform> thread</numerusform>
+            <numerusform> threads</numerusform>
+        </translation>
     </message>
     <message>
         <source>Encryption Settings:</source>
-        <translation>Encryption Settings:</translation>
+        <translation type="vanished">Encryption Settings:</translation>
     </message>
     <message>
         <source>Basic</source>
-        <translation>Basic</translation>
+        <translation type="vanished">Basic</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation>Advanced</translation>
+        <translation type="vanished">Advanced</translation>
     </message>
 </context>
 <context>
     <name>DatabaseSettingsWidgetFdoSecrets</name>
     <message>
         <source>Exposed Entries</source>
-        <translation>Exposed Entries</translation>
+        <translation type="vanished">Exposed Entries</translation>
     </message>
     <message>
         <source>Don&apos;t expose this database</source>
-        <translation>Don&apos;t expose this database</translation>
+        <translation type="vanished">Don&apos;t expose this database</translation>
     </message>
     <message>
         <source>Expose entries under this group:</source>
-        <translation>Expose entries under this group:</translation>
+        <translation type="vanished">Expose entries under this group:</translation>
     </message>
     <message>
         <source>Enable Secret Service to access these settings.</source>
-        <translation>Enable Secret Service to access these settings.</translation>
+        <translation type="vanished">Enable Secret Service to access these settings.</translation>
     </message>
 </context>
 <context>
     <name>DatabaseSettingsWidgetGeneral</name>
     <message>
         <source>Database Metadata</source>
-        <translation>Database Metadata</translation>
+        <translation type="vanished">Database Metadata</translation>
     </message>
     <message>
         <source>Database name:</source>
-        <translation>Database name:</translation>
+        <translation type="vanished">Database name:</translation>
     </message>
     <message>
         <source>Database name field</source>
-        <translation>Database name field</translation>
+        <translation type="vanished">Database name field</translation>
     </message>
     <message>
         <source>Database description:</source>
-        <translation>Database description:</translation>
+        <translation type="vanished">Database description:</translation>
     </message>
     <message>
         <source>Database description field</source>
-        <translation>Database description field</translation>
+        <translation type="vanished">Database description field</translation>
     </message>
     <message>
         <source>Default username:</source>
-        <translation>Default username:</translation>
+        <translation type="vanished">Default username:</translation>
     </message>
     <message>
         <source>Default username field</source>
-        <translation>Default username field</translation>
+        <translation type="vanished">Default username field</translation>
     </message>
     <message>
         <source>History Settings</source>
-        <translation>History Settings</translation>
+        <translation type="vanished">History Settings</translation>
     </message>
     <message>
         <source>Maximum number of history items per entry</source>
-        <translation>Maximum number of history items per entry</translation>
+        <translation type="vanished">Maximum number of history items per entry</translation>
     </message>
     <message>
         <source>Maximum size of history per entry</source>
-        <translation>Maximum size of history per entry</translation>
+        <translation type="vanished">Maximum size of history per entry</translation>
     </message>
     <message>
         <source> MiB</source>
-        <translation> MiB</translation>
+        <translation type="vanished"> MiB</translation>
     </message>
     <message>
         <source>Use recycle bin</source>
-        <translation>Use recycle bin</translation>
+        <translation type="vanished">Use recycle bin</translation>
     </message>
     <message>
         <source>Additional Database Settings</source>
-        <translation>Additional Database Settings</translation>
+        <translation type="vanished">Additional Database Settings</translation>
     </message>
     <message>
         <source>Enable compression (recommended)</source>
-        <translation>Enable compression (recommended)</translation>
+        <translation type="vanished">Enable compression (recommended)</translation>
     </message>
     <message>
         <source>Delete Recycle Bin</source>
-        <translation>Delete Recycle Bin</translation>
+        <translation type="vanished">Delete Recycle Bin</translation>
     </message>
     <message>
         <source>Do you want to delete the current recycle bin and all its contents?
 This action is not reversible.</source>
-        <translation>Do you want to delete the current recycle bin and all its contents?
+        <translation type="vanished">Do you want to delete the current recycle bin and all its contents?
 This action is not reversible.</translation>
     </message>
     <message>
         <source> (old)</source>
-        <translation> (old)</translation>
+        <translation type="vanished"> (old)</translation>
     </message>
     <message>
         <source>When saving this setting or editing an entry
 the oldest history items of an entry will be
 removed such that only the specified amount
 of entries remain at most.</source>
-        <translation>When saving this setting or editing an entry
+        <translation type="vanished">When saving this setting or editing an entry
 the oldest history items of an entry will be
 removed such that only the specified amount
 of entries remain at most.</translation>
     </message>
     <message>
         <source>Limit the amount of history items per entry to:</source>
-        <translation>Limit the amount of history items per entry to:</translation>
+        <translation type="vanished">Limit the amount of history items per entry to:</translation>
     </message>
     <message>
         <source>When saving this setting or editing an entry
 the oldest history items of an entry will be
 removed such that the remaining history items
 add up to the specified amount at most.</source>
-        <translation>When saving this setting or editing an entry
+        <translation type="vanished">When saving this setting or editing an entry
 the oldest history items of an entry will be
 removed such that the remaining history items
 add up to the specified amount at most.</translation>
     </message>
     <message>
         <source>Limit the total size of history items per entry to:</source>
-        <translation>Limit the total size of history items per entry to:</translation>
+        <translation type="vanished">Limit the total size of history items per entry to:</translation>
     </message>
     <message>
         <source>Move entries to a recycle bin group
 instead of deleting them from the database.
 Entries deleted from the recycle bin are
 removed from the database.</source>
-        <translation>Move entries to a recycle bin group
+        <translation type="vanished">Move entries to a recycle bin group
 instead of deleting them from the database.
 Entries deleted from the recycle bin are
 removed from the database.</translation>
     </message>
     <message>
         <source>Autosave delay since last change</source>
-        <translation>Autosave delay since last change</translation>
+        <translation type="vanished">Autosave delay since last change</translation>
     </message>
     <message>
         <source>Autosave delay</source>
-        <translation>Autosave delay</translation>
+        <translation type="vanished">Autosave delay</translation>
     </message>
     <message>
         <source>Autosave delay since last change in minutes</source>
-        <translation>Autosave delay since last change in minutes</translation>
+        <translation type="vanished">Autosave delay since last change in minutes</translation>
     </message>
     <message>
         <source> min</source>
-        <translation> min</translation>
+        <translation type="vanished"> min</translation>
     </message>
     <message>
         <source>Autosave delay since last change checkbox</source>
-        <translation>Autosave delay since last change checkbox</translation>
+        <translation type="vanished">Autosave delay since last change checkbox</translation>
     </message>
     <message>
         <source>Public Database Metadata</source>
-        <translation>Public Database Metadata</translation>
+        <translation type="vanished">Public Database Metadata</translation>
     </message>
     <message>
         <source>Warning: the following settings are not encrypted.</source>
-        <translation>Warning: the following settings are not encrypted.</translation>
+        <translation type="vanished">Warning: the following settings are not encrypted.</translation>
     </message>
     <message>
         <source>Display name:</source>
-        <translation>Display name:</translation>
+        <translation type="vanished">Display name:</translation>
     </message>
     <message>
         <source>Database public display name</source>
-        <translation>Database public display name</translation>
+        <translation type="vanished">Database public display name</translation>
     </message>
     <message>
         <source>Display color:</source>
-        <translation>Display color:</translation>
+        <translation type="vanished">Display color:</translation>
     </message>
     <message>
         <source>Database public display color chooser</source>
-        <translation>Database public display color chooser</translation>
+        <translation type="vanished">Database public display color chooser</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Clear</translation>
+        <translation type="vanished">Clear</translation>
     </message>
     <message>
         <source>Display icon:</source>
-        <translation>Display icon:</translation>
+        <translation type="vanished">Display icon:</translation>
     </message>
     <message>
         <source>Select Database Icon</source>
-        <translation>Select Database Icon</translation>
+        <translation type="vanished">Select Database Icon</translation>
     </message>
     <message>
         <source>Publicly visible display name used on the unlock dialog</source>
-        <translation>Publicly visible display name used on the unlock dialogue</translation>
+        <translation type="vanished">Publicly visible display name used on the unlock dialogue</translation>
     </message>
     <message>
         <source>Publicly visible color used on the unlock dialog</source>
-        <translation>Publicly visible colour used on the unlock dialogue</translation>
+        <translation type="vanished">Publicly visible colour used on the unlock dialogue</translation>
     </message>
 </context>
 <context>
     <name>DatabaseSettingsWidgetKeeShare</name>
     <message>
         <source>Sharing</source>
-        <translation>Sharing</translation>
+        <translation type="vanished">Sharing</translation>
     </message>
     <message>
         <source>Breadcrumb</source>
-        <translation>Breadcrumb</translation>
+        <translation type="vanished">Breadcrumb</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Type</translation>
+        <translation type="vanished">Type</translation>
     </message>
     <message>
         <source>Path</source>
-        <translation>Path</translation>
+        <translation type="vanished">Path</translation>
     </message>
     <message>
         <source>Last Signer</source>
-        <translation>Last Signer</translation>
+        <translation type="vanished">Last Signer</translation>
     </message>
     <message>
         <source>Certificates</source>
-        <translation>Certificates</translation>
+        <translation type="vanished">Certificates</translation>
     </message>
     <message>
         <source> &gt; </source>
         <comment>Breadcrumb separator</comment>
-        <translation> &gt; </translation>
+        <translation type="vanished"> &gt; </translation>
     </message>
 </context>
 <context>
     <name>DatabaseSettingsWidgetMaintenance</name>
     <message>
         <source>Manage Custom Icons</source>
-        <translation>Manage Custom Icons</translation>
+        <translation type="vanished">Manage Custom Icons</translation>
     </message>
     <message>
         <source>Delete selected icon(s)</source>
-        <translation>Delete selected icon(s)</translation>
+        <translation type="vanished">Delete selected icon(s)</translation>
     </message>
     <message>
         <source>Delete all custom icons not in use by any entry or group</source>
-        <translation>Delete all custom icons not in use by any entry or group</translation>
+        <translation type="vanished">Delete all custom icons not in use by any entry or group</translation>
     </message>
     <message>
         <source>Purge unused icons</source>
-        <translation>Purge unused icons</translation>
+        <translation type="vanished">Purge unused icons</translation>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation>Confirm Deletion</translation>
+        <translation type="vanished">Confirm Deletion</translation>
     </message>
     <message>
         <source>At least one of the selected icons is currently in use by at least one entry or group. The icons of all affected entries and groups will be replaced by the default icon. Are you sure you want to delete icons that are currently in use?</source>
-        <translation>At least one of the selected icons is currently in use by at least one entry or group. The icons of all affected entries and groups will be replaced by the default icon. Are you sure you want to delete icons that are currently in use?</translation>
+        <translation type="vanished">At least one of the selected icons is currently in use by at least one entry or group. The icons of all affected entries and groups will be replaced by the default icon. Are you sure you want to delete icons that are currently in use?</translation>
     </message>
     <message>
         <source>Custom Icons Are In Use</source>
-        <translation>Custom Icons Are In Use</translation>
+        <translation type="vanished">Custom Icons Are In Use</translation>
     </message>
     <message>
         <source>All custom icons are in use by at least one entry or group.</source>
-        <translation>All custom icons are in use by at least one entry or group.</translation>
+        <translation type="vanished">All custom icons are in use by at least one entry or group.</translation>
     </message>
     <message>
         <source>Purged Unused Icons</source>
-        <translation>Purged Unused Icons</translation>
+        <translation type="vanished">Purged Unused Icons</translation>
     </message>
     <message numerus="yes">
         <source>Purged %n icon(s) from the database.</source>
-        <translation><numerusform>Purged %n icon from the database.</numerusform><numerusform>Purged %n icons from the database.</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>Purged %n icon from the database.</numerusform>
+            <numerusform>Purged %n icons from the database.</numerusform>
+        </translation>
     </message>
 </context>
 <context>
     <name>DatabaseSettingsWidgetMetaDataSimple</name>
     <message>
         <source>Database Name:</source>
-        <translation>Database Name:</translation>
+        <translation type="vanished">Database Name:</translation>
     </message>
     <message>
         <source>Database name field</source>
-        <translation>Database name field</translation>
+        <translation type="vanished">Database name field</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation>Description:</translation>
+        <translation type="vanished">Description:</translation>
     </message>
     <message>
         <source>Database description field</source>
-        <translation>Database description field</translation>
+        <translation type="vanished">Database description field</translation>
     </message>
 </context>
 <context>
     <name>DatabaseSettingsWidgetRemote</name>
     <message>
         <source>Sync Commands</source>
-        <translation>Sync Commands</translation>
+        <translation type="vanished">Sync Commands</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Remove</translation>
+        <translation type="vanished">Remove</translation>
     </message>
     <message>
         <source>Command Settings</source>
-        <translation>Command Settings</translation>
+        <translation type="vanished">Command Settings</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Name</translation>
+        <translation type="vanished">Name</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Save</translation>
+        <translation type="vanished">Save</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation>Download</translation>
+        <translation type="vanished">Download</translation>
     </message>
     <message>
         <source>Command:</source>
-        <translation>Command:</translation>
+        <translation type="vanished">Command:</translation>
     </message>
     <message>
         <source>Download command field</source>
-        <translation>Download command field</translation>
+        <translation type="vanished">Download command field</translation>
     </message>
     <message>
         <source>e.g.: &quot;sftp user@hostname&quot; or &quot;scp user@hostname:DatabaseOnRemote.kdbx {TEMP_DATABASE}&quot;</source>
-        <translation>e.g.: &quot;sftp user@hostname&quot; or &quot;scp user@hostname:DatabaseOnRemote.kdbx {TEMP_DATABASE}&quot;</translation>
+        <translation type="vanished">e.g.: &quot;sftp user@hostname&quot; or &quot;scp user@hostname:DatabaseOnRemote.kdbx {TEMP_DATABASE}&quot;</translation>
     </message>
     <message>
         <source>Input:</source>
-        <translation>Input:</translation>
+        <translation type="vanished">Input:</translation>
     </message>
     <message>
         <source>Download input field</source>
-        <translation>Download input field</translation>
+        <translation type="vanished">Download input field</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation>Upload</translation>
+        <translation type="vanished">Upload</translation>
     </message>
     <message>
         <source>Upload command field</source>
-        <translation>Upload command field</translation>
+        <translation type="vanished">Upload command field</translation>
     </message>
     <message>
         <source>e.g.: &quot;sftp user@hostname&quot; or &quot;scp {TEMP_DATABASE} user@hostname:DatabaseOnRemote.kdbx&quot;</source>
-        <translation>e.g.: &quot;sftp user@hostname&quot; or &quot;scp {TEMP_DATABASE} user@hostname:DatabaseOnRemote.kdbx&quot;</translation>
+        <translation type="vanished">e.g.: &quot;sftp user@hostname&quot; or &quot;scp {TEMP_DATABASE} user@hostname:DatabaseOnRemote.kdbx&quot;</translation>
     </message>
     <message>
         <source>Upload input field</source>
-        <translation>Upload input field</translation>
+        <translation type="vanished">Upload input field</translation>
     </message>
     <message>
         <source>Name cannot be empty.</source>
-        <translation>Name cannot be empty.</translation>
+        <translation type="vanished">Name cannot be empty.</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation>Test</translation>
+        <translation type="vanished">Test</translation>
     </message>
     <message>
         <source>Download command cannot be empty.</source>
-        <translation>Download command cannot be empty.</translation>
+        <translation type="vanished">Download command cannot be empty.</translation>
     </message>
     <message>
         <source>Download failed with error: %1</source>
-        <translation>Download failed with error: %1</translation>
+        <translation type="vanished">Download failed with error: %1</translation>
     </message>
     <message>
         <source>Download finished, but file %1 could not be found.</source>
-        <translation>Download finished, but file %1 could not be found.</translation>
+        <translation type="vanished">Download finished, but file %1 could not be found.</translation>
     </message>
     <message>
         <source>Download successful.</source>
-        <translation>Download successful.</translation>
+        <translation type="vanished">Download successful.</translation>
     </message>
     <message>
         <source>Save Remote Settings</source>
-        <translation>Save Remote Settings</translation>
+        <translation type="vanished">Save Remote Settings</translation>
     </message>
     <message>
         <source>You have unsaved changes. Do you want to save them?</source>
-        <translation>You have unsaved changes. Do you want to save them?</translation>
+        <translation type="vanished">You have unsaved changes. Do you want to save them?</translation>
     </message>
     <message>
         <source>e.g.:
@@ -2558,7 +2576,7 @@ exit
 {TEMP_DATABASE} is used as placeholder to store the database in a temporary location
 The command has to exit. In case of `sftp` as last command `exit` has to be sent
             </source>
-        <translation>e.g.:
+        <translation type="vanished">e.g.:
 get DatabaseOnRemote.kdbx {TEMP_DATABASE}
 exit
 ---
@@ -2574,7 +2592,7 @@ exit
 {TEMP_DATABASE} is used as placeholder to store the database in a temporary location
 The command has to exit. In case of `sftp` as last command `exit` has to be sent
             </source>
-        <translation>e.g.:
+        <translation type="vanished">e.g.:
 put {TEMP_DATABASE} DatabaseOnRemote.kdbx
 exit
 ---
@@ -2584,87 +2602,222 @@ The command has to exit. In case of `sftp` as last command `exit` has to be sent
     </message>
     <message>
         <source>Timeout:</source>
-        <translation>Timeout:</translation>
+        <translation type="vanished">Timeout:</translation>
     </message>
     <message>
         <source> seconds</source>
-        <translation> seconds</translation>
+        <translation type="vanished"> seconds</translation>
+    </message>
+</context>
+<context>
+    <name>DatabaseSettingsWidgetWebDav</name>
+    <message>
+        <location filename="../../src/gui/remote/DatabaseSettingsWidgetWebDav.ui" line="51"/>
+        <source>WebDAV Connections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/remote/DatabaseSettingsWidgetWebDav.ui" line="62"/>
+        <source>Remove</source>
+        <translation type="unfinished">Remove</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/remote/DatabaseSettingsWidgetWebDav.ui" line="87"/>
+        <source>Connection Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/remote/DatabaseSettingsWidgetWebDav.ui" line="93"/>
+        <source>Name</source>
+        <translation type="unfinished">Name</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/remote/DatabaseSettingsWidgetWebDav.ui" line="102"/>
+        <source>e.g.: My Nextcloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/remote/DatabaseSettingsWidgetWebDav.ui" line="109"/>
+        <source>Save</source>
+        <translation type="unfinished">Save</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/remote/DatabaseSettingsWidgetWebDav.ui" line="118"/>
+        <source>URL</source>
+        <translation type="unfinished">URL</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/remote/DatabaseSettingsWidgetWebDav.ui" line="127"/>
+        <source>https://example.com/remote.php/dav/files/user/Database.kdbx</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/remote/DatabaseSettingsWidgetWebDav.ui" line="134"/>
+        <source>Test</source>
+        <translation type="unfinished">Test</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/remote/DatabaseSettingsWidgetWebDav.ui" line="143"/>
+        <source>Username</source>
+        <translation type="unfinished">Username</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/remote/DatabaseSettingsWidgetWebDav.ui" line="153"/>
+        <source>Password</source>
+        <translation type="unfinished">Password</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/remote/DatabaseSettingsWidgetWebDav.ui" line="167"/>
+        <source>Timeout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/remote/DatabaseSettingsWidgetWebDav.ui" line="174"/>
+        <source> seconds</source>
+        <translation type="unfinished"> seconds</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/remote/DatabaseSettingsWidgetWebDav.cpp" line="74"/>
+        <source>Save WebDAV Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/remote/DatabaseSettingsWidgetWebDav.cpp" line="75"/>
+        <source>You have unsaved changes. Do you want to save them?</source>
+        <translation type="unfinished">You have unsaved changes. Do you want to save them?</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/remote/DatabaseSettingsWidgetWebDav.cpp" line="93"/>
+        <source>Name cannot be empty.</source>
+        <translation type="unfinished">Name cannot be empty.</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/remote/DatabaseSettingsWidgetWebDav.cpp" line="98"/>
+        <location filename="../../src/gui/remote/DatabaseSettingsWidgetWebDav.cpp" line="195"/>
+        <source>URL cannot be empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/remote/DatabaseSettingsWidgetWebDav.cpp" line="207"/>
+        <source>Connection successful (HTTP %1).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/remote/DatabaseSettingsWidgetWebDav.cpp" line="211"/>
+        <source>Connection failed (HTTP %1): %2</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DatabaseTabWidget</name>
     <message>
+        <location filename="../../src/gui/DatabaseTabWidget.cpp" line="117"/>
         <source>Database creation error</source>
         <translation>Database creation error</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseTabWidget.cpp" line="118"/>
         <source>The created database has no key or KDF, refusing to save it.
 This is definitely a bug, please report it to the developers.</source>
         <translation>The created database has no key or KDF, refusing to save it.
 This is definitely a bug, please report it to the developers.</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseTabWidget.cpp" line="143"/>
+        <location filename="../../src/gui/DatabaseTabWidget.cpp" line="380"/>
         <source>KeePass 2 Database</source>
         <translation>KeePass 2 Database</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseTabWidget.cpp" line="143"/>
+        <location filename="../../src/gui/DatabaseTabWidget.cpp" line="380"/>
         <source>All files</source>
         <translation>All files</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseTabWidget.cpp" line="144"/>
         <source>Open database</source>
         <translation>Open database</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseTabWidget.cpp" line="171"/>
         <source>Failed to open %1. It either does not exist or is not accessible.</source>
         <translation>Failed to open %1. It either does not exist or is not accessible.</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseTabWidget.cpp" line="531"/>
         <source>CSV file</source>
         <translation>CSV file</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseTabWidget.cpp" line="382"/>
         <source>Merge database</source>
         <translation>Merge database</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseTabWidget.cpp" line="270"/>
+        <source>WebDAV download failed: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/DatabaseTabWidget.cpp" line="285"/>
+        <source>WebDAV download returned an empty file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/DatabaseTabWidget.cpp" line="291"/>
+        <source>Failed to cache WebDAV database locally.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/DatabaseTabWidget.cpp" line="531"/>
         <source>Export database to CSV file</source>
         <translation>Export database to CSV file</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseTabWidget.cpp" line="540"/>
         <source>Writing the CSV file failed.</source>
         <translation>Writing the CSV file failed.</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseTabWidget.cpp" line="547"/>
         <source>Writing the HTML file failed.</source>
         <translation>Writing the HTML file failed.</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseTabWidget.cpp" line="576"/>
         <source>Export database to XML file</source>
         <translation>Export database to XML file</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseTabWidget.cpp" line="576"/>
         <source>XML file</source>
         <translation>XML file</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseTabWidget.cpp" line="586"/>
+        <location filename="../../src/gui/DatabaseTabWidget.cpp" line="591"/>
         <source>Writing the XML file failed</source>
         <translation>Writing the XML file failed</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseTabWidget.cpp" line="601"/>
         <source>Export Confirmation</source>
         <translation>Export Confirmation</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseTabWidget.cpp" line="602"/>
         <source>You are about to export your database to an unencrypted file. This will leave your passwords and sensitive information vulnerable! Are you sure you want to continue?</source>
         <translation>You are about to export your database to an unencrypted file. This will leave your passwords and sensitive information vulnerable! Are you sure you want to continue?</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseTabWidget.cpp" line="700"/>
         <source>%1 [Locked]</source>
         <comment>Database tab name modifier</comment>
         <translation>%1 [Locked]</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseTabWidget.cpp" line="704"/>
         <source>%1 [Temporary]</source>
         <comment>Database tab name modifier</comment>
         <translation>%1 [Temporary]</translation>
@@ -2673,261 +2826,361 @@ This is definitely a bug, please report it to the developers.</translation>
 <context>
     <name>DatabaseWidget</name>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="130"/>
         <source>Searches and Tags</source>
         <translation>Searches and Tags</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="178"/>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2027"/>
         <source>Searching…</source>
         <translation>Searching…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="183"/>
         <source>Shared group…</source>
         <translation>Shared group…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="901"/>
         <source>Confirm Auto-Type</source>
         <translation>Confirm Auto-Type</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="901"/>
         <source>Perform Auto-Type into the previously active window?</source>
         <translation>Perform Auto-Type into the previously active window?</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1028"/>
         <source>Execute command?</source>
         <translation>Execute command?</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1029"/>
         <source>Do you really want to execute the following command?&lt;br&gt;&lt;br&gt;%1&lt;br&gt;</source>
         <translation>Do you really want to execute the following command?&lt;br&gt;&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1035"/>
         <source>Remember my choice</source>
         <translation>Remember my choice</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1148"/>
         <source>Do you really want to move the group &quot;%1&quot; to the recycle bin?</source>
         <translation>Do you really want to move the group &quot;%1&quot; to the recycle bin?</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1357"/>
         <source>Expired entries</source>
         <translation>Expired entries</translation>
     </message>
     <message numerus="yes">
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1360"/>
         <source>Entries expiring within %1 day(s)</source>
-        <translation><numerusform>Entries expiring within %1 day</numerusform><numerusform>Entries expiring within %1 days</numerusform></translation>
+        <translation>
+            <numerusform>Entries expiring within %1 day</numerusform>
+            <numerusform>Entries expiring within %1 days</numerusform>
+        </translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1387"/>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1434"/>
         <source>No current database.</source>
         <translation>No current database.</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1400"/>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1447"/>
         <source>No source database, nothing to do.</source>
         <translation>No source database, nothing to do.</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1717"/>
+        <source>WebDAV Password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1718"/>
+        <source>Enter WebDAV password for &apos;%1&apos;:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1740"/>
+        <source>WebDAV database has a different master key. Please ensure both databases use the same key.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1771"/>
+        <source>WebDAV sync &apos;%1&apos; completed successfully!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1777"/>
+        <source>WebDAV sync &apos;%1&apos; failed: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1868"/>
         <source>Search Results (%1)</source>
         <translation>Search Results (%1)</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1870"/>
         <source>No Results</source>
         <translation>No Results</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1901"/>
         <source>Enter a unique name or overwrite an existing search from the list:</source>
         <translation>Enter a unique name or overwrite an existing search from the list:</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1902"/>
         <source>Save Search</source>
         <translation>Save Search</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2168"/>
         <source>Lock Database?</source>
         <translation>Lock Database?</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2169"/>
         <source>You are editing an entry. Discard changes and lock anyway?</source>
         <translation>You are editing an entry. Discard changes and lock anyway?</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2201"/>
         <source>&quot;%1&quot; was modified.
 Save changes?</source>
         <translation>&quot;%1&quot; was modified.
 Save changes?</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2203"/>
         <source>Database was modified.
 Save changes?</source>
         <translation>Database was modified.
 Save changes?</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2206"/>
         <source>Save changes?</source>
         <translation>Save changes?</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2275"/>
         <source>File has changed</source>
         <translation>File has changed</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2631"/>
         <source>Disable safe saves?</source>
         <translation>Disable safe saves?</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2632"/>
         <source>KeePassXC has failed to save the database multiple times. This is likely caused by file sync services holding a lock on the save file.
 Disable safe saves and try again?</source>
         <translation>KeePassXC has failed to save the database multiple times. This is likely caused by file sync services holding a lock on the save file.
 Disable safe saves and try again?</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2643"/>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2685"/>
         <source>Writing the database failed: %1</source>
         <translation>Writing the database failed: %1</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2676"/>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2766"/>
         <source>Passwords</source>
         <translation>Passwords</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2679"/>
         <source>Save database as</source>
         <translation>Save database as</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2679"/>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2772"/>
         <source>KeePass 2 Database</source>
         <translation>KeePass 2 Database</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2854"/>
         <source>Empty recycle bin?</source>
         <translation>Empty recycle bin?</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2855"/>
         <source>Are you sure you want to permanently delete everything from your recycle bin?</source>
         <translation>Are you sure you want to permanently delete everything from your recycle bin?</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2932"/>
         <source>Could not find database file: %1</source>
         <translation>Could not find database file: %1</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="360"/>
         <source>New Database</source>
         <translation>New Database</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="362"/>
         <source>%1 [New Database]</source>
         <comment>Database tab name modifier</comment>
         <translation>%1 [New Database]</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1175"/>
         <source>Remote Sync did not contain any download or upload commands.</source>
         <translation>Remote Sync did not contain any download or upload commands.</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1236"/>
         <source>Remote sync &apos;%1&apos; completed successfully!</source>
         <translation>Remote sync &apos;%1&apos; completed successfully!</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1179"/>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1730"/>
         <source>Downloading...</source>
         <translation>Downloading...</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1223"/>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1756"/>
         <source>Uploading...</source>
         <translation>Uploading...</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1239"/>
         <source>Remote sync &apos;%1&apos; failed: %2</source>
         <translation>Remote sync &apos;%1&apos; failed: %2</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1464"/>
         <source>Syncing...</source>
         <translation>Syncing...</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1472"/>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1476"/>
         <source>Error while saving database %1: %2</source>
         <translation>Error while saving database %1: %2</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1813"/>
         <source>Remove passkey from entry</source>
         <translation>Remove passkey from entry</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1814"/>
         <source>Do you want to remove the passkey from this entry?</source>
         <translation>Do you want to remove the passkey from this entry?</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2276"/>
         <source>The database file &quot;%1&quot; was modified externally</source>
         <translation>The database file &quot;%1&quot; was modified externally</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2277"/>
         <source>Do you want to load the changes?</source>
         <translation>Do you want to load the changes?</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2292"/>
         <source>Reloading database…</source>
         <translation>Reloading database…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2317"/>
         <source>Reload canceled</source>
         <translation>Reload canceled</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2342"/>
         <source>Reload successful</source>
         <translation>Reload successful</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2368"/>
         <source>Reload pending user action…</source>
         <translation>Reload pending user action…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2371"/>
         <source>The database file &quot;%1&quot; was modified externally.&lt;br&gt;How would you like to proceed?&lt;br&gt;&lt;br&gt;Merge all changes&lt;br&gt;Ignore the changes on disk until save&lt;br&gt;Discard unsaved changes</source>
         <translation>The database file &quot;%1&quot; was modified externally.&lt;br&gt;How would you like to proceed?&lt;br&gt;&lt;br&gt;Merge all changes&lt;br&gt;Ignore the changes on disk until save&lt;br&gt;Discard unsaved changes</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2380"/>
         <source>The database file &quot;%1&quot; was modified externally.&lt;br&gt;How would you like to proceed?&lt;br&gt;&lt;br&gt;Merge all changes then save&lt;br&gt;Overwrite the changes on disk&lt;br&gt;Discard unsaved changes</source>
         <translation>The database file &quot;%1&quot; was modified externally.&lt;br&gt;How would you like to proceed?&lt;br&gt;&lt;br&gt;Merge all changes then save&lt;br&gt;Overwrite the changes on disk&lt;br&gt;Discard unsaved changes</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2389"/>
         <source>Reload database</source>
         <translation>Reload database</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2402"/>
         <source>Database file overwritten.</source>
         <translation>Database file overwritten.</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2432"/>
         <source>Database file on disk cannot be unlocked with current credentials.&lt;br&gt;Enter new credentials and/or present hardware key to continue.</source>
         <translation>Database file on disk cannot be unlocked with current credentials.&lt;br&gt;Enter new credentials and/or present hardware key to continue.</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2794"/>
         <source>Failed to save backup database: %1</source>
         <translation>Failed to save backup database: %1</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1137"/>
         <source>Confirm Delete Group</source>
         <translation>Confirm Delete Group</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1138"/>
         <source>Do you really want to permanently delete the group &quot;%1&quot;?</source>
         <translation>Do you really want to permanently delete the group &quot;%1&quot;?</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1147"/>
         <source>Confirm Recycle Group</source>
         <translation>Confirm Recycle Group</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1900"/>
         <source>Save</source>
         <translation>Save</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="2770"/>
         <source>Save Database Backup</source>
         <translation>Save Database Backup</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1412"/>
         <source>Successfully merged the selected database.</source>
         <translation>Successfully merged the selected database.</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1415"/>
         <source>No changes were made by the merge operation.</source>
         <translation>No changes were made by the merge operation.</translation>
     </message>
     <message>
+        <location filename="../../src/gui/DatabaseWidget.cpp" line="1420"/>
         <source>Merge canceled, no changes were made.</source>
         <translation>Merge cancelled, no changes were made.</translation>
     </message>
@@ -2936,98 +3189,98 @@ Disable safe saves and try again?</translation>
     <name>EditEntryAttachmentsDialog</name>
     <message>
         <source>Edit: %1</source>
-        <translation>Edit: %1</translation>
+        <translation type="vanished">Edit: %1</translation>
     </message>
 </context>
 <context>
     <name>EditEntryWidget</name>
     <message>
         <source>Entry</source>
-        <translation>Entry</translation>
+        <translation type="vanished">Entry</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation>Advanced</translation>
+        <translation type="vanished">Advanced</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation>Icon</translation>
+        <translation type="vanished">Icon</translation>
     </message>
     <message>
         <source>Auto-Type</source>
-        <translation>Auto-Type</translation>
+        <translation type="vanished">Auto-Type</translation>
     </message>
     <message>
         <source>Browser Integration</source>
-        <translation>Browser Integration</translation>
+        <translation type="vanished">Browser Integration</translation>
     </message>
     <message>
         <source>&lt;empty URL&gt;</source>
-        <translation>&lt;empty URL&gt;</translation>
+        <translation type="vanished">&lt;empty URL&gt;</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation>Confirm Removal</translation>
+        <translation type="vanished">Confirm Removal</translation>
     </message>
     <message>
         <source>Are you sure you want to remove this URL?</source>
-        <translation>Are you sure you want to remove this URL?</translation>
+        <translation type="vanished">Are you sure you want to remove this URL?</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation>Properties</translation>
+        <translation type="vanished">Properties</translation>
     </message>
     <message>
         <source>History</source>
-        <translation>History</translation>
+        <translation type="vanished">History</translation>
     </message>
     <message>
         <source>SSH Agent</source>
-        <translation>SSH Agent</translation>
+        <translation type="vanished">SSH Agent</translation>
     </message>
     <message>
         <source>n/a</source>
-        <translation>n/a</translation>
+        <translation type="vanished">n/a</translation>
     </message>
     <message>
         <source>Select private key</source>
-        <translation>Select private key</translation>
+        <translation type="vanished">Select private key</translation>
     </message>
     <message>
         <source>Entry history</source>
-        <translation>Entry history</translation>
+        <translation type="vanished">Entry history</translation>
     </message>
     <message>
         <source>Add entry</source>
-        <translation>Add entry</translation>
+        <translation type="vanished">Add entry</translation>
     </message>
     <message>
         <source>Edit entry</source>
-        <translation>Edit entry</translation>
+        <translation type="vanished">Edit entry</translation>
     </message>
     <message>
         <source>Some Browser Integration settings are overridden by group settings.</source>
-        <translation>Some Browser Integration settings are overridden by group settings.</translation>
+        <translation type="vanished">Some Browser Integration settings are overridden by group settings.</translation>
     </message>
     <message>
         <source>Invalid Entry</source>
-        <translation>Invalid Entry</translation>
+        <translation type="vanished">Invalid Entry</translation>
     </message>
     <message>
         <source>An external merge operation has invalidated this entry.
 Unfortunately, any changes made have been lost.</source>
-        <translation>An external merge operation has invalidated this entry.
+        <translation type="vanished">An external merge operation has invalidated this entry.
 Unfortunately, any changes made have been lost.</translation>
     </message>
     <message>
         <source>Auto-Type Validation Error</source>
-        <translation>Auto-Type Validation Error</translation>
+        <translation type="vanished">Auto-Type Validation Error</translation>
     </message>
     <message>
         <source>An error occurred while validating the custom Auto-Type sequence:
 %1
 Would you like to correct it?</source>
-        <translation>An error occurred while validating the custom Auto-Type sequence:
+        <translation type="vanished">An error occurred while validating the custom Auto-Type sequence:
 %1
 Would you like to correct it?</translation>
     </message>
@@ -3035,1216 +3288,1243 @@ Would you like to correct it?</translation>
         <source>An error occurred while validating the Auto-Type sequence for &quot;%1&quot;:
 %2
 Would you like to correct it?</source>
-        <translation>An error occurred while validating the Auto-Type sequence for &quot;%1&quot;:
+        <translation type="vanished">An error occurred while validating the Auto-Type sequence for &quot;%1&quot;:
 %2
 Would you like to correct it?</translation>
     </message>
     <message>
         <source>Entry updated successfully.</source>
-        <translation>Entry updated successfully.</translation>
+        <translation type="vanished">Entry updated successfully.</translation>
     </message>
     <message>
         <source>Unsaved Changes</source>
-        <translation>Unsaved Changes</translation>
+        <translation type="vanished">Unsaved Changes</translation>
     </message>
     <message>
         <source>Would you like to save changes to this entry?</source>
-        <translation>Would you like to save changes to this entry?</translation>
+        <translation type="vanished">Would you like to save changes to this entry?</translation>
     </message>
     <message>
         <source>New attribute</source>
-        <translation>New attribute</translation>
+        <translation type="vanished">New attribute</translation>
     </message>
     <message>
         <source>New attribute %1</source>
-        <translation>New attribute %1</translation>
+        <translation type="vanished">New attribute %1</translation>
     </message>
     <message>
         <source>Are you sure you want to remove this attribute?</source>
-        <translation>Are you sure you want to remove this attribute?</translation>
+        <translation type="vanished">Are you sure you want to remove this attribute?</translation>
     </message>
     <message>
         <source>Reveal</source>
-        <translation>Reveal</translation>
+        <translation type="vanished">Reveal</translation>
     </message>
     <message>
         <source>[PROTECTED] Press Reveal to view or edit</source>
-        <translation>[PROTECTED] Press Reveal to view or edit</translation>
+        <translation type="vanished">[PROTECTED] Press Reveal to view or edit</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>Hide</translation>
+        <translation type="vanished">Hide</translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>
-        <translation><numerusform>%n hour</numerusform><numerusform>%n hours</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>%n hour</numerusform>
+            <numerusform>%n hours</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%n week(s)</source>
-        <translation><numerusform>%n week</numerusform><numerusform>%n weeks</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>%n week</numerusform>
+            <numerusform>%n weeks</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%n month(s)</source>
-        <translation><numerusform>%n month</numerusform><numerusform>%n months</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>%n month</numerusform>
+            <numerusform>%n months</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%n year(s)</source>
-        <translation><numerusform>%n year</numerusform><numerusform>%n years</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>%n year</numerusform>
+            <numerusform>%n years</numerusform>
+        </translation>
     </message>
     <message>
         <source>Failed to decrypt SSH key, ensure password is correct.</source>
-        <translation>Failed to decrypt SSH key, ensure password is correct.</translation>
+        <translation type="vanished">Failed to decrypt SSH key, ensure password is correct.</translation>
     </message>
 </context>
 <context>
     <name>EditEntryWidgetAdvanced</name>
     <message>
         <source>Additional attributes</source>
-        <translation>Additional attributes</translation>
+        <translation type="vanished">Additional attributes</translation>
     </message>
     <message>
         <source>Attribute selection</source>
-        <translation>Attribute selection</translation>
+        <translation type="vanished">Attribute selection</translation>
     </message>
     <message>
         <source>Attribute value</source>
-        <translation>Attribute value</translation>
+        <translation type="vanished">Attribute value</translation>
     </message>
     <message>
         <source>Add a new attribute</source>
-        <translation>Add a new attribute</translation>
+        <translation type="vanished">Add a new attribute</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Add</translation>
+        <translation type="vanished">Add</translation>
     </message>
     <message>
         <source>Remove selected attribute</source>
-        <translation>Remove selected attribute</translation>
+        <translation type="vanished">Remove selected attribute</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Remove</translation>
+        <translation type="vanished">Remove</translation>
     </message>
     <message>
         <source>Edit attribute name</source>
-        <translation>Edit attribute name</translation>
+        <translation type="vanished">Edit attribute name</translation>
     </message>
     <message>
         <source>Edit Name</source>
-        <translation>Edit Name</translation>
+        <translation type="vanished">Edit Name</translation>
     </message>
     <message>
         <source>Toggle attribute protection</source>
-        <translation>Toggle attribute protection</translation>
+        <translation type="vanished">Toggle attribute protection</translation>
     </message>
     <message>
         <source>Protect</source>
-        <translation>Protect</translation>
+        <translation type="vanished">Protect</translation>
     </message>
     <message>
         <source>Show a protected attribute</source>
-        <translation>Show a protected attribute</translation>
+        <translation type="vanished">Show a protected attribute</translation>
     </message>
     <message>
         <source>Reveal</source>
-        <translation>Reveal</translation>
+        <translation type="vanished">Reveal</translation>
     </message>
     <message>
         <source>Attachments</source>
-        <translation>Attachments</translation>
+        <translation type="vanished">Attachments</translation>
     </message>
     <message>
         <source>If checked, the entry will not appear in reports like Health Check and HIBP even if it doesn&apos;t match the quality requirements.</source>
-        <translation>If checked, the entry will not appear in reports like Health Check and HIBP even if it doesn&apos;t match the quality requirements.</translation>
+        <translation type="vanished">If checked, the entry will not appear in reports like Health Check and HIBP even if it doesn&apos;t match the quality requirements.</translation>
     </message>
     <message>
         <source>Exclude from database reports</source>
-        <translation>Exclude from database reports</translation>
+        <translation type="vanished">Exclude from database reports</translation>
     </message>
     <message>
         <source>Foreground Color:</source>
-        <translation>Foreground Color:</translation>
+        <translation type="vanished">Foreground Color:</translation>
     </message>
     <message>
         <source>Foreground color selection</source>
-        <translation>Foreground color selection</translation>
+        <translation type="vanished">Foreground color selection</translation>
     </message>
     <message>
         <source>Background Color:</source>
-        <translation>Background Color:</translation>
+        <translation type="vanished">Background Color:</translation>
     </message>
     <message>
         <source>Background color selection</source>
-        <translation>Background color selection</translation>
+        <translation type="vanished">Background color selection</translation>
     </message>
 </context>
 <context>
     <name>EditEntryWidgetAutoType</name>
     <message>
         <source>Enable Auto-Type for this entry</source>
-        <translation>Enable Auto-Type for this entry</translation>
+        <translation type="vanished">Enable Auto-Type for this entry</translation>
     </message>
     <message>
         <source>Inherit default Auto-Type sequence from the group</source>
-        <translation>Inherit default Auto-Type sequence from the group</translation>
+        <translation type="vanished">Inherit default Auto-Type sequence from the group</translation>
     </message>
     <message>
         <source>Use custom Auto-Type sequence:</source>
-        <translation>Use custom Auto-Type sequence:</translation>
+        <translation type="vanished">Use custom Auto-Type sequence:</translation>
     </message>
     <message>
         <source>Custom Auto-Type sequence</source>
-        <translation>Custom Auto-Type sequence</translation>
+        <translation type="vanished">Custom Auto-Type sequence</translation>
     </message>
     <message>
         <source>Open Auto-Type help webpage</source>
-        <translation>Open Auto-Type help webpage</translation>
+        <translation type="vanished">Open Auto-Type help webpage</translation>
     </message>
     <message>
         <source>Window Associations</source>
-        <translation>Window Associations</translation>
+        <translation type="vanished">Window Associations</translation>
     </message>
     <message>
         <source>Existing window associations</source>
-        <translation>Existing window associations</translation>
+        <translation type="vanished">Existing window associations</translation>
     </message>
     <message>
         <source>Add new window association</source>
-        <translation>Add new window association</translation>
+        <translation type="vanished">Add new window association</translation>
     </message>
     <message>
         <source>+</source>
         <comment>Add item</comment>
-        <translation>+</translation>
+        <translation type="vanished">+</translation>
     </message>
     <message>
         <source>Remove selected window association</source>
-        <translation>Remove selected window association</translation>
+        <translation type="vanished">Remove selected window association</translation>
     </message>
     <message>
         <source>-</source>
         <comment>Remove item</comment>
-        <translation>-</translation>
+        <translation type="vanished">-</translation>
     </message>
     <message>
         <source>Window title:</source>
-        <translation>Window title:</translation>
+        <translation type="vanished">Window title:</translation>
     </message>
     <message>
         <source>You can use an asterisk (*) to match everything</source>
-        <translation>You can use an asterisk (*) to match everything</translation>
+        <translation type="vanished">You can use an asterisk (*) to match everything</translation>
     </message>
     <message>
         <source>Set the window association title</source>
-        <translation>Set the window association title</translation>
+        <translation type="vanished">Set the window association title</translation>
     </message>
     <message>
         <source>You can use an asterisk to match everything</source>
-        <translation>You can use an asterisk to match everything</translation>
+        <translation type="vanished">You can use an asterisk to match everything</translation>
     </message>
     <message>
         <source>Use a specific sequence for this association:</source>
-        <translation>Use a specific sequence for this association:</translation>
+        <translation type="vanished">Use a specific sequence for this association:</translation>
     </message>
     <message>
         <source>Custom Auto-Type sequence for this window</source>
-        <translation>Custom Auto-Type sequence for this window</translation>
+        <translation type="vanished">Custom Auto-Type sequence for this window</translation>
     </message>
 </context>
 <context>
     <name>EditEntryWidgetBrowser</name>
     <message>
         <source>General</source>
-        <translation>General</translation>
+        <translation type="vanished">General</translation>
     </message>
     <message>
         <source>Hide this entry from the browser extension</source>
-        <translation>Hide this entry from the browser extension</translation>
+        <translation type="vanished">Hide this entry from the browser extension</translation>
     </message>
     <message>
         <source>Skip Auto-Submit for this entry</source>
-        <translation>Skip Auto-Submit for this entry</translation>
+        <translation type="vanished">Skip Auto-Submit for this entry</translation>
     </message>
     <message>
         <source>Use this entry only with HTTP Basic Auth</source>
-        <translation>Use this entry only with HTTP Basic Auth</translation>
+        <translation type="vanished">Use this entry only with HTTP Basic Auth</translation>
     </message>
     <message>
         <source>Do not use this entry with HTTP Basic Auth</source>
-        <translation>Do not use this entry with HTTP Basic Auth</translation>
+        <translation type="vanished">Do not use this entry with HTTP Basic Auth</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Add</translation>
+        <translation type="vanished">Add</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Remove</translation>
+        <translation type="vanished">Remove</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Edit</translation>
+        <translation type="vanished">Edit</translation>
     </message>
     <message>
         <source>These settings affect the entry&apos;s behaviour with the browser extension.</source>
-        <translation>These settings affect the entry&apos;s behaviour with the browser extension.</translation>
+        <translation type="vanished">These settings affect the entry&apos;s behaviour with the browser extension.</translation>
     </message>
     <message>
         <source>Additional URLs</source>
-        <translation>Additional URLs</translation>
+        <translation type="vanished">Additional URLs</translation>
     </message>
     <message>
         <source>Only send this entry to the browser for HTTP Auth dialogs. If enabled, normal login forms will not show this entry for selection.</source>
-        <translation>Only send this entry to the browser for HTTP Auth dialogs. If enabled, normal login forms will not show this entry for selection.</translation>
+        <translation type="vanished">Only send this entry to the browser for HTTP Auth dialogs. If enabled, normal login forms will not show this entry for selection.</translation>
     </message>
     <message>
         <source>Do not send this entry to the browser for HTTP Auth dialogs. If enabled, HTTP Auth dialogs will not show this entry for selection.</source>
-        <translation>Do not send this entry to the browser for HTTP Auth dialogs. If enabled, HTTP Auth dialogs will not show this entry for selection.</translation>
+        <translation type="vanished">Do not send this entry to the browser for HTTP Auth dialogs. If enabled, HTTP Auth dialogs will not show this entry for selection.</translation>
     </message>
 </context>
 <context>
     <name>EditEntryWidgetHistory</name>
     <message>
         <source>Entry history selection</source>
-        <translation>Entry history selection</translation>
+        <translation type="vanished">Entry history selection</translation>
     </message>
     <message>
         <source>Show entry at selected history state</source>
-        <translation>Show entry at selected history state</translation>
+        <translation type="vanished">Show entry at selected history state</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation>Show</translation>
+        <translation type="vanished">Show</translation>
     </message>
     <message>
         <source>Restore entry to selected history state</source>
-        <translation>Restore entry to selected history state</translation>
+        <translation type="vanished">Restore entry to selected history state</translation>
     </message>
     <message>
         <source>Restore</source>
-        <translation>Restore</translation>
+        <translation type="vanished">Restore</translation>
     </message>
     <message>
         <source>Delete selected history state</source>
-        <translation>Delete selected history state</translation>
+        <translation type="vanished">Delete selected history state</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Delete</translation>
+        <translation type="vanished">Delete</translation>
     </message>
     <message>
         <source>Delete all history</source>
-        <translation>Delete all history</translation>
+        <translation type="vanished">Delete all history</translation>
     </message>
     <message>
         <source>Delete all</source>
-        <translation>Delete all</translation>
+        <translation type="vanished">Delete all</translation>
     </message>
 </context>
 <context>
     <name>EditEntryWidgetMain</name>
     <message>
         <source>Edit Entry</source>
-        <translation>Edit Entry</translation>
+        <translation type="vanished">Edit Entry</translation>
     </message>
     <message>
         <source>Notes field</source>
-        <translation>Notes field</translation>
+        <translation type="vanished">Notes field</translation>
     </message>
     <message>
         <source>Username field</source>
-        <translation>Username field</translation>
+        <translation type="vanished">Username field</translation>
     </message>
     <message>
         <source>Expiration field</source>
-        <translation>Expiration field</translation>
+        <translation type="vanished">Expiration field</translation>
     </message>
     <message>
         <source>Expiration Presets</source>
-        <translation>Expiration Presets</translation>
+        <translation type="vanished">Expiration Presets</translation>
     </message>
     <message>
         <source>Expiration presets</source>
-        <translation>Expiration presets</translation>
+        <translation type="vanished">Expiration presets</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation>Presets</translation>
+        <translation type="vanished">Presets</translation>
     </message>
     <message>
         <source>Url field</source>
-        <translation>Url field</translation>
+        <translation type="vanished">Url field</translation>
     </message>
     <message>
         <source>Download favicon for URL</source>
-        <translation>Download favicon for URL</translation>
+        <translation type="vanished">Download favicon for URL</translation>
     </message>
     <message>
         <source>Title field</source>
-        <translation>Title field</translation>
+        <translation type="vanished">Title field</translation>
     </message>
     <message>
         <source>Password field</source>
-        <translation>Password field</translation>
+        <translation type="vanished">Password field</translation>
     </message>
     <message>
         <source>Toggle expiration</source>
-        <translation>Toggle expiration</translation>
+        <translation type="vanished">Toggle expiration</translation>
     </message>
     <message>
         <source>Tags list</source>
-        <translation>Tags list</translation>
+        <translation type="vanished">Tags list</translation>
     </message>
     <message>
         <source>&amp;Username:</source>
-        <translation>&amp;Username:</translation>
+        <translation type="vanished">&amp;Username:</translation>
     </message>
     <message>
         <source>&amp;Title:</source>
-        <translation>&amp;Title:</translation>
+        <translation type="vanished">&amp;Title:</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation>&amp;Password:</translation>
+        <translation type="vanished">&amp;Password:</translation>
     </message>
     <message>
         <source>UR&amp;L:</source>
-        <translation>UR&amp;L:</translation>
+        <translation type="vanished">UR&amp;L:</translation>
     </message>
     <message>
         <source>&amp;Notes:</source>
-        <translation>&amp;Notes:</translation>
+        <translation type="vanished">&amp;Notes:</translation>
     </message>
     <message>
         <source>Toggle notes visibility</source>
-        <translation>Toggle notes visibility</translation>
+        <translation type="vanished">Toggle notes visibility</translation>
     </message>
     <message>
         <source>T&amp;ags:</source>
-        <translation>T&amp;ags:</translation>
+        <translation type="vanished">T&amp;ags:</translation>
     </message>
     <message>
         <source>&amp;Expires:</source>
-        <translation>&amp;Expires:</translation>
+        <translation type="vanished">&amp;Expires:</translation>
     </message>
 </context>
 <context>
     <name>EditEntryWidgetSSHAgent</name>
     <message>
         <source>Form</source>
-        <translation>Form</translation>
+        <translation type="vanished">Form</translation>
     </message>
     <message>
         <source>Remove key from agent when database is closed/locked</source>
-        <translation>Remove key from agent when database is closed/locked</translation>
+        <translation type="vanished">Remove key from agent when database is closed/locked</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation>Comment</translation>
+        <translation type="vanished">Comment</translation>
     </message>
     <message>
         <source>Add key to agent when database is opened/unlocked</source>
-        <translation>Add key to agent when database is opened/unlocked</translation>
+        <translation type="vanished">Add key to agent when database is opened/unlocked</translation>
     </message>
     <message>
         <source>Decrypt</source>
-        <translation>Decrypt</translation>
+        <translation type="vanished">Decrypt</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation>Fingerprint</translation>
+        <translation type="vanished">Fingerprint</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation>Copy to clipboard</translation>
+        <translation type="vanished">Copy to clipboard</translation>
     </message>
     <message>
         <source>Public key</source>
-        <translation>Public key</translation>
+        <translation type="vanished">Public key</translation>
     </message>
     <message>
         <source>Private key</source>
-        <translation>Private key</translation>
+        <translation type="vanished">Private key</translation>
     </message>
     <message>
         <source>Attachment</source>
-        <translation>Attachment</translation>
+        <translation type="vanished">Attachment</translation>
     </message>
     <message>
         <source>External key file</source>
-        <translation>External key file</translation>
+        <translation type="vanished">External key file</translation>
     </message>
     <message>
         <source>Add to agent</source>
-        <translation>Add to agent</translation>
+        <translation type="vanished">Add to agent</translation>
     </message>
     <message>
         <source>Remove from agent</source>
-        <translation>Remove from agent</translation>
+        <translation type="vanished">Remove from agent</translation>
     </message>
     <message>
         <source>External file</source>
-        <translation>External file</translation>
+        <translation type="vanished">External file</translation>
     </message>
     <message>
         <source>Browser for key file</source>
-        <translation>Browse filesystem for key file</translation>
+        <translation type="vanished">Browse filesystem for key file</translation>
     </message>
     <message>
         <source>Browse…</source>
         <extracomment>Button for opening file dialog</extracomment>
-        <translation>Browse…</translation>
+        <translation type="vanished">Browse…</translation>
     </message>
     <message>
         <source>Generate</source>
-        <translation>Generate</translation>
+        <translation type="vanished">Generate</translation>
     </message>
     <message>
         <source>Select attachment file</source>
-        <translation>Select attachment file</translation>
+        <translation type="vanished">Select attachment file</translation>
     </message>
     <message>
         <source>Require user confirmation when this key is used</source>
-        <translation>Require user confirmation when this key is used</translation>
+        <translation type="vanished">Require user confirmation when this key is used</translation>
     </message>
     <message>
         <source>n/a</source>
-        <translation>n/a</translation>
+        <translation type="vanished">n/a</translation>
     </message>
     <message>
         <source>Remove key from agent after</source>
-        <translation>Remove key from agent after</translation>
+        <translation type="vanished">Remove key from agent after</translation>
     </message>
     <message>
         <source>Remove key from agent after specified seconds</source>
-        <translation>Remove key from agent after specified seconds</translation>
+        <translation type="vanished">Remove key from agent after specified seconds</translation>
     </message>
     <message>
         <source> seconds</source>
-        <translation> seconds</translation>
+        <translation type="vanished"> seconds</translation>
     </message>
     <message>
         <source>Clear agent</source>
-        <translation>Clear agent</translation>
+        <translation type="vanished">Clear agent</translation>
     </message>
 </context>
 <context>
     <name>EditGroupWidget</name>
     <message>
         <source>Group</source>
-        <translation>Group</translation>
+        <translation type="vanished">Group</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation>Icon</translation>
+        <translation type="vanished">Icon</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation>Properties</translation>
+        <translation type="vanished">Properties</translation>
     </message>
     <message>
         <source>Add group</source>
-        <translation>Add group</translation>
+        <translation type="vanished">Add group</translation>
     </message>
     <message>
         <source>Edit group</source>
-        <translation>Edit group</translation>
+        <translation type="vanished">Edit group</translation>
     </message>
     <message>
         <source>Group has unsaved changes</source>
-        <translation>Group has unsaved changes</translation>
+        <translation type="vanished">Group has unsaved changes</translation>
     </message>
     <message>
         <source>Browser Integration</source>
-        <translation>Browser Integration</translation>
+        <translation type="vanished">Browser Integration</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation>Enable</translation>
+        <translation type="vanished">Enable</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation>Disable</translation>
+        <translation type="vanished">Disable</translation>
     </message>
     <message>
         <source>Inherit from parent group (%1)</source>
-        <translation>Inherit from parent group (%1)</translation>
+        <translation type="vanished">Inherit from parent group (%1)</translation>
     </message>
 </context>
 <context>
     <name>EditGroupWidgetBrowser</name>
     <message>
         <source>These settings affect to the group&apos;s behaviour with the browser extension.</source>
-        <translation>These settings affect to the group&apos;s behaviour with the browser extension.</translation>
+        <translation type="vanished">These settings affect to the group&apos;s behaviour with the browser extension.</translation>
     </message>
     <message>
         <source>Hide entries from browser extension:</source>
-        <translation>Hide entries from browser extension:</translation>
+        <translation type="vanished">Hide entries from browser extension:</translation>
     </message>
     <message>
         <source>Hide entries from browser extension toggle for this and sub groups</source>
-        <translation>Hide entries from browser extension toggle for this and sub groups</translation>
+        <translation type="vanished">Hide entries from browser extension toggle for this and sub groups</translation>
     </message>
     <message>
         <source>Skip Auto-Submit for entries:</source>
-        <translation>Skip Auto-Submit for entries:</translation>
+        <translation type="vanished">Skip Auto-Submit for entries:</translation>
     </message>
     <message>
         <source>Skip Auto-Submit toggle for this and sub groups</source>
-        <translation>Skip Auto-Submit toggle for this and sub groups</translation>
+        <translation type="vanished">Skip Auto-Submit toggle for this and sub groups</translation>
     </message>
     <message>
         <source>Use entries only with HTTP Basic Auth:</source>
-        <translation>Use entries only with HTTP Basic Auth:</translation>
+        <translation type="vanished">Use entries only with HTTP Basic Auth:</translation>
     </message>
     <message>
         <source>Only HTTP Auth toggle for this and sub groups</source>
-        <translation>Only HTTP Auth toggle for this and sub groups</translation>
+        <translation type="vanished">Only HTTP Auth toggle for this and sub groups</translation>
     </message>
     <message>
         <source>Do not use entries with HTTP Basic Auth:</source>
-        <translation>Do not use entries with HTTP Basic Auth:</translation>
+        <translation type="vanished">Do not use entries with HTTP Basic Auth:</translation>
     </message>
     <message>
         <source>Do not use HTTP Auth toggle for this and sub groups</source>
-        <translation>Do not use HTTP Auth toggle for this and sub groups</translation>
+        <translation type="vanished">Do not use HTTP Auth toggle for this and sub groups</translation>
     </message>
     <message>
         <source>Omit WWW subdomain from matching:</source>
-        <translation>Omit WWW subdomain from matching:</translation>
+        <translation type="vanished">Omit WWW subdomain from matching:</translation>
     </message>
     <message>
         <source>Omit WWW subdomain from matching toggle for this and sub groups</source>
-        <translation>Omit WWW subdomain from matching toggle for this and sub groups</translation>
+        <translation type="vanished">Omit WWW subdomain from matching toggle for this and sub groups</translation>
     </message>
     <message>
         <source>Restrict matching to given browser key:</source>
-        <translation>Restrict matching to given browser key:</translation>
+        <translation type="vanished">Restrict matching to given browser key:</translation>
     </message>
     <message>
         <source>Restrict matching to given browser key toggle for this and sub groups</source>
-        <translation>Restrict matching to given browser key toggle for this and sub groups</translation>
+        <translation type="vanished">Restrict matching to given browser key toggle for this and sub groups</translation>
     </message>
 </context>
 <context>
     <name>EditGroupWidgetKeeShare</name>
     <message>
         <source>Sharing mode field</source>
-        <translation>Sharing mode field</translation>
+        <translation type="vanished">Sharing mode field</translation>
     </message>
     <message>
         <source>Password field</source>
-        <translation>Password field</translation>
+        <translation type="vanished">Password field</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation>Type:</translation>
+        <translation type="vanished">Type:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Password:</translation>
+        <translation type="vanished">Password:</translation>
     </message>
     <message>
         <source>Path:</source>
-        <translation>Path:</translation>
+        <translation type="vanished">Path:</translation>
     </message>
     <message>
         <source>Path to share file field</source>
-        <translation>Path to share file field</translation>
+        <translation type="vanished">Path to share file field</translation>
     </message>
     <message>
         <source>Browse for share file</source>
-        <translation>Browse for share file</translation>
+        <translation type="vanished">Browse for share file</translation>
     </message>
     <message>
         <source>Browse…</source>
-        <translation>Browse…</translation>
+        <translation type="vanished">Browse…</translation>
     </message>
     <message>
         <source>Clear fields</source>
-        <translation>Clear fields</translation>
+        <translation type="vanished">Clear fields</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Clear</translation>
+        <translation type="vanished">Clear</translation>
     </message>
     <message>
         <source>Inactive</source>
-        <translation>Inactive</translation>
+        <translation type="vanished">Inactive</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation>Import</translation>
+        <translation type="vanished">Import</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation>Export</translation>
+        <translation type="vanished">Export</translation>
     </message>
     <message>
         <source>Synchronize</source>
-        <translation>Synchronize</translation>
+        <translation type="vanished">Synchronize</translation>
     </message>
     <message>
         <source>Your KeePassXC version does not support sharing this container type.
 Supported extensions are: %1.</source>
-        <translation>Your KeePassXC version does not support sharing this container type.
+        <translation type="vanished">Your KeePassXC version does not support sharing this container type.
 Supported extensions are: %1.</translation>
     </message>
     <message>
         <source>%1 is already being exported by this database.</source>
-        <translation>%1 is already being exported by this database.</translation>
+        <translation type="vanished">%1 is already being exported by this database.</translation>
     </message>
     <message>
         <source>%1 is already being imported by this database.</source>
-        <translation>%1 is already being imported by this database.</translation>
+        <translation type="vanished">%1 is already being imported by this database.</translation>
     </message>
     <message>
         <source>%1 is being imported and exported by different groups in this database.</source>
-        <translation>%1 is being imported and exported by different groups in this database.</translation>
+        <translation type="vanished">%1 is being imported and exported by different groups in this database.</translation>
     </message>
     <message>
         <source>KeeShare is currently disabled. You can enable import/export in the application settings.</source>
         <comment>KeeShare is a proper noun</comment>
-        <translation>KeeShare is currently disabled. You can enable import/export in the application settings.</translation>
+        <translation type="vanished">KeeShare is currently disabled. You can enable import/export in the application settings.</translation>
     </message>
     <message>
         <source>Database export is currently disabled by application settings.</source>
-        <translation>Database export is currently disabled by application settings.</translation>
+        <translation type="vanished">Database export is currently disabled by application settings.</translation>
     </message>
     <message>
         <source>Database import is currently disabled by application settings.</source>
-        <translation>Database import is currently disabled by application settings.</translation>
+        <translation type="vanished">Database import is currently disabled by application settings.</translation>
     </message>
     <message>
         <source>KeeShare container</source>
-        <translation>KeeShare container</translation>
+        <translation type="vanished">KeeShare container</translation>
     </message>
     <message>
         <source>KeeShare signed container</source>
-        <translation>KeeShare signed container</translation>
+        <translation type="vanished">KeeShare signed container</translation>
     </message>
     <message>
         <source>Select import source</source>
-        <translation>Select import source</translation>
+        <translation type="vanished">Select import source</translation>
     </message>
     <message>
         <source>Select export target</source>
-        <translation>Select export target</translation>
+        <translation type="vanished">Select export target</translation>
     </message>
     <message>
         <source>Select import/export file</source>
-        <translation>Select import/export file</translation>
+        <translation type="vanished">Select import/export file</translation>
     </message>
 </context>
 <context>
     <name>EditGroupWidgetMain</name>
     <message>
         <source>Edit Group</source>
-        <translation>Edit Group</translation>
+        <translation type="vanished">Edit Group</translation>
     </message>
     <message>
         <source>Toggle expiration</source>
-        <translation>Toggle expiration</translation>
+        <translation type="vanished">Toggle expiration</translation>
     </message>
     <message>
         <source>Expires:</source>
-        <translation>Expires:</translation>
+        <translation type="vanished">Expires:</translation>
     </message>
     <message>
         <source>Name field</source>
-        <translation>Name field</translation>
+        <translation type="vanished">Name field</translation>
     </message>
     <message>
         <source>Expiration field</source>
-        <translation>Expiration field</translation>
+        <translation type="vanished">Expiration field</translation>
     </message>
     <message>
         <source>Use default Auto-Type sequence of parent group</source>
-        <translation>Use default Auto-Type sequence of parent group</translation>
+        <translation type="vanished">Use default Auto-Type sequence of parent group</translation>
     </message>
     <message>
         <source>Auto-Type:</source>
-        <translation>Auto-Type:</translation>
+        <translation type="vanished">Auto-Type:</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation>Search:</translation>
+        <translation type="vanished">Search:</translation>
     </message>
     <message>
         <source>Auto-Type toggle for this and sub groups</source>
-        <translation>Auto-Type toggle for this and sub groups</translation>
+        <translation type="vanished">Auto-Type toggle for this and sub groups</translation>
     </message>
     <message>
         <source>Notes:</source>
-        <translation>Notes:</translation>
+        <translation type="vanished">Notes:</translation>
     </message>
     <message>
         <source>Default auto-type sequence field</source>
-        <translation>Default auto-type sequence field</translation>
+        <translation type="vanished">Default auto-type sequence field</translation>
     </message>
     <message>
         <source>Notes field</source>
-        <translation>Notes field</translation>
+        <translation type="vanished">Notes field</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation>Name:</translation>
+        <translation type="vanished">Name:</translation>
     </message>
     <message>
         <source>Set default Auto-Type sequence</source>
-        <translation>Set default Auto-Type sequence</translation>
+        <translation type="vanished">Set default Auto-Type sequence</translation>
     </message>
     <message>
         <source>Search toggle for this and sub groups</source>
-        <translation>Search toggle for this and sub groups</translation>
+        <translation type="vanished">Search toggle for this and sub groups</translation>
     </message>
 </context>
 <context>
     <name>EditWidgetIcons</name>
     <message>
         <source>Use default icon</source>
-        <translation>Use default icon</translation>
+        <translation type="vanished">Use default icon</translation>
     </message>
     <message>
         <source>Use custom icon</source>
-        <translation>Use custom icon</translation>
+        <translation type="vanished">Use custom icon</translation>
     </message>
     <message>
         <source>Choose icon…</source>
-        <translation>Choose icon…</translation>
+        <translation type="vanished">Choose icon…</translation>
     </message>
     <message>
         <source>Set the URL to use to search for a favicon</source>
-        <translation>Set the URL to use to search for a favicon</translation>
+        <translation type="vanished">Set the URL to use to search for a favicon</translation>
     </message>
     <message>
         <source>Favicon URL</source>
-        <translation>Favicon URL</translation>
+        <translation type="vanished">Favicon URL</translation>
     </message>
     <message>
         <source>Download favicon for URL</source>
-        <translation>Download favicon for URL</translation>
+        <translation type="vanished">Download favicon for URL</translation>
     </message>
     <message>
         <source>Download favicon</source>
-        <translation>Download favicon</translation>
+        <translation type="vanished">Download favicon</translation>
     </message>
     <message>
         <source>Apply selected icon to subgroups and entries</source>
-        <translation>Apply selected icon to subgroups and entries</translation>
+        <translation type="vanished">Apply selected icon to subgroups and entries</translation>
     </message>
     <message>
         <source>Apply icon to…</source>
-        <translation>Apply icon to…</translation>
+        <translation type="vanished">Apply icon to…</translation>
     </message>
     <message>
         <source>Apply to this group only</source>
-        <translation>Apply to this group only</translation>
+        <translation type="vanished">Apply to this group only</translation>
     </message>
     <message>
         <source>Also apply to child groups</source>
-        <translation>Also apply to child groups</translation>
+        <translation type="vanished">Also apply to child groups</translation>
     </message>
     <message>
         <source>Also apply to child entries</source>
-        <translation>Also apply to child entries</translation>
+        <translation type="vanished">Also apply to child entries</translation>
     </message>
     <message>
         <source>Also apply to all children</source>
-        <translation>Also apply to all children</translation>
+        <translation type="vanished">Also apply to all children</translation>
     </message>
     <message>
         <source>Unable to fetch favicon.</source>
-        <translation>Unable to fetch favicon.</translation>
+        <translation type="vanished">Unable to fetch favicon.</translation>
     </message>
     <message>
         <source>Existing icon selected.</source>
-        <translation>Existing icon selected.</translation>
+        <translation type="vanished">Existing icon selected.</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation>Images</translation>
+        <translation type="vanished">Images</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation>All files</translation>
+        <translation type="vanished">All files</translation>
     </message>
     <message>
         <source>Select Image(s)</source>
-        <translation>Select Image(s)</translation>
+        <translation type="vanished">Select Image(s)</translation>
     </message>
     <message numerus="yes">
         <source>Successfully loaded %1 of %n icon(s)</source>
-        <translation><numerusform>Successfully loaded %1 of %n icon</numerusform><numerusform>Successfully loaded %1 of %n icons</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>Successfully loaded %1 of %n icon</numerusform>
+            <numerusform>Successfully loaded %1 of %n icons</numerusform>
+        </translation>
     </message>
     <message>
         <source>No icons were loaded</source>
-        <translation>No icons were loaded</translation>
+        <translation type="vanished">No icons were loaded</translation>
     </message>
     <message numerus="yes">
         <source>%n icon(s) already exist in the database</source>
-        <translation><numerusform>%n icon already exist in the database</numerusform><numerusform>%n icons already exist in the database</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>%n icon already exist in the database</numerusform>
+            <numerusform>%n icons already exist in the database</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>The following icon(s) failed:</source>
-        <translation><numerusform>The following icon failed:</numerusform><numerusform>The following icons failed:</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>The following icon failed:</numerusform>
+            <numerusform>The following icons failed:</numerusform>
+        </translation>
     </message>
     <message>
         <source>You can enable the DuckDuckGo website icon service under Application Settings -&gt; Security</source>
-        <translation>You can enable the DuckDuckGo website icon service under Application Settings -&gt; Security</translation>
+        <translation type="vanished">You can enable the DuckDuckGo website icon service under Application Settings -&gt; Security</translation>
     </message>
 </context>
 <context>
     <name>EditWidgetProperties</name>
     <message>
         <source>Created:</source>
-        <translation>Created:</translation>
+        <translation type="vanished">Created:</translation>
     </message>
     <message>
         <source>Datetime created</source>
-        <translation>Datetime created</translation>
+        <translation type="vanished">Datetime created</translation>
     </message>
     <message>
         <source>Modified:</source>
-        <translation>Modified:</translation>
+        <translation type="vanished">Modified:</translation>
     </message>
     <message>
         <source>Datetime modified</source>
-        <translation>Datetime modified</translation>
+        <translation type="vanished">Datetime modified</translation>
     </message>
     <message>
         <source>Uuid:</source>
-        <translation>Uuid:</translation>
+        <translation type="vanished">Uuid:</translation>
     </message>
     <message>
         <source>Unique ID</source>
-        <translation>Unique ID</translation>
+        <translation type="vanished">Unique ID</translation>
     </message>
     <message>
         <source>Plugin Data</source>
-        <translation>Plugin Data</translation>
+        <translation type="vanished">Plugin Data</translation>
     </message>
     <message>
         <source>Plugin data</source>
-        <translation>Plugin data</translation>
+        <translation type="vanished">Plugin data</translation>
     </message>
     <message>
         <source>Remove selected plugin data</source>
-        <translation>Remove selected plugin data</translation>
+        <translation type="vanished">Remove selected plugin data</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Remove</translation>
+        <translation type="vanished">Remove</translation>
     </message>
     <message>
         <source>Delete plugin data?</source>
-        <translation>Delete plugin data?</translation>
+        <translation type="vanished">Delete plugin data?</translation>
     </message>
     <message>
         <source>Do you really want to delete the selected plugin data?
 This may cause the affected plugins to malfunction.</source>
-        <translation>Do you really want to delete the selected plugin data?
+        <translation type="vanished">Do you really want to delete the selected plugin data?
 This may cause the affected plugins to malfunction.</translation>
     </message>
     <message>
         <source>Key</source>
-        <translation>Key</translation>
+        <translation type="vanished">Key</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>Value</translation>
+        <translation type="vanished">Value</translation>
     </message>
 </context>
 <context>
     <name>Entry</name>
     <message>
         <source>%1 - Clone</source>
-        <translation>%1 - Clone</translation>
+        <translation type="vanished">%1 - Clone</translation>
     </message>
     <message>
         <source>Passkey</source>
-        <translation>Passkey</translation>
+        <translation type="vanished">Passkey</translation>
     </message>
     <message>
         <source>Invalid conversion type: %1</source>
-        <translation>Invalid conversion type: %1</translation>
+        <translation type="vanished">Invalid conversion type: %1</translation>
     </message>
     <message>
         <source>Invalid conversion syntax: %1</source>
-        <translation>Invalid conversion syntax: %1</translation>
+        <translation type="vanished">Invalid conversion syntax: %1</translation>
     </message>
     <message>
         <source>Invalid regular expression syntax %1
 %2</source>
-        <translation>Invalid regular expression syntax %1
+        <translation type="vanished">Invalid regular expression syntax %1
 %2</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation>Title</translation>
+        <translation type="vanished">Title</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Username</translation>
+        <translation type="vanished">Username</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Password</translation>
+        <translation type="vanished">Password</translation>
     </message>
     <message>
         <source>URL</source>
-        <translation>URL</translation>
+        <translation type="vanished">URL</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation>Notes</translation>
+        <translation type="vanished">Notes</translation>
     </message>
     <message>
         <source>Custom Attributes</source>
-        <translation>Custom Attributes</translation>
+        <translation type="vanished">Custom Attributes</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation>Icon</translation>
+        <translation type="vanished">Icon</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation>Colour</translation>
+        <translation type="vanished">Colour</translation>
     </message>
     <message>
         <source>Expiration</source>
-        <translation>Expiration</translation>
+        <translation type="vanished">Expiration</translation>
     </message>
     <message>
         <source>TOTP</source>
-        <translation>TOTP</translation>
+        <translation type="vanished">TOTP</translation>
     </message>
     <message>
         <source>Custom Data</source>
-        <translation>Custom Data</translation>
+        <translation type="vanished">Custom Data</translation>
     </message>
     <message>
         <source>Attachments</source>
-        <translation>Attachments</translation>
+        <translation type="vanished">Attachments</translation>
     </message>
     <message>
         <source>Auto-Type</source>
-        <translation>Auto-Type</translation>
+        <translation type="vanished">Auto-Type</translation>
     </message>
     <message>
         <source>Tags</source>
-        <translation>Tags</translation>
+        <translation type="vanished">Tags</translation>
     </message>
 </context>
 <context>
     <name>EntryAttachments</name>
     <message>
         <source>Cannot open file &quot;%1&quot;</source>
-        <translation>Cannot open file &quot;%1&quot;</translation>
+        <translation type="vanished">Cannot open file &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
     <name>EntryAttachmentsModel</name>
     <message>
         <source>Name</source>
-        <translation>Name</translation>
+        <translation type="vanished">Name</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Size</translation>
+        <translation type="vanished">Size</translation>
     </message>
 </context>
 <context>
     <name>EntryAttachmentsWidget</name>
     <message>
         <source>Form</source>
-        <translation>Form</translation>
+        <translation type="vanished">Form</translation>
     </message>
     <message>
         <source>Attachments</source>
-        <translation>Attachments</translation>
+        <translation type="vanished">Attachments</translation>
     </message>
     <message>
         <source>Add new attachment</source>
-        <translation>Add new attachment</translation>
+        <translation type="vanished">Add new attachment</translation>
     </message>
     <message>
         <source>Remove selected attachment</source>
-        <translation>Remove selected attachment</translation>
+        <translation type="vanished">Remove selected attachment</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Remove</translation>
+        <translation type="vanished">Remove</translation>
     </message>
     <message>
         <source>Open selected attachment</source>
-        <translation>Open selected attachment</translation>
+        <translation type="vanished">Open selected attachment</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Open</translation>
+        <translation type="vanished">Open</translation>
     </message>
     <message>
         <source>Save selected attachment to disk</source>
-        <translation>Save selected attachment to disk</translation>
+        <translation type="vanished">Save selected attachment to disk</translation>
     </message>
     <message>
         <source>Select files</source>
-        <translation>Select files</translation>
+        <translation type="vanished">Select files</translation>
     </message>
     <message>
         <source>Confirm remove</source>
-        <translation>Confirm remove</translation>
+        <translation type="vanished">Confirm remove</translation>
     </message>
     <message numerus="yes">
         <source>Are you sure you want to remove %n attachment(s)?</source>
-        <translation><numerusform>Are you sure you want to remove %n attachment?</numerusform><numerusform>Are you sure you want to remove %n attachments?</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>Are you sure you want to remove %n attachment?</numerusform>
+            <numerusform>Are you sure you want to remove %n attachments?</numerusform>
+        </translation>
     </message>
     <message>
         <source>Save attachments</source>
-        <translation>Save attachments</translation>
+        <translation type="vanished">Save attachments</translation>
     </message>
     <message>
         <source>Unable to create directory:
 %1</source>
-        <translation>Unable to create directory:
+        <translation type="vanished">Unable to create directory:
 %1</translation>
     </message>
     <message>
         <source>Are you sure you want to overwrite the existing file &quot;%1&quot; with the attachment?</source>
-        <translation>Are you sure you want to overwrite the existing file &quot;%1&quot; with the attachment?</translation>
+        <translation type="vanished">Are you sure you want to overwrite the existing file &quot;%1&quot; with the attachment?</translation>
     </message>
     <message>
         <source>Confirm overwrite</source>
-        <translation>Confirm overwrite</translation>
+        <translation type="vanished">Confirm overwrite</translation>
     </message>
     <message>
         <source>Unable to save attachments:
 %1</source>
-        <translation>Unable to save attachments:
+        <translation type="vanished">Unable to save attachments:
 %1</translation>
     </message>
     <message>
         <source>Unable to open attachment:
 %1</source>
-        <translation>Unable to open attachment:
+        <translation type="vanished">Unable to open attachment:
 %1</translation>
     </message>
     <message>
         <source>Unable to open attachments:
 %1</source>
-        <translation>Unable to open attachments:
+        <translation type="vanished">Unable to open attachments:
 %1</translation>
     </message>
     <message numerus="yes">
         <source>Unable to open file(s):
 %1</source>
-        <translation><numerusform>Unable to open file:
-%1</numerusform><numerusform>Unable to open files:
-%1</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>Unable to open file:
+%1</numerusform>
+            <numerusform>Unable to open files:
+%1</numerusform>
+        </translation>
     </message>
     <message>
         <source>Confirm Overwrite Attachment</source>
-        <translation>Confirm Overwrite Attachment</translation>
+        <translation type="vanished">Confirm Overwrite Attachment</translation>
     </message>
     <message>
         <source>Confirm Attachment</source>
-        <translation>Confirm Attachment</translation>
+        <translation type="vanished">Confirm Attachment</translation>
     </message>
     <message>
         <source>%1 is a big file (%2 MB).
 Your database may get very large and reduce performance.
 
 Are you sure to add this file?</source>
-        <translation>%1 is a big file (%2 MB).
+        <translation type="vanished">%1 is a big file (%2 MB).
 Your database may get very large and reduce performance.
 
 Are you sure to add this file?</translation>
     </message>
     <message>
         <source>Attachment modified</source>
-        <translation>Attachment modified</translation>
+        <translation type="vanished">Attachment modified</translation>
     </message>
     <message>
-        <source>The attachment '%1' was modified.
+        <source>The attachment &apos;%1&apos; was modified.
 Do you want to save the changes to your database?</source>
-        <translation>The attachment &apos;%1&apos; was modified.
+        <translation type="vanished">The attachment &apos;%1&apos; was modified.
 Do you want to save the changes to your database?</translation>
     </message>
     <message>
         <source>Saving attachment failed</source>
-        <translation>Saving attachment failed</translation>
+        <translation type="vanished">Saving attachment failed</translation>
     </message>
     <message>
         <source>Saving updated attachment failed.
 Error: %1</source>
-        <translation>Saving updated attachment failed.
+        <translation type="vanished">Saving updated attachment failed.
 Error: %1</translation>
     </message>
     <message>
         <source>Attachment &quot;%1&quot; already exists. 
 Would you like to overwrite the existing attachment?</source>
-        <translation>Attachment &quot;%1&quot; already exists. 
+        <translation type="vanished">Attachment &quot;%1&quot; already exists. 
 Would you like to overwrite the existing attachment?</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Preview</translation>
+        <translation type="vanished">Preview</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Edit</translation>
+        <translation type="vanished">Edit</translation>
     </message>
     <message>
         <source>New Text Document</source>
-        <translation>New Text Document</translation>
+        <translation type="vanished">New Text Document</translation>
     </message>
     <message>
         <source>Add file…</source>
-        <translation>Add file…</translation>
+        <translation type="vanished">Add file…</translation>
     </message>
     <message>
         <source>Load from Disk…</source>
-        <translation>Load from Disk…</translation>
+        <translation type="vanished">Load from Disk…</translation>
     </message>
     <message>
         <source>Save…</source>
-        <translation>Save…</translation>
+        <translation type="vanished">Save…</translation>
     </message>
     <message>
         <source>New Attachment</source>
-        <translation>New Attachment</translation>
+        <translation type="vanished">New Attachment</translation>
     </message>
 </context>
 <context>
     <name>EntryAttributesModel</name>
     <message>
         <source>Name</source>
-        <translation>Name</translation>
+        <translation type="vanished">Name</translation>
     </message>
 </context>
 <context>
     <name>EntryHistoryModel</name>
     <message>
         <source>Current (%1)</source>
-        <translation>Current (%1)</translation>
+        <translation type="vanished">Current (%1)</translation>
     </message>
     <message>
         <source>Last modified</source>
-        <translation>Last modified</translation>
+        <translation type="vanished">Last modified</translation>
     </message>
     <message>
         <source>Age</source>
-        <translation>Age</translation>
+        <translation type="vanished">Age</translation>
     </message>
     <message>
         <source>Difference</source>
-        <translation>Difference</translation>
+        <translation type="vanished">Difference</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Size</translation>
+        <translation type="vanished">Size</translation>
     </message>
 </context>
 <context>
@@ -4252,348 +4532,351 @@ Would you like to overwrite the existing attachment?</translation>
     <message>
         <source>Ref: </source>
         <comment>Reference abbreviation</comment>
-        <translation>Ref: </translation>
+        <translation type="vanished">Ref: </translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>Never</translation>
+        <translation type="vanished">Never</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Group</translation>
+        <translation type="vanished">Group</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation>Title</translation>
+        <translation type="vanished">Title</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Username</translation>
+        <translation type="vanished">Username</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Password</translation>
+        <translation type="vanished">Password</translation>
     </message>
     <message>
         <source>URL</source>
-        <translation>URL</translation>
+        <translation type="vanished">URL</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation>Notes</translation>
+        <translation type="vanished">Notes</translation>
     </message>
     <message>
         <source>Expires</source>
-        <translation>Expires</translation>
+        <translation type="vanished">Expires</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation>Created</translation>
+        <translation type="vanished">Created</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation>Modified</translation>
+        <translation type="vanished">Modified</translation>
     </message>
     <message>
         <source>Attachments</source>
-        <translation>Attachments</translation>
+        <translation type="vanished">Attachments</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Size</translation>
+        <translation type="vanished">Size</translation>
     </message>
     <message>
         <source>Group name</source>
-        <translation>Group name</translation>
+        <translation type="vanished">Group name</translation>
     </message>
     <message>
         <source>Entry title</source>
-        <translation>Entry title</translation>
+        <translation type="vanished">Entry title</translation>
     </message>
     <message>
         <source>Password Strength</source>
-        <translation>Password Strength</translation>
+        <translation type="vanished">Password Strength</translation>
     </message>
     <message>
         <source>Entry notes</source>
-        <translation>Entry notes</translation>
+        <translation type="vanished">Entry notes</translation>
     </message>
     <message>
         <source>Entry expires at</source>
-        <translation>Entry expires at</translation>
+        <translation type="vanished">Entry expires at</translation>
     </message>
     <message>
         <source>Creation date</source>
-        <translation>Creation date</translation>
+        <translation type="vanished">Creation date</translation>
     </message>
     <message>
         <source>Last modification date</source>
-        <translation>Last modification date</translation>
+        <translation type="vanished">Last modification date</translation>
     </message>
     <message>
         <source>Attached files</source>
-        <translation>Attached files</translation>
+        <translation type="vanished">Attached files</translation>
     </message>
     <message>
         <source>Entry size</source>
-        <translation>Entry size</translation>
+        <translation type="vanished">Entry size</translation>
     </message>
     <message>
         <source>Has attachments</source>
-        <translation>Has attachments</translation>
+        <translation type="vanished">Has attachments</translation>
     </message>
     <message>
         <source>Has TOTP</source>
-        <translation>Has TOTP</translation>
+        <translation type="vanished">Has TOTP</translation>
     </message>
     <message>
         <source>Background Color</source>
-        <translation>Background Color</translation>
+        <translation type="vanished">Background Color</translation>
     </message>
     <message>
         <source>Group Path</source>
-        <translation>Group Path</translation>
+        <translation type="vanished">Group Path</translation>
     </message>
 </context>
 <context>
     <name>EntryPreviewWidget</name>
     <message>
         <source>Display current TOTP value</source>
-        <translation>Display current TOTP value</translation>
+        <translation type="vanished">Display current TOTP value</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Close</translation>
+        <translation type="vanished">Close</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>General</translation>
+        <translation type="vanished">General</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Password</translation>
+        <translation type="vanished">Password</translation>
     </message>
     <message>
         <source>URL</source>
-        <translation>URL</translation>
+        <translation type="vanished">URL</translation>
     </message>
     <message>
         <source>Expiration</source>
-        <translation>Expiration</translation>
+        <translation type="vanished">Expiration</translation>
     </message>
     <message>
         <source>Tags</source>
-        <translation>Tags</translation>
+        <translation type="vanished">Tags</translation>
     </message>
     <message>
         <source>Tags list</source>
-        <translation>Tags list</translation>
+        <translation type="vanished">Tags list</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Username</translation>
+        <translation type="vanished">Username</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation>Notes</translation>
+        <translation type="vanished">Notes</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation>Advanced</translation>
+        <translation type="vanished">Advanced</translation>
     </message>
     <message>
         <source>Attachments</source>
-        <translation>Attachments</translation>
+        <translation type="vanished">Attachments</translation>
     </message>
     <message>
         <source>Attributes</source>
-        <translation>Attributes</translation>
+        <translation type="vanished">Attributes</translation>
     </message>
     <message>
         <source>Autotype</source>
-        <translation>Autotype</translation>
+        <translation type="vanished">Autotype</translation>
     </message>
     <message>
         <source>Default Sequence</source>
-        <translation>Default Sequence</translation>
+        <translation type="vanished">Default Sequence</translation>
     </message>
     <message>
         <source>Window</source>
-        <translation>Window</translation>
+        <translation type="vanished">Window</translation>
     </message>
     <message>
         <source>Sequence</source>
-        <translation>Sequence</translation>
+        <translation type="vanished">Sequence</translation>
     </message>
     <message>
         <source>Searching</source>
-        <translation>Searching</translation>
+        <translation type="vanished">Searching</translation>
     </message>
     <message>
         <source>Share</source>
-        <translation>Share</translation>
+        <translation type="vanished">Share</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>Search</translation>
+        <translation type="vanished">Search</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Clear</translation>
+        <translation type="vanished">Clear</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>Never</translation>
+        <translation type="vanished">Never</translation>
     </message>
     <message>
         <source>Double click to copy value</source>
-        <translation>Double click to copy value</translation>
+        <translation type="vanished">Double click to copy value</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation>Enabled</translation>
+        <translation type="vanished">Enabled</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation>Disabled</translation>
+        <translation type="vanished">Disabled</translation>
     </message>
     <message>
         <source>Double click to copy to clipboard</source>
-        <translation>Double click to copy to clipboard</translation>
+        <translation type="vanished">Double click to copy to clipboard</translation>
     </message>
 </context>
 <context>
     <name>EntryURLModel</name>
     <message>
         <source>Invalid URL</source>
-        <translation>Invalid URL</translation>
+        <translation type="vanished">Invalid URL</translation>
     </message>
     <message>
         <source>Duplicate URL</source>
-        <translation>Duplicate URL</translation>
+        <translation type="vanished">Duplicate URL</translation>
     </message>
 </context>
 <context>
     <name>EntryView</name>
     <message>
         <source>Fit to window</source>
-        <translation>Fit to window</translation>
+        <translation type="vanished">Fit to window</translation>
     </message>
     <message>
         <source>Fit to contents</source>
-        <translation>Fit to contents</translation>
+        <translation type="vanished">Fit to contents</translation>
     </message>
     <message>
         <source>Reset to defaults</source>
-        <translation>Reset to defaults</translation>
+        <translation type="vanished">Reset to defaults</translation>
     </message>
     <message numerus="yes">
         <source>+ %1 entry(s)...</source>
-        <translation><numerusform>+ %1 entry...</numerusform><numerusform>+ %1 entries...</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>+ %1 entry...</numerusform>
+            <numerusform>+ %1 entries...</numerusform>
+        </translation>
     </message>
 </context>
 <context>
     <name>ExportDialog</name>
     <message>
         <source>Export options</source>
-        <translation>Export options</translation>
+        <translation type="vanished">Export options</translation>
     </message>
     <message>
         <source>Sort entries by...</source>
-        <translation>Sort entries by...</translation>
+        <translation type="vanished">Sort entries by...</translation>
     </message>
     <message>
         <source>You are about to export your database to an unencrypted file.
 This will leave your passwords and sensitive information vulnerable!
 </source>
-        <translation>You are about to export your database to an unencrypted file.
+        <translation type="vanished">You are about to export your database to an unencrypted file.
 This will leave your passwords and sensitive information vulnerable!
 </translation>
     </message>
     <message>
         <source>database order</source>
-        <translation>database order</translation>
+        <translation type="vanished">database order</translation>
     </message>
     <message>
         <source>name (ascending)</source>
-        <translation>name (ascending)</translation>
+        <translation type="vanished">name (ascending)</translation>
     </message>
     <message>
         <source>name (descending)</source>
-        <translation>name (descending)</translation>
+        <translation type="vanished">name (descending)</translation>
     </message>
     <message>
         <source>Export database to HTML file</source>
-        <translation>Export database to HTML file</translation>
+        <translation type="vanished">Export database to HTML file</translation>
     </message>
     <message>
         <source>HTML file</source>
-        <translation>HTML file</translation>
+        <translation type="vanished">HTML file</translation>
     </message>
     <message>
         <source>invalid sort order</source>
-        <translation>invalid sort order</translation>
+        <translation type="vanished">invalid sort order</translation>
     </message>
 </context>
 <context>
     <name>FdoSecrets::DBusMgr</name>
     <message>
         <source>Failed to deliver message</source>
-        <translation>Failed to deliver message</translation>
+        <translation type="vanished">Failed to deliver message</translation>
     </message>
     <message>
         <source>Failed to send reply on DBus</source>
-        <translation>Failed to send reply on DBus</translation>
+        <translation type="vanished">Failed to send reply on DBus</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Unknown PID</comment>
-        <translation>Unknown</translation>
+        <translation type="vanished">Unknown</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Unknown executable path</comment>
-        <translation>Unknown</translation>
+        <translation type="vanished">Unknown</translation>
     </message>
     <message>
         <source>&lt;i&gt;PID: %1, Executable: %2&lt;/i&gt;</source>
         <comment>&lt;i&gt;PID: 1234, Executable: /path/to/exe&lt;/i&gt;</comment>
-        <translation>&lt;i&gt;PID: %1, Executable: %2&lt;/i&gt;</translation>
+        <translation type="vanished">&lt;i&gt;PID: %1, Executable: %2&lt;/i&gt;</translation>
     </message>
     <message>
         <source>Another secret service is running (%1).&lt;br/&gt;Please stop/remove it before re-enabling the Secret Service Integration.</source>
-        <translation>Another secret service is running (%1).&lt;br/&gt;Please stop/remove it before re-enabling the Secret Service Integration.</translation>
+        <translation type="vanished">Another secret service is running (%1).&lt;br/&gt;Please stop/remove it before re-enabling the Secret Service Integration.</translation>
     </message>
     <message>
         <source>Failed to register DBus service at %1.&lt;br/&gt;</source>
-        <translation>Failed to register DBus service at %1.&lt;br/&gt;</translation>
+        <translation type="vanished">Failed to register DBus service at %1.&lt;br/&gt;</translation>
     </message>
     <message>
         <source>Failed to register service on DBus at path &apos;%1&apos;</source>
-        <translation>Failed to register service on DBus at path &apos;%1&apos;</translation>
+        <translation type="vanished">Failed to register service on DBus at path &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Failed to register database on DBus under the name &apos;%1&apos;</source>
-        <translation>Failed to register database on DBus under the name &apos;%1&apos;</translation>
+        <translation type="vanished">Failed to register database on DBus under the name &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Failed to register session on DBus at path &apos;%1&apos;</source>
-        <translation>Failed to register session on DBus at path &apos;%1&apos;</translation>
+        <translation type="vanished">Failed to register session on DBus at path &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Failed to register item on DBus at path &apos;%1&apos;</source>
-        <translation>Failed to register item on DBus at path &apos;%1&apos;</translation>
+        <translation type="vanished">Failed to register item on DBus at path &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Failed to register prompt object on DBus at path &apos;%1&apos;</source>
-        <translation>Failed to register prompt object on DBus at path &apos;%1&apos;</translation>
+        <translation type="vanished">Failed to register prompt object on DBus at path &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
     <name>FdoSecrets::Item</name>
     <message>
         <source>Entry &quot;%1&quot; from database &quot;%2&quot; was used by %3</source>
-        <translation>Entry &quot;%1&quot; from database &quot;%2&quot; was used by %3</translation>
+        <translation type="vanished">Entry &quot;%1&quot; from database &quot;%2&quot; was used by %3</translation>
     </message>
 </context>
 <context>
@@ -4601,43 +4884,46 @@ This will leave your passwords and sensitive information vulnerable!
     <message numerus="yes">
         <source>%n Entry(s) was used by %1</source>
         <comment>%1 is the name of an application</comment>
-        <translation><numerusform>%n Entry was used by %1</numerusform><numerusform>%n Entries were used by %1</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>%n Entry was used by %1</numerusform>
+            <numerusform>%n Entries were used by %1</numerusform>
+        </translation>
     </message>
 </context>
 <context>
     <name>FdoSecrets::SettingsClientModel</name>
     <message>
         <source>Unknown</source>
-        <translation>Unknown</translation>
+        <translation type="vanished">Unknown</translation>
     </message>
     <message>
         <source>Non-existing/inaccessible executable path. Please double-check the client is legit.</source>
-        <translation>Non-existing/inaccessible executable path. Please double-check the client is legit.</translation>
+        <translation type="vanished">Non-existing/inaccessible executable path. Please double-check the client is legit.</translation>
     </message>
 </context>
 <context>
     <name>FdoSecrets::SettingsDatabaseModel</name>
     <message>
         <source>Unlock to show</source>
-        <translation>Unlock to show</translation>
+        <translation type="vanished">Unlock to show</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>None</translation>
+        <translation type="vanished">None</translation>
     </message>
 </context>
 <context>
     <name>FdoSecrets::UnlockPrompt</name>
     <message>
         <source>%1 (PID: %2)</source>
-        <translation>%1 (PID: %2)</translation>
+        <translation type="vanished">%1 (PID: %2)</translation>
     </message>
 </context>
 <context>
     <name>FdoSecretsPlugin</name>
     <message>
         <source>&lt;b&gt;Fdo Secret Service:&lt;/b&gt; %1</source>
-        <translation>&lt;b&gt;Fdo Secret Service:&lt;/b&gt; %1</translation>
+        <translation type="vanished">&lt;b&gt;Fdo Secret Service:&lt;/b&gt; %1</translation>
     </message>
 </context>
 <context>
@@ -4645,255 +4931,255 @@ This will leave your passwords and sensitive information vulnerable!
     <message>
         <source>[empty]</source>
         <comment>group has no children</comment>
-        <translation>[empty]</translation>
+        <translation type="vanished">[empty]</translation>
     </message>
     <message>
         <source>%1 - Clone</source>
-        <translation>%1 - Clone</translation>
+        <translation type="vanished">%1 - Clone</translation>
     </message>
 </context>
 <context>
     <name>HibpDownloader</name>
     <message>
         <source>Online password validation failed</source>
-        <translation>Online password validation failed</translation>
+        <translation type="vanished">Online password validation failed</translation>
     </message>
 </context>
 <context>
     <name>IconDownloaderDialog</name>
     <message>
         <source>Download Favicons</source>
-        <translation>Download Favicons</translation>
+        <translation type="vanished">Download Favicons</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancel</translation>
+        <translation type="vanished">Cancel</translation>
     </message>
     <message>
         <source>Having trouble downloading icons?
 You can enable the DuckDuckGo website icon service in the security section of the application settings.</source>
-        <translation>Having trouble downloading icons?
+        <translation type="vanished">Having trouble downloading icons?
 You can enable the DuckDuckGo website icon service in the security section of the application settings.</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Close</translation>
+        <translation type="vanished">Close</translation>
     </message>
     <message>
         <source>URL</source>
-        <translation>URL</translation>
+        <translation type="vanished">URL</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Status</translation>
+        <translation type="vanished">Status</translation>
     </message>
     <message>
         <source>Please wait, processing entry list…</source>
-        <translation>Please wait, processing entry list…</translation>
+        <translation type="vanished">Please wait, processing entry list…</translation>
     </message>
     <message>
         <source>Downloading…</source>
-        <translation>Downloading…</translation>
+        <translation type="vanished">Downloading…</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
         <source>Already Exists</source>
-        <translation>Already Exists</translation>
+        <translation type="vanished">Already Exists</translation>
     </message>
     <message>
         <source>Download Failed</source>
-        <translation>Download Failed</translation>
+        <translation type="vanished">Download Failed</translation>
     </message>
     <message>
         <source>Downloading favicons (%1/%2)…</source>
-        <translation>Downloading favicons (%1/%2)…</translation>
+        <translation type="vanished">Downloading favicons (%1/%2)…</translation>
     </message>
 </context>
 <context>
     <name>ImageAttachmentsWidget</name>
     <message>
         <source>Zoom:</source>
-        <translation>Zoom:</translation>
+        <translation type="vanished">Zoom:</translation>
     </message>
     <message>
         <source>Fit</source>
-        <translation>Fit</translation>
+        <translation type="vanished">Fit</translation>
     </message>
 </context>
 <context>
     <name>ImportWizard</name>
     <message>
         <source>Import Wizard</source>
-        <translation>Import Wizard</translation>
+        <translation type="vanished">Import Wizard</translation>
     </message>
 </context>
 <context>
     <name>ImportWizardPageReview</name>
     <message>
         <source>WizardPage</source>
-        <translation>WizardPage</translation>
+        <translation type="vanished">WizardPage</translation>
     </message>
     <message>
         <source>Entry count: %1</source>
-        <translation>Entry count: %1</translation>
+        <translation type="vanished">Entry count: %1</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Group</translation>
+        <translation type="vanished">Group</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation>Title</translation>
+        <translation type="vanished">Title</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Username</translation>
+        <translation type="vanished">Username</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Password</translation>
+        <translation type="vanished">Password</translation>
     </message>
     <message>
         <source>Url</source>
-        <translation>Url</translation>
+        <translation type="vanished">Url</translation>
     </message>
     <message>
         <source>Could not load key file.</source>
-        <translation>Could not load key file.</translation>
+        <translation type="vanished">Could not load key file.</translation>
     </message>
     <message>
         <source>Could not open remote database. Password or key file may be incorrect.</source>
-        <translation>Could not open remote database. Password or key file may be incorrect.</translation>
+        <translation type="vanished">Could not open remote database. Password or key file may be incorrect.</translation>
     </message>
 </context>
 <context>
     <name>ImportWizardPageSelect</name>
     <message>
         <source>Form</source>
-        <translation>Form</translation>
+        <translation type="vanished">Form</translation>
     </message>
     <message>
         <source>Import File Selection</source>
-        <translation>Import File Selection</translation>
+        <translation type="vanished">Import File Selection</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Password:</translation>
+        <translation type="vanished">Password:</translation>
     </message>
     <message>
         <source>Key File:</source>
-        <translation>Key File:</translation>
+        <translation type="vanished">Key File:</translation>
     </message>
     <message>
         <source>Browse…</source>
-        <translation>Browse…</translation>
+        <translation type="vanished">Browse…</translation>
     </message>
     <message>
         <source>Import Into:</source>
-        <translation>Import Into:</translation>
+        <translation type="vanished">Import Into:</translation>
     </message>
     <message>
         <source>New Database</source>
-        <translation>New Database</translation>
+        <translation type="vanished">New Database</translation>
     </message>
     <message>
         <source>No unlocked databases available</source>
-        <translation>No unlocked databases available</translation>
+        <translation type="vanished">No unlocked databases available</translation>
     </message>
     <message>
         <source>Existing Database:</source>
-        <translation>Existing Database:</translation>
+        <translation type="vanished">Existing Database:</translation>
     </message>
     <message>
         <source>Import File:</source>
-        <translation>Import File:</translation>
+        <translation type="vanished">Import File:</translation>
     </message>
     <message>
         <source>Comma Separated Values (.csv)</source>
-        <translation>Comma Separated Values (.csv)</translation>
+        <translation type="vanished">Comma Separated Values (.csv)</translation>
     </message>
     <message>
         <source>1Password Export (.1pux)</source>
-        <translation>1Password Export (.1pux)</translation>
+        <translation type="vanished">1Password Export (.1pux)</translation>
     </message>
     <message>
         <source>1Password Vault (.opvault)</source>
-        <translation>1Password Vault (.opvault)</translation>
+        <translation type="vanished">1Password Vault (.opvault)</translation>
     </message>
     <message>
         <source>Bitwarden (.json)</source>
-        <translation>Bitwarden (.json)</translation>
+        <translation type="vanished">Bitwarden (.json)</translation>
     </message>
     <message>
         <source>KeePass 1 Database (.kdb)</source>
-        <translation>KeePass 1 Database (.kdb)</translation>
+        <translation type="vanished">KeePass 1 Database (.kdb)</translation>
     </message>
     <message>
         <source>Open OPVault</source>
-        <translation>Open OPVault</translation>
+        <translation type="vanished">Open OPVault</translation>
     </message>
     <message>
         <source>Select import file</source>
-        <translation>Select import file</translation>
+        <translation type="vanished">Select import file</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation>All files</translation>
+        <translation type="vanished">All files</translation>
     </message>
     <message>
         <source>Key files</source>
-        <translation>Key files</translation>
+        <translation type="vanished">Key files</translation>
     </message>
     <message>
         <source>Select key file</source>
-        <translation>Select key file</translation>
+        <translation type="vanished">Select key file</translation>
     </message>
     <message>
         <source>Comma Separated Values</source>
-        <translation>Comma Separated Values</translation>
+        <translation type="vanished">Comma Separated Values</translation>
     </message>
     <message>
         <source>1Password Export</source>
-        <translation>1Password Export</translation>
+        <translation type="vanished">1Password Export</translation>
     </message>
     <message>
         <source>Bitwarden JSON Export</source>
-        <translation>Bitwarden JSON Export</translation>
+        <translation type="vanished">Bitwarden JSON Export</translation>
     </message>
     <message>
         <source>1Password Vault</source>
-        <translation>1Password Vault</translation>
+        <translation type="vanished">1Password Vault</translation>
     </message>
     <message>
         <source>KeePass1 Database</source>
-        <translation>KeePass1 Database</translation>
+        <translation type="vanished">KeePass1 Database</translation>
     </message>
     <message>
         <source>Proton Pass (.json)</source>
-        <translation>Proton Pass (.json)</translation>
+        <translation type="vanished">Proton Pass (.json)</translation>
     </message>
     <message>
         <source>Proton Pass JSON Export</source>
-        <translation>Proton Pass JSON Export</translation>
+        <translation type="vanished">Proton Pass JSON Export</translation>
     </message>
     <message>
         <source>Temporary Database</source>
-        <translation>Temporary Database</translation>
+        <translation type="vanished">Temporary Database</translation>
     </message>
     <message>
         <source>Command:</source>
-        <translation>Command:</translation>
+        <translation type="vanished">Command:</translation>
     </message>
     <message>
         <source>e.g.: &quot;sftp user@hostname&quot; or &quot;scp user@hostname:DatabaseOnRemote.kdbx {TEMP_DATABASE}&quot;</source>
-        <translation>e.g.: &quot;sftp user@hostname&quot; or &quot;scp user@hostname:DatabaseOnRemote.kdbx {TEMP_DATABASE}&quot;</translation>
+        <translation type="vanished">e.g.: &quot;sftp user@hostname&quot; or &quot;scp user@hostname:DatabaseOnRemote.kdbx {TEMP_DATABASE}&quot;</translation>
     </message>
     <message>
         <source>Input:</source>
-        <translation>Input:</translation>
+        <translation type="vanished">Input:</translation>
     </message>
     <message>
         <source>e.g.:
@@ -4903,7 +5189,7 @@ exit
 {TEMP_DATABASE} is used as placeholder to store the database in a temporary location
 The command has to exit. In case of `sftp` as last commend `exit` has to be sent
          </source>
-        <translation>e.g.:
+        <translation type="vanished">e.g.:
 get DatabaseOnRemote.kdbx {TEMP_DATABASE}
 exit
 ---
@@ -4913,55 +5199,55 @@ The command has to exit. In case of `sftp` as last commend `exit` has to be sent
     </message>
     <message>
         <source>Remote Database (.kdbx)</source>
-        <translation>Remote Database (.kdbx)</translation>
+        <translation type="vanished">Remote Database (.kdbx)</translation>
     </message>
 </context>
 <context>
     <name>KMessageWidget</name>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Close</translation>
+        <translation type="vanished">&amp;Close</translation>
     </message>
     <message>
         <source>Close message</source>
-        <translation>Close message</translation>
+        <translation type="vanished">Close message</translation>
     </message>
 </context>
 <context>
     <name>Kdbx3Reader</name>
     <message>
         <source>Missing database headers</source>
-        <translation>Missing database headers</translation>
+        <translation type="vanished">Missing database headers</translation>
     </message>
     <message>
         <source>Unable to calculate database key</source>
-        <translation>Unable to calculate database key</translation>
+        <translation type="vanished">Unable to calculate database key</translation>
     </message>
     <message>
         <source>Unable to issue challenge-response: %1</source>
-        <translation>Unable to issue challenge-response: %1</translation>
+        <translation type="vanished">Unable to issue challenge-response: %1</translation>
     </message>
     <message>
         <source>Invalid credentials were provided, please try again.
 If this reoccurs, then your database file may be corrupt.</source>
-        <translation>Invalid credentials were provided, please try again.
+        <translation type="vanished">Invalid credentials were provided, please try again.
 If this reoccurs, then your database file may be corrupt.</translation>
     </message>
     <message>
         <source>Header doesn&apos;t match hash</source>
-        <translation>Header doesn&apos;t match hash</translation>
+        <translation type="vanished">Header doesn&apos;t match hash</translation>
     </message>
     <message>
         <source>Invalid header id size</source>
-        <translation>Invalid header id size</translation>
+        <translation type="vanished">Invalid header id size</translation>
     </message>
     <message>
         <source>Invalid header field length: field %1</source>
-        <translation>Invalid header field length: field %1</translation>
+        <translation type="vanished">Invalid header field length: field %1</translation>
     </message>
     <message>
         <source>Invalid header data length: field %1, %2 expected, %3 found</source>
-        <translation>Invalid header data length: field %1, %2 expected, %3 found</translation>
+        <translation type="vanished">Invalid header data length: field %1, %2 expected, %3 found</translation>
     </message>
 </context>
 <context>
@@ -4969,715 +5255,715 @@ If this reoccurs, then your database file may be corrupt.</translation>
     <message>
         <source>Invalid symmetric cipher IV size.</source>
         <comment>IV = Initialization Vector for symmetric cipher</comment>
-        <translation>Invalid symmetric cipher IV size.</translation>
+        <translation type="vanished">Invalid symmetric cipher IV size.</translation>
     </message>
     <message>
         <source>Unable to issue challenge-response: %1</source>
-        <translation>Unable to issue challenge-response: %1</translation>
+        <translation type="vanished">Unable to issue challenge-response: %1</translation>
     </message>
     <message>
         <source>Unable to calculate database key</source>
-        <translation>Unable to calculate database key</translation>
+        <translation type="vanished">Unable to calculate database key</translation>
     </message>
 </context>
 <context>
     <name>Kdbx4Reader</name>
     <message>
         <source>missing database headers</source>
-        <translation>missing database headers</translation>
+        <translation type="vanished">missing database headers</translation>
     </message>
     <message>
         <source>Unable to calculate database key: %1</source>
-        <translation>Unable to calculate database key: %1</translation>
+        <translation type="vanished">Unable to calculate database key: %1</translation>
     </message>
     <message>
         <source>Invalid header checksum size</source>
-        <translation>Invalid header checksum size</translation>
+        <translation type="vanished">Invalid header checksum size</translation>
     </message>
     <message>
         <source>Header SHA256 mismatch</source>
-        <translation>Header SHA256 mismatch</translation>
+        <translation type="vanished">Header SHA256 mismatch</translation>
     </message>
     <message>
         <source>Invalid credentials were provided, please try again.
 If this reoccurs, then your database file may be corrupt.</source>
-        <translation>Invalid credentials were provided, please try again.
+        <translation type="vanished">Invalid credentials were provided, please try again.
 If this reoccurs, then your database file may be corrupt.</translation>
     </message>
     <message>
         <source>(HMAC mismatch)</source>
-        <translation>(HMAC mismatch)</translation>
+        <translation type="vanished">(HMAC mismatch)</translation>
     </message>
     <message>
         <source>Unknown cipher</source>
-        <translation>Unknown cipher</translation>
+        <translation type="vanished">Unknown cipher</translation>
     </message>
     <message>
         <source>Invalid header id size</source>
-        <translation>Invalid header id size</translation>
+        <translation type="vanished">Invalid header id size</translation>
     </message>
     <message>
         <source>Invalid header field length: field %1</source>
-        <translation>Invalid header field length: field %1</translation>
+        <translation type="vanished">Invalid header field length: field %1</translation>
     </message>
     <message>
         <source>Invalid header data length: field %1, %2 expected, %3 found</source>
-        <translation>Invalid header data length: field %1, %2 expected, %3 found</translation>
+        <translation type="vanished">Invalid header data length: field %1, %2 expected, %3 found</translation>
     </message>
     <message>
         <source>Failed to open buffer for KDF parameters in header</source>
-        <translation>Failed to open buffer for KDF parameters in header</translation>
+        <translation type="vanished">Failed to open buffer for KDF parameters in header</translation>
     </message>
     <message>
         <source>Unsupported key derivation function (KDF) or invalid parameters</source>
-        <translation>Unsupported key derivation function (KDF) or invalid parameters</translation>
+        <translation type="vanished">Unsupported key derivation function (KDF) or invalid parameters</translation>
     </message>
     <message>
         <source>Legacy header fields found in KDBX4 file.</source>
-        <translation>Legacy header fields found in KDBX4 file.</translation>
+        <translation type="vanished">Legacy header fields found in KDBX4 file.</translation>
     </message>
     <message>
         <source>Invalid inner header id size</source>
-        <translation>Invalid inner header id size</translation>
+        <translation type="vanished">Invalid inner header id size</translation>
     </message>
     <message>
         <source>Invalid inner header field length: field %1</source>
-        <translation>Invalid inner header field length: field %1</translation>
+        <translation type="vanished">Invalid inner header field length: field %1</translation>
     </message>
     <message>
         <source>Invalid inner header data length: field %1, %2 expected, %3 found</source>
-        <translation>Invalid inner header data length: field %1, %2 expected, %3 found</translation>
+        <translation type="vanished">Invalid inner header data length: field %1, %2 expected, %3 found</translation>
     </message>
     <message>
         <source>Invalid inner header binary size</source>
-        <translation>Invalid inner header binary size</translation>
+        <translation type="vanished">Invalid inner header binary size</translation>
     </message>
     <message>
         <source>Unsupported KeePass variant map version.</source>
         <extracomment>Translation: variant map = data structure for storing meta data</extracomment>
-        <translation>Unsupported KeePass variant map version.</translation>
+        <translation type="vanished">Unsupported KeePass variant map version.</translation>
     </message>
     <message>
         <source>Invalid variant map entry name length</source>
         <extracomment>Translation: variant map = data structure for storing meta data</extracomment>
-        <translation>Invalid variant map entry name length</translation>
+        <translation type="vanished">Invalid variant map entry name length</translation>
     </message>
     <message>
         <source>Invalid variant map entry name data</source>
         <extracomment>Translation: variant map = data structure for storing meta data</extracomment>
-        <translation>Invalid variant map entry name data</translation>
+        <translation type="vanished">Invalid variant map entry name data</translation>
     </message>
     <message>
         <source>Invalid variant map entry value length</source>
         <extracomment>Translation: variant map = data structure for storing meta data</extracomment>
-        <translation>Invalid variant map entry value length</translation>
+        <translation type="vanished">Invalid variant map entry value length</translation>
     </message>
     <message>
         <source>Invalid variant map entry value data</source>
         <extracomment>Translation comment: variant map = data structure for storing meta data</extracomment>
-        <translation>Invalid variant map entry value data</translation>
+        <translation type="vanished">Invalid variant map entry value data</translation>
     </message>
     <message>
         <source>Invalid variant map Bool entry value length</source>
         <extracomment>Translation: variant map = data structure for storing meta data</extracomment>
-        <translation>Invalid variant map Bool entry value length</translation>
+        <translation type="vanished">Invalid variant map Bool entry value length</translation>
     </message>
     <message>
         <source>Invalid variant map Int32 entry value length</source>
         <extracomment>Translation: variant map = data structure for storing meta data</extracomment>
-        <translation>Invalid variant map Int32 entry value length</translation>
+        <translation type="vanished">Invalid variant map Int32 entry value length</translation>
     </message>
     <message>
         <source>Invalid variant map UInt32 entry value length</source>
         <extracomment>Translation: variant map = data structure for storing meta data</extracomment>
-        <translation>Invalid variant map UInt32 entry value length</translation>
+        <translation type="vanished">Invalid variant map UInt32 entry value length</translation>
     </message>
     <message>
         <source>Invalid variant map Int64 entry value length</source>
         <extracomment>Translation: variant map = data structure for storing meta data</extracomment>
-        <translation>Invalid variant map Int64 entry value length</translation>
+        <translation type="vanished">Invalid variant map Int64 entry value length</translation>
     </message>
     <message>
         <source>Invalid variant map UInt64 entry value length</source>
         <extracomment>Translation: variant map = data structure for storing meta data</extracomment>
-        <translation>Invalid variant map UInt64 entry value length</translation>
+        <translation type="vanished">Invalid variant map UInt64 entry value length</translation>
     </message>
     <message>
         <source>Invalid variant map entry type</source>
         <extracomment>Translation: variant map = data structure for storing meta data</extracomment>
-        <translation>Invalid variant map entry type</translation>
+        <translation type="vanished">Invalid variant map entry type</translation>
     </message>
     <message>
         <source>Invalid variant map field type size</source>
         <extracomment>Translation: variant map = data structure for storing meta data</extracomment>
-        <translation>Invalid variant map field type size</translation>
+        <translation type="vanished">Invalid variant map field type size</translation>
     </message>
 </context>
 <context>
     <name>Kdbx4Writer</name>
     <message>
         <source>Invalid symmetric cipher algorithm.</source>
-        <translation>Invalid symmetric cipher algorithm.</translation>
+        <translation type="vanished">Invalid symmetric cipher algorithm.</translation>
     </message>
     <message>
         <source>Invalid symmetric cipher IV size.</source>
         <comment>IV = Initialization Vector for symmetric cipher</comment>
-        <translation>Invalid symmetric cipher IV size.</translation>
+        <translation type="vanished">Invalid symmetric cipher IV size.</translation>
     </message>
     <message>
         <source>Unable to calculate database key: %1</source>
-        <translation>Unable to calculate database key: %1</translation>
+        <translation type="vanished">Unable to calculate database key: %1</translation>
     </message>
     <message>
         <source>Failed to serialize KDF parameters variant map</source>
         <extracomment>Translation comment: variant map = data structure for storing meta data</extracomment>
-        <translation>Failed to serialize KDF parameters variant map</translation>
+        <translation type="vanished">Failed to serialize KDF parameters variant map</translation>
     </message>
 </context>
 <context>
     <name>KdbxReader</name>
     <message>
         <source>Invalid cipher uuid length: %1 (length=%2)</source>
-        <translation>Invalid cipher uuid length: %1 (length=%2)</translation>
+        <translation type="vanished">Invalid cipher uuid length: %1 (length=%2)</translation>
     </message>
     <message>
         <source>Unable to parse UUID: %1</source>
-        <translation>Unable to parse UUID: %1</translation>
+        <translation type="vanished">Unable to parse UUID: %1</translation>
     </message>
     <message>
         <source>Unsupported cipher</source>
-        <translation>Unsupported cipher</translation>
+        <translation type="vanished">Unsupported cipher</translation>
     </message>
     <message>
         <source>Invalid compression flags length</source>
-        <translation>Invalid compression flags length</translation>
+        <translation type="vanished">Invalid compression flags length</translation>
     </message>
     <message>
         <source>Unsupported compression algorithm</source>
-        <translation>Unsupported compression algorithm</translation>
+        <translation type="vanished">Unsupported compression algorithm</translation>
     </message>
     <message>
         <source>Invalid master seed size</source>
-        <translation>Invalid master seed size</translation>
+        <translation type="vanished">Invalid master seed size</translation>
     </message>
     <message>
         <source>Invalid transform seed size</source>
-        <translation>Invalid transform seed size</translation>
+        <translation type="vanished">Invalid transform seed size</translation>
     </message>
     <message>
         <source>Invalid transform rounds size</source>
-        <translation>Invalid transform rounds size</translation>
+        <translation type="vanished">Invalid transform rounds size</translation>
     </message>
     <message>
         <source>Invalid start bytes size</source>
-        <translation>Invalid start bytes size</translation>
+        <translation type="vanished">Invalid start bytes size</translation>
     </message>
     <message>
         <source>Invalid random stream id size</source>
-        <translation>Invalid random stream id size</translation>
+        <translation type="vanished">Invalid random stream id size</translation>
     </message>
     <message>
         <source>Invalid inner random stream cipher</source>
-        <translation>Invalid inner random stream cipher</translation>
+        <translation type="vanished">Invalid inner random stream cipher</translation>
     </message>
     <message>
         <source>Failed to read database file.</source>
-        <translation>Failed to read database file.</translation>
+        <translation type="vanished">Failed to read database file.</translation>
     </message>
     <message>
         <source>The selected file is an old KeePass 1 database (.kdb).
 
-You can import it by clicking on Database &gt; 'Import KeePass 1 database…'.
+You can import it by clicking on Database &gt; &apos;Import KeePass 1 database…&apos;.
 This is a one-way migration. You won&apos;t be able to open the imported database with the old KeePassX 0.4 version.</source>
-        <translation>The selected file is an old KeePass 1 database (.kdb).
+        <translation type="vanished">The selected file is an old KeePass 1 database (.kdb).
 
 You can import it by clicking on Database &gt; &apos;Import KeePass 1 database…&apos;.
 This is a one-way migration. You won&apos;t be able to open the imported database with the old KeePassX 0.4 version.</translation>
     </message>
     <message>
         <source>Not a KeePass database.</source>
-        <translation>Not a KeePass database.</translation>
+        <translation type="vanished">Not a KeePass database.</translation>
     </message>
     <message>
         <source>Unsupported KeePass 2 database version.</source>
-        <translation>Unsupported KeePass 2 database version.</translation>
+        <translation type="vanished">Unsupported KeePass 2 database version.</translation>
     </message>
 </context>
 <context>
     <name>KdbxXmlReader</name>
     <message>
         <source>XML parsing failure: %1</source>
-        <translation>XML parsing failure: %1</translation>
+        <translation type="vanished">XML parsing failure: %1</translation>
     </message>
     <message>
         <source>No root group</source>
-        <translation>No root group</translation>
+        <translation type="vanished">No root group</translation>
     </message>
     <message>
         <source>XML error:
 %1
 Line %2, column %3</source>
-        <translation>XML error:
+        <translation type="vanished">XML error:
 %1
 Line %2, column %3</translation>
     </message>
     <message>
         <source>Missing icon uuid or data</source>
-        <translation>Missing icon uuid or data</translation>
+        <translation type="vanished">Missing icon uuid or data</translation>
     </message>
     <message>
         <source>Missing custom data key or value</source>
-        <translation>Missing custom data key or value</translation>
+        <translation type="vanished">Missing custom data key or value</translation>
     </message>
     <message>
         <source>Multiple group elements</source>
-        <translation>Multiple group elements</translation>
+        <translation type="vanished">Multiple group elements</translation>
     </message>
     <message>
         <source>Null group uuid</source>
-        <translation>Null group uuid</translation>
+        <translation type="vanished">Null group uuid</translation>
     </message>
     <message>
         <source>Invalid group icon number</source>
-        <translation>Invalid group icon number</translation>
+        <translation type="vanished">Invalid group icon number</translation>
     </message>
     <message>
         <source>Invalid EnableAutoType value</source>
-        <translation>Invalid EnableAutoType value</translation>
+        <translation type="vanished">Invalid EnableAutoType value</translation>
     </message>
     <message>
         <source>Invalid EnableSearching value</source>
-        <translation>Invalid EnableSearching value</translation>
+        <translation type="vanished">Invalid EnableSearching value</translation>
     </message>
     <message>
         <source>No group uuid found</source>
-        <translation>No group uuid found</translation>
+        <translation type="vanished">No group uuid found</translation>
     </message>
     <message>
         <source>Null DeleteObject uuid</source>
-        <translation>Null DeleteObject uuid</translation>
+        <translation type="vanished">Null DeleteObject uuid</translation>
     </message>
     <message>
         <source>Missing DeletedObject uuid or time</source>
-        <translation>Missing DeletedObject uuid or time</translation>
+        <translation type="vanished">Missing DeletedObject uuid or time</translation>
     </message>
     <message>
         <source>Null entry uuid</source>
-        <translation>Null entry uuid</translation>
+        <translation type="vanished">Null entry uuid</translation>
     </message>
     <message>
         <source>Invalid entry icon number</source>
-        <translation>Invalid entry icon number</translation>
+        <translation type="vanished">Invalid entry icon number</translation>
     </message>
     <message>
         <source>History element in history entry</source>
-        <translation>History element in history entry</translation>
+        <translation type="vanished">History element in history entry</translation>
     </message>
     <message>
         <source>No entry uuid found</source>
-        <translation>No entry uuid found</translation>
+        <translation type="vanished">No entry uuid found</translation>
     </message>
     <message>
         <source>History element with different uuid</source>
-        <translation>History element with different uuid</translation>
+        <translation type="vanished">History element with different uuid</translation>
     </message>
     <message>
         <source>Duplicate custom attribute found</source>
-        <translation>Duplicate custom attribute found</translation>
+        <translation type="vanished">Duplicate custom attribute found</translation>
     </message>
     <message>
         <source>Entry string key or value missing</source>
-        <translation>Entry string key or value missing</translation>
+        <translation type="vanished">Entry string key or value missing</translation>
     </message>
     <message>
         <source>Entry binary key or value missing</source>
-        <translation>Entry binary key or value missing</translation>
+        <translation type="vanished">Entry binary key or value missing</translation>
     </message>
     <message>
         <source>Auto-type association window or sequence missing</source>
-        <translation>Auto-type association window or sequence missing</translation>
+        <translation type="vanished">Auto-type association window or sequence missing</translation>
     </message>
     <message>
         <source>Invalid bool value</source>
-        <translation>Invalid bool value</translation>
+        <translation type="vanished">Invalid bool value</translation>
     </message>
     <message>
         <source>Invalid date time value</source>
-        <translation>Invalid date time value</translation>
+        <translation type="vanished">Invalid date time value</translation>
     </message>
     <message>
         <source>Invalid color value</source>
-        <translation>Invalid color value</translation>
+        <translation type="vanished">Invalid color value</translation>
     </message>
     <message>
         <source>Invalid color rgb part</source>
-        <translation>Invalid color rgb part</translation>
+        <translation type="vanished">Invalid color rgb part</translation>
     </message>
     <message>
         <source>Invalid number value</source>
-        <translation>Invalid number value</translation>
+        <translation type="vanished">Invalid number value</translation>
     </message>
     <message>
         <source>Invalid uuid value</source>
-        <translation>Invalid uuid value</translation>
+        <translation type="vanished">Invalid uuid value</translation>
     </message>
     <message>
         <source>Unable to decompress binary</source>
         <extracomment>Translator meant is a binary data inside an entry</extracomment>
-        <translation>Unable to decompress binary</translation>
+        <translation type="vanished">Unable to decompress binary</translation>
     </message>
 </context>
 <context>
     <name>KeeAgentSettings</name>
     <message>
         <source>Invalid KeeAgent settings file structure.</source>
-        <translation>Invalid KeeAgent settings file structure.</translation>
+        <translation type="vanished">Invalid KeeAgent settings file structure.</translation>
     </message>
     <message>
         <source>Private key is an attachment but no attachments provided.</source>
-        <translation>Private key is an attachment but no attachments provided.</translation>
+        <translation type="vanished">Private key is an attachment but no attachments provided.</translation>
     </message>
     <message>
         <source>Private key is empty</source>
-        <translation>Private key is empty</translation>
+        <translation type="vanished">Private key is empty</translation>
     </message>
     <message>
         <source>File too large to be a private key</source>
-        <translation>File too large to be a private key</translation>
+        <translation type="vanished">File too large to be a private key</translation>
     </message>
     <message>
         <source>Failed to open private key</source>
-        <translation>Failed to open private key</translation>
+        <translation type="vanished">Failed to open private key</translation>
     </message>
 </context>
 <context>
     <name>KeePass1Reader</name>
     <message>
         <source>Unable to read keyfile.</source>
-        <translation>Unable to read keyfile.</translation>
+        <translation type="vanished">Unable to read keyfile.</translation>
     </message>
     <message>
         <source>Not a KeePass database.</source>
-        <translation>Not a KeePass database.</translation>
+        <translation type="vanished">Not a KeePass database.</translation>
     </message>
     <message>
         <source>Unsupported encryption algorithm.</source>
-        <translation>Unsupported encryption algorithm.</translation>
+        <translation type="vanished">Unsupported encryption algorithm.</translation>
     </message>
     <message>
         <source>Unsupported KeePass database version.</source>
-        <translation>Unsupported KeePass database version.</translation>
+        <translation type="vanished">Unsupported KeePass database version.</translation>
     </message>
     <message>
         <source>Unable to read encryption IV</source>
         <comment>IV = Initialization Vector for symmetric cipher</comment>
-        <translation>Unable to read encryption IV</translation>
+        <translation type="vanished">Unable to read encryption IV</translation>
     </message>
     <message>
         <source>Invalid number of groups</source>
-        <translation>Invalid number of groups</translation>
+        <translation type="vanished">Invalid number of groups</translation>
     </message>
     <message>
         <source>Invalid number of entries</source>
-        <translation>Invalid number of entries</translation>
+        <translation type="vanished">Invalid number of entries</translation>
     </message>
     <message>
         <source>Invalid content hash size</source>
-        <translation>Invalid content hash size</translation>
+        <translation type="vanished">Invalid content hash size</translation>
     </message>
     <message>
         <source>Invalid transform seed size</source>
-        <translation>Invalid transform seed size</translation>
+        <translation type="vanished">Invalid transform seed size</translation>
     </message>
     <message>
         <source>Invalid number of transform rounds</source>
-        <translation>Invalid number of transform rounds</translation>
+        <translation type="vanished">Invalid number of transform rounds</translation>
     </message>
     <message>
         <source>Unable to construct group tree</source>
-        <translation>Unable to construct group tree</translation>
+        <translation type="vanished">Unable to construct group tree</translation>
     </message>
     <message>
         <source>Root</source>
-        <translation>Root</translation>
+        <translation type="vanished">Root</translation>
     </message>
     <message>
         <source>Unable to calculate database key</source>
-        <translation>Unable to calculate database key</translation>
+        <translation type="vanished">Unable to calculate database key</translation>
     </message>
     <message>
         <source>unable to seek to content position</source>
-        <translation>unable to seek to content position</translation>
+        <translation type="vanished">unable to seek to content position</translation>
     </message>
     <message>
         <source>Invalid credentials were provided, please try again.
 If this reoccurs, then your database file may be corrupt.</source>
-        <translation>Invalid credentials were provided, please try again.
+        <translation type="vanished">Invalid credentials were provided, please try again.
 If this reoccurs, then your database file may be corrupt.</translation>
     </message>
     <message>
         <source>Key transformation failed</source>
-        <translation>Key transformation failed</translation>
+        <translation type="vanished">Key transformation failed</translation>
     </message>
     <message>
         <source>Invalid group field type number</source>
-        <translation>Invalid group field type number</translation>
+        <translation type="vanished">Invalid group field type number</translation>
     </message>
     <message>
         <source>Invalid group field size</source>
-        <translation>Invalid group field size</translation>
+        <translation type="vanished">Invalid group field size</translation>
     </message>
     <message>
         <source>Read group field data doesn&apos;t match size</source>
-        <translation>Read group field data doesn&apos;t match size</translation>
+        <translation type="vanished">Read group field data doesn&apos;t match size</translation>
     </message>
     <message>
         <source>Incorrect group id field size</source>
-        <translation>Incorrect group id field size</translation>
+        <translation type="vanished">Incorrect group id field size</translation>
     </message>
     <message>
         <source>Incorrect group creation time field size</source>
-        <translation>Incorrect group creation time field size</translation>
+        <translation type="vanished">Incorrect group creation time field size</translation>
     </message>
     <message>
         <source>Incorrect group modification time field size</source>
-        <translation>Incorrect group modification time field size</translation>
+        <translation type="vanished">Incorrect group modification time field size</translation>
     </message>
     <message>
         <source>Incorrect group access time field size</source>
-        <translation>Incorrect group access time field size</translation>
+        <translation type="vanished">Incorrect group access time field size</translation>
     </message>
     <message>
         <source>Incorrect group expiry time field size</source>
-        <translation>Incorrect group expiry time field size</translation>
+        <translation type="vanished">Incorrect group expiry time field size</translation>
     </message>
     <message>
         <source>Incorrect group icon field size</source>
-        <translation>Incorrect group icon field size</translation>
+        <translation type="vanished">Incorrect group icon field size</translation>
     </message>
     <message>
         <source>Incorrect group level field size</source>
-        <translation>Incorrect group level field size</translation>
+        <translation type="vanished">Incorrect group level field size</translation>
     </message>
     <message>
         <source>Invalid group field type</source>
-        <translation>Invalid group field type</translation>
+        <translation type="vanished">Invalid group field type</translation>
     </message>
     <message>
         <source>Missing group id or level</source>
-        <translation>Missing group id or level</translation>
+        <translation type="vanished">Missing group id or level</translation>
     </message>
     <message>
         <source>Missing entry field type number</source>
-        <translation>Missing entry field type number</translation>
+        <translation type="vanished">Missing entry field type number</translation>
     </message>
     <message>
         <source>Invalid entry field size</source>
-        <translation>Invalid entry field size</translation>
+        <translation type="vanished">Invalid entry field size</translation>
     </message>
     <message>
         <source>Read entry field data doesn&apos;t match size</source>
-        <translation>Read entry field data doesn&apos;t match size</translation>
+        <translation type="vanished">Read entry field data doesn&apos;t match size</translation>
     </message>
     <message>
         <source>Invalid entry UUID field size</source>
-        <translation>Invalid entry UUID field size</translation>
+        <translation type="vanished">Invalid entry UUID field size</translation>
     </message>
     <message>
         <source>Invalid entry group id field size</source>
-        <translation>Invalid entry group id field size</translation>
+        <translation type="vanished">Invalid entry group id field size</translation>
     </message>
     <message>
         <source>Invalid entry icon field size</source>
-        <translation>Invalid entry icon field size</translation>
+        <translation type="vanished">Invalid entry icon field size</translation>
     </message>
     <message>
         <source>Invalid entry creation time field size</source>
-        <translation>Invalid entry creation time field size</translation>
+        <translation type="vanished">Invalid entry creation time field size</translation>
     </message>
     <message>
         <source>Invalid entry modification time field size</source>
-        <translation>Invalid entry modification time field size</translation>
+        <translation type="vanished">Invalid entry modification time field size</translation>
     </message>
     <message>
         <source>Invalid entry expiry time field size</source>
-        <translation>Invalid entry expiry time field size</translation>
+        <translation type="vanished">Invalid entry expiry time field size</translation>
     </message>
     <message>
         <source>Invalid entry field type</source>
-        <translation>Invalid entry field type</translation>
+        <translation type="vanished">Invalid entry field type</translation>
     </message>
 </context>
 <context>
     <name>KeeShare</name>
     <message>
         <source>Invalid sharing reference</source>
-        <translation>Invalid sharing reference</translation>
+        <translation type="vanished">Invalid sharing reference</translation>
     </message>
     <message>
         <source>Inactive share %1</source>
-        <translation>Inactive share %1</translation>
+        <translation type="vanished">Inactive share %1</translation>
     </message>
     <message>
         <source>Imported from %1</source>
-        <translation>Imported from %1</translation>
+        <translation type="vanished">Imported from %1</translation>
     </message>
     <message>
         <source>Exported to %1</source>
-        <translation>Exported to %1</translation>
+        <translation type="vanished">Exported to %1</translation>
     </message>
     <message>
         <source>Synchronized with %1</source>
-        <translation>Synchronized with %1</translation>
+        <translation type="vanished">Synchronized with %1</translation>
     </message>
     <message>
         <source>Import is disabled in settings</source>
-        <translation>Import is disabled in settings</translation>
+        <translation type="vanished">Import is disabled in settings</translation>
     </message>
     <message>
         <source>Export is disabled in settings</source>
-        <translation>Export is disabled in settings</translation>
+        <translation type="vanished">Export is disabled in settings</translation>
     </message>
     <message>
         <source>Inactive share</source>
-        <translation>Inactive share</translation>
+        <translation type="vanished">Inactive share</translation>
     </message>
     <message>
         <source>Imported from</source>
-        <translation>Imported from</translation>
+        <translation type="vanished">Imported from</translation>
     </message>
     <message>
         <source>Exported to</source>
-        <translation>Exported to</translation>
+        <translation type="vanished">Exported to</translation>
     </message>
     <message>
         <source>Synchronized with</source>
-        <translation>Synchronized with</translation>
+        <translation type="vanished">Synchronized with</translation>
     </message>
 </context>
 <context>
     <name>KeyComponentWidget</name>
     <message>
         <source>Key Component</source>
-        <translation>Key Component</translation>
+        <translation type="vanished">Key Component</translation>
     </message>
     <message>
         <source>Key Component Description</source>
-        <translation>Key Component Description</translation>
+        <translation type="vanished">Key Component Description</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancel</translation>
+        <translation type="vanished">Cancel</translation>
     </message>
     <message>
         <source>Key Component set, click to change or remove</source>
-        <translation>Key Component set, click to change or remove</translation>
+        <translation type="vanished">Key Component set, click to change or remove</translation>
     </message>
 </context>
 <context>
     <name>KeyFileEditWidget</name>
     <message>
         <source>Generate a new key file</source>
-        <translation>Generate a new key file</translation>
+        <translation type="vanished">Generate a new key file</translation>
     </message>
     <message>
         <source>Generate</source>
-        <translation>Generate</translation>
+        <translation type="vanished">Generate</translation>
     </message>
     <message>
         <source>Generate a new key file or choose an existing one to protect your database.</source>
-        <translation>Generate a new key file or choose an existing one to protect your database.</translation>
+        <translation type="vanished">Generate a new key file or choose an existing one to protect your database.</translation>
     </message>
     <message>
         <source>Note: Do NOT use a file that may change as that will prevent you from unlocking your database.</source>
-        <translation>Note: Do NOT use a file that may change as that will prevent you from unlocking your database.</translation>
+        <translation type="vanished">Note: Do NOT use a file that may change as that will prevent you from unlocking your database.</translation>
     </message>
     <message>
         <source>Browse for key file</source>
-        <translation>Browse for key file</translation>
+        <translation type="vanished">Browse for key file</translation>
     </message>
     <message>
         <source>Browse…</source>
-        <translation>Browse…</translation>
+        <translation type="vanished">Browse…</translation>
     </message>
     <message>
         <source>Old key file format</source>
-        <translation>Old key file format</translation>
+        <translation type="vanished">Old key file format</translation>
     </message>
     <message>
         <source>You selected a key file in an old format which KeePassXC&lt;br&gt;may stop supporting in the future.&lt;br&gt;&lt;br&gt;Please consider generating a new key file instead.</source>
-        <translation>You selected a key file in an old format which KeePassXC&lt;br&gt;may stop supporting in the future.&lt;br&gt;&lt;br&gt;Please consider generating a new key file instead.</translation>
+        <translation type="vanished">You selected a key file in an old format which KeePassXC&lt;br&gt;may stop supporting in the future.&lt;br&gt;&lt;br&gt;Please consider generating a new key file instead.</translation>
     </message>
     <message>
-        <source>Error loading the key file '%1'
+        <source>Error loading the key file &apos;%1&apos;
 Message: %2</source>
-        <translation>Error loading the key file &apos;%1&apos;
+        <translation type="vanished">Error loading the key file &apos;%1&apos;
 Message: %2</translation>
     </message>
     <message>
         <source>Key File</source>
-        <translation>Key File</translation>
+        <translation type="vanished">Key File</translation>
     </message>
     <message>
         <source>Add Key File</source>
-        <translation>Add Key File</translation>
+        <translation type="vanished">Add Key File</translation>
     </message>
     <message>
         <source>Change Key File</source>
-        <translation>Change Key File</translation>
+        <translation type="vanished">Change Key File</translation>
     </message>
     <message>
         <source>Remove Key File</source>
-        <translation>Remove Key File</translation>
+        <translation type="vanished">Remove Key File</translation>
     </message>
     <message>
         <source>Key File set, click to change or remove</source>
-        <translation>Key File set, click to change or remove</translation>
+        <translation type="vanished">Key File set, click to change or remove</translation>
     </message>
     <message>
         <source>&lt;p&gt;You can add a key file containing random bytes for additional security.&lt;/p&gt;&lt;p&gt;You must keep it secret and never lose it or you will be locked out.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;You can add a key file containing random bytes for additional security.&lt;/p&gt;&lt;p&gt;You must keep it secret and never lose it or you will be locked out.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;You can add a key file containing random bytes for additional security.&lt;/p&gt;&lt;p&gt;You must keep it secret and never lose it or you will be locked out.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Key files</source>
-        <translation>Key files</translation>
+        <translation type="vanished">Key files</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation>All files</translation>
+        <translation type="vanished">All files</translation>
     </message>
     <message>
         <source>Create Key File…</source>
-        <translation>Create Key File…</translation>
+        <translation type="vanished">Create Key File…</translation>
     </message>
     <message>
         <source>Error creating key file</source>
-        <translation>Error creating key file</translation>
+        <translation type="vanished">Error creating key file</translation>
     </message>
     <message>
         <source>Unable to create key file: %1</source>
-        <translation>Unable to create key file: %1</translation>
+        <translation type="vanished">Unable to create key file: %1</translation>
     </message>
     <message>
         <source>Select a key file</source>
-        <translation>Select a key file</translation>
+        <translation type="vanished">Select a key file</translation>
     </message>
     <message>
         <source>Invalid Key File</source>
-        <translation>Invalid Key File</translation>
+        <translation type="vanished">Invalid Key File</translation>
     </message>
     <message>
         <source>You cannot use the current database as its own keyfile. Please choose a different file or generate a new key file.</source>
-        <translation>You cannot use the current database as its own keyfile. Please choose a different file or generate a new key file.</translation>
+        <translation type="vanished">You cannot use the current database as its own keyfile. Please choose a different file or generate a new key file.</translation>
     </message>
     <message>
         <source>Suspicious Key File</source>
-        <translation>Suspicious Key File</translation>
+        <translation type="vanished">Suspicious Key File</translation>
     </message>
     <message>
         <source>The chosen key file looks like a password database file. A key file must be a static file that never changes or you will lose access to your database forever.
 Are you sure you want to continue with this file?</source>
-        <translation>The chosen key file looks like a password database file. A key file must be a static file that never changes or you will lose access to your database forever.
+        <translation type="vanished">The chosen key file looks like a password database file. A key file must be a static file that never changes or you will lose access to your database forever.
 Are you sure you want to continue with this file?</translation>
     </message>
 </context>
@@ -5685,356 +5971,452 @@ Are you sure you want to continue with this file?</translation>
     <name>MacUtils</name>
     <message>
         <source>Invalid key code</source>
-        <translation>Invalid key code</translation>
+        <translation type="vanished">Invalid key code</translation>
     </message>
     <message>
         <source>Global shortcut already registered to %1</source>
-        <translation>Global shortcut already registered to %1</translation>
+        <translation type="vanished">Global shortcut already registered to %1</translation>
     </message>
     <message>
         <source>Could not register global shortcut</source>
-        <translation>Could not register global shortcut</translation>
+        <translation type="vanished">Could not register global shortcut</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="227"/>
         <source>&amp;Database</source>
         <translation>&amp;Database</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="231"/>
         <source>&amp;Recent Databases</source>
         <translation>&amp;Recent Databases</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="236"/>
         <source>&amp;Export</source>
         <translation>&amp;Export</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="276"/>
         <source>&amp;Help</source>
         <translation>&amp;Help</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="291"/>
         <source>&amp;Entries</source>
         <translation>&amp;Entries</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="301"/>
         <source>Copy Att&amp;ribute</source>
         <translation>Copy Att&amp;ribute</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="309"/>
         <source>TOTP</source>
         <translation>TOTP</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="322"/>
         <source>Tags</source>
         <translation>Tags</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="357"/>
         <source>&amp;Groups</source>
         <translation>&amp;Groups</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="373"/>
         <source>&amp;Tools</source>
         <translation>&amp;Tools</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="381"/>
         <source>View</source>
         <translation>View</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="385"/>
         <source>Theme</source>
         <translation>Theme</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="454"/>
         <source>&amp;Quit</source>
         <translation>&amp;Quit</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="468"/>
         <source>&amp;About</source>
         <translation>&amp;About</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="479"/>
         <source>&amp;Check for Updates</source>
         <translation>&amp;Check for Updates</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="487"/>
         <source>&amp;Open Database…</source>
         <translation>&amp;Open Database…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="498"/>
+        <source>Open from &amp;WebDAV…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/MainWindow.ui" line="501"/>
+        <source>Open a database directly from a WebDAV server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/MainWindow.ui" line="506"/>
         <source>&amp;Save Database</source>
         <translation>&amp;Save Database</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="514"/>
         <source>&amp;Close Database</source>
         <translation>&amp;Close Database</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="522"/>
         <source>&amp;New Database…</source>
         <translation>&amp;New Database…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="533"/>
         <source>&amp;Merge From Database…</source>
         <translation>&amp;Merge From Database…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="541"/>
         <source>&amp;New Entry…</source>
         <translation>&amp;New Entry…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="552"/>
         <source>&amp;Edit Entry…</source>
         <translation>&amp;Edit Entry…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="594"/>
         <source>&amp;New Group…</source>
         <translation>&amp;New Group…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="602"/>
         <source>&amp;Edit Group…</source>
         <translation>&amp;Edit Group…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="610"/>
         <source>&amp;Delete Group…</source>
         <translation>&amp;Delete Group…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="618"/>
         <source>Download All &amp;Favicons…</source>
         <translation>Download All &amp;Favicons…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="626"/>
         <source>Sort &amp;A-Z</source>
         <translation>Sort &amp;A-Z</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="634"/>
         <source>Sort &amp;Z-A</source>
         <translation>Sort &amp;Z-A</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="642"/>
         <source>Sa&amp;ve Database As…</source>
         <translation>Sa&amp;ve Database As…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="653"/>
         <source>Database &amp;Security…</source>
         <translation>Database &amp;Security…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="664"/>
         <source>Database &amp;Reports…</source>
         <translation>Database &amp;Reports…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="681"/>
         <source>&amp;Database Settings…</source>
         <translation>&amp;Database Settings…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="717"/>
         <source>&amp;Clone Entry…</source>
         <translation>&amp;Clone Entry…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="728"/>
         <source>Move u&amp;p</source>
         <translation>Move u&amp;p</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="739"/>
         <source>Move do&amp;wn</source>
         <translation>Move do&amp;wn</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="750"/>
         <source>Copy &amp;Username</source>
         <translation>Copy &amp;Username</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="761"/>
         <source>Copy &amp;Password</source>
         <translation>Copy &amp;Password</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="775"/>
         <source>&amp;Settings</source>
         <translation>&amp;Settings</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="792"/>
         <source>&amp;Password Generator</source>
         <translation>&amp;Password Generator</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="800"/>
         <source>Perform &amp;Auto-Type</source>
         <translation>Perform &amp;Auto-Type</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="913"/>
         <source>Download &amp;Favicon</source>
         <translation>Download &amp;Favicon</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="921"/>
         <source>Open &amp;URL</source>
         <translation>Open &amp;URL</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="929"/>
+        <location filename="../../src/gui/MainWindow.ui" line="1319"/>
         <source>&amp;Lock Database</source>
         <translation>&amp;Lock Database</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="937"/>
         <source>Lock &amp;All Databases</source>
         <translation>Lock &amp;All Databases</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="945"/>
         <source>&amp;Title</source>
         <translation>&amp;Title</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="956"/>
         <source>Copy &amp;URL</source>
         <translation>Copy &amp;URL</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="967"/>
         <source>&amp;Notes</source>
         <translation>&amp;Notes</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="975"/>
         <source>&amp;CSV File…</source>
         <translation>&amp;CSV File…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="983"/>
         <source>&amp;HTML File…</source>
         <translation>&amp;HTML File…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="991"/>
         <source>KeePass 1 Database…</source>
         <translation>KeePass 1 Database…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="999"/>
         <source>1Password Vault…</source>
         <translation>1Password Vault…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1007"/>
         <source>CSV File…</source>
         <translation>CSV File…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1015"/>
         <source>Show TOTP</source>
         <translation>Show TOTP</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1023"/>
         <source>Show QR Code</source>
         <translation>Show QR Code</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1031"/>
         <source>Set up TOTP…</source>
         <translation>Set up TOTP…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1039"/>
         <source>Copy &amp;TOTP</source>
         <translation>Copy &amp;TOTP</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1047"/>
         <source>Copy Password and TOTP</source>
         <translation>Copy Password and TOTP</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1055"/>
         <source>E&amp;mpty recycle bin</source>
         <translation>E&amp;mpty recycle bin</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1063"/>
         <source>&amp;Donate</source>
         <translation>&amp;Donate</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1071"/>
         <source>Report a &amp;Bug</source>
         <translation>Report a &amp;Bug</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1079"/>
         <source>&amp;Getting Started</source>
         <translation>&amp;Getting Started</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1082"/>
         <source>Open Getting Started Guide</source>
         <translation>Open Getting Started Guide</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1087"/>
         <source>&amp;Online Help</source>
         <translation>&amp;Online Help</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1095"/>
         <source>&amp;User Guide</source>
         <translation>&amp;User Guide</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1098"/>
         <source>Open User Guide</source>
         <translation>Open User Guide</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1103"/>
         <source>&amp;Keyboard Shortcuts</source>
         <translation>&amp;Keyboard Shortcuts</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1114"/>
         <source>Save Database Backup…</source>
         <translation>Save Database Backup…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1122"/>
         <source>Add key to SSH Agent</source>
         <translation>Add key to SSH Agent</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1133"/>
         <source>Remove key from SSH Agent</source>
         <translation>Remove key from SSH Agent</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1147"/>
         <source>Compact Mode</source>
         <translation>Compact Mode</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1161"/>
         <source>Automatic</source>
         <translation>Automatic</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1172"/>
         <source>Light</source>
         <translation>Light</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1183"/>
         <source>Dark</source>
         <translation>Dark</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1194"/>
         <source>Classic (Platform-native)</source>
         <translation>Classic (Platform-native)</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1208"/>
         <source>Show Menubar</source>
         <translation>Show Menubar</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1222"/>
         <source>Show Toolbar</source>
         <translation>Show Toolbar</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1236"/>
         <source>Show Preview Panel</source>
         <translation>Show Preview Panel</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1247"/>
         <source>Always on Top</source>
         <translation>Always on Top</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1261"/>
         <source>Hide Usernames</source>
         <translation>Hide Usernames</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1278"/>
         <source>Hide Passwords</source>
         <translation>Hide Passwords</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1303"/>
         <source>Clone Group...</source>
         <translation>Clone Group...</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1324"/>
         <source>&amp;XML File…</source>
         <translation>&amp;XML File…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.cpp" line="247"/>
         <source>Clear history</source>
         <translation>Clear history</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.cpp" line="613"/>
         <source>Access error for config file %1</source>
         <translation>Access error for config file %1</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.cpp" line="621"/>
         <source>Don&apos;t show again for this version</source>
         <translation>Don&apos;t show again for this version</translation>
     </message>
@@ -6042,853 +6424,970 @@ Are you sure you want to continue with this file?</translation>
         <source>WARNING: You are using an unstable build of KeePassXC.
 There is a high risk of corruption, maintain a backup of your databases.
 This version is not meant for production use.</source>
-        <translation>WARNING: You are using an unstable build of KeePassXC.
+        <translation type="vanished">WARNING: You are using an unstable build of KeePassXC.
 There is a high risk of corruption, maintain a backup of your databases.
 This version is not meant for production use.</translation>
     </message>
     <message>
         <source>NOTE: You are using a pre-release version of KeePassXC.
 Expect some bugs and minor issues, this version is meant for testing purposes.</source>
-        <translation>NOTE: You are using a pre-release version of KeePassXC.
+        <translation type="vanished">NOTE: You are using a pre-release version of KeePassXC.
 Expect some bugs and minor issues, this version is meant for testing purposes.</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.cpp" line="636"/>
+        <source>WARNING: You are using a development snapshot build of KeePassXC.
+Maintain a backup of your databases in the event of unknown bugs.
+This version is not meant for production use.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/MainWindow.cpp" line="829"/>
         <source>No Tags</source>
         <translation>No Tags</translation>
     </message>
     <message numerus="yes">
+        <location filename="../../src/gui/MainWindow.cpp" line="924"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="925"/>
         <source>Restore Entry(s)</source>
-        <translation><numerusform>Restore Entry</numerusform><numerusform>Restore Entries</numerusform></translation>
+        <translation>
+            <numerusform>Restore Entry</numerusform>
+            <numerusform>Restore Entries</numerusform>
+        </translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.cpp" line="1058"/>
         <source>Settings</source>
         <translation>Settings</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.cpp" line="1095"/>
         <source>Check for updates on startup?</source>
         <translation>Check for updates on startup?</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.cpp" line="1096"/>
         <source>Would you like KeePassXC to check for updates on startup?</source>
         <translation>Would you like KeePassXC to check for updates on startup?</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.cpp" line="1097"/>
         <source>You can always check for updates manually from the application menu.</source>
         <translation>You can always check for updates manually from the application menu.</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.cpp" line="1269"/>
+        <source>Setup WebDAV Sync…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/MainWindow.cpp" line="1579"/>
         <source>Toggle window</source>
         <translation>Toggle window</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.cpp" line="1586"/>
         <source>Quit KeePassXC</source>
         <translation>Quit KeePassXC</translation>
     </message>
     <message numerus="yes">
+        <location filename="../../src/gui/MainWindow.cpp" line="1642"/>
         <source>%1 Entry(s)</source>
-        <translation><numerusform>%1 Entry</numerusform><numerusform>%1 Entries</numerusform></translation>
+        <translation>
+            <numerusform>%1 Entry</numerusform>
+            <numerusform>%1 Entries</numerusform>
+        </translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.cpp" line="1898"/>
         <source>Please present or touch your YubiKey to continue…</source>
         <translation>Please present or touch your YubiKey to continue…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.cpp" line="1992"/>
         <source>Restart Application?</source>
         <translation>Restart Application?</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.cpp" line="2026"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="2037"/>
         <source>You must restart the application to apply this setting. Would you like to restart now?</source>
         <translation>You must restart the application to apply this setting. Would you like to restart now?</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1335"/>
         <source>Allow Screen Capture</source>
         <translation>Allow Screen Capture</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1343"/>
         <source>1Password 1PUX...</source>
         <translation>1Password 1PUX...</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1346"/>
         <source>Import a 1Password 1PUX file</source>
         <translation>Import a 1Password 1PUX file</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1351"/>
         <source>Import…</source>
         <translation>Import…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="695"/>
         <source>Passkeys…</source>
         <translation>Passkeys…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="706"/>
+        <location filename="../../src/gui/MainWindow.ui" line="709"/>
+        <location filename="../../src/gui/MainWindow.ui" line="805"/>
         <source>Import Passkey</source>
         <translation>Import Passkey</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="244"/>
         <source>Remote S&amp;ync…</source>
         <translation>Remote S&amp;ync…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="457"/>
         <source>Quit Application</source>
         <translation>Quit Application</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="471"/>
         <source>Open About Dialog</source>
         <translation>Open About Dialogue</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="490"/>
         <source>Open Database</source>
         <translation>Open Database</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="525"/>
         <source>Create Database</source>
         <translation>Create Database</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="536"/>
         <source>Merge From Database</source>
         <translation>Merge From Database</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="558"/>
         <source>Edit Entry</source>
         <translation>Edit Entry</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="583"/>
+        <location filename="../../src/gui/MainWindow.ui" line="586"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="918"/>
         <source>Delete Entry</source>
         <translation>Delete Entry</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="597"/>
         <source>Create Group</source>
         <translation>Create Group</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="605"/>
         <source>Edit Group</source>
         <translation>Edit Group</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="613"/>
         <source>Delete Group</source>
         <translation>Delete Group</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="621"/>
         <source>Download All Favicons</source>
         <translation>Download All Favicons</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="629"/>
         <source>Sort Groups A-Z</source>
         <translation>Sort Groups A-Z</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="637"/>
         <source>Sort Groups Z-A</source>
         <translation>Sort Groups Z-A</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="645"/>
         <source>Save Database As</source>
         <translation>Save Database As</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="656"/>
         <source>Show Database Security</source>
         <translation>Show Database Security</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="667"/>
         <source>Show Database Reports</source>
         <translation>Show Database Reports</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="684"/>
         <source>Show Database Settings</source>
         <translation>Show Database Settings</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="698"/>
         <source>Show Passkeys</source>
         <translation>Show Passkeys</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="720"/>
         <source>Clone Entry</source>
         <translation>Clone Entry</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="731"/>
         <source>Move Entry Up</source>
         <translation>Move Entry Up</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="742"/>
         <source>Move Entry Down</source>
         <translation>Move Entry Down</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="753"/>
         <source>Copy Username</source>
         <translation>Copy Username</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="764"/>
         <source>Copy Password</source>
         <translation>Copy Password</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="778"/>
         <source>Show Application Settings</source>
         <translation>Show Application Settings</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="795"/>
         <source>Show Password Generator</source>
         <translation>Show Password Generator</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="810"/>
         <source>Remove Passkey From Entry</source>
         <translation>Remove Passkey From Entry</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="824"/>
         <source>Perform Auto-Type: {USERNAME}</source>
         <translation>Perform Auto-Type: {USERNAME}</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="838"/>
         <source>Perform Auto-Type: {USERNAME}{ENTER}</source>
         <translation>Perform Auto-Type: {USERNAME}{ENTER}</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="852"/>
         <source>Perform Auto-Type: {PASSWORD}</source>
         <translation>Perform Auto-Type: {PASSWORD}</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="866"/>
         <source>Perform Auto-Type: {PASSWORD}{ENTER}</source>
         <translation>Perform Auto-Type: {PASSWORD}{ENTER}</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="880"/>
         <source>Perform Auto-Type: {TOTP}</source>
         <translation>Perform Auto-Type: {TOTP}</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="948"/>
         <source>Copy Title</source>
         <translation>Copy Title</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="959"/>
         <source>Copy URL</source>
         <translation>Copy URL</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="970"/>
         <source>Copy Notes</source>
         <translation>Copy Notes</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="978"/>
         <source>Export to CSV</source>
         <translation>Export to CSV</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="986"/>
         <source>Export to HTML</source>
         <translation>Export to HTML</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="994"/>
         <source>Import KeePass1 Database</source>
         <translation>Import KeePass1 Database</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1002"/>
         <source>Import 1Password Vault</source>
         <translation>Import 1Password Vault</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1010"/>
         <source>Import CSV File</source>
         <translation>Import CSV File</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1026"/>
         <source>Show TOTP QR Code</source>
         <translation>Show TOTP QR Code</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1034"/>
         <source>Set up TOTP</source>
         <translation>Set up TOTP</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1058"/>
         <source>Empty Recycle Bin</source>
         <translation>Empty Recycle Bin</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1066"/>
         <source>Open Donation Website</source>
         <translation>Open Donation Website</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1074"/>
         <source>Open Bug Report</source>
         <translation>Open Bug Report</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1090"/>
         <source>Open Online Documentation</source>
         <translation>Open Online Documentation</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1106"/>
         <source>Open Keyboard Shortcuts Guide</source>
         <translation>Open Keyboard Shortcuts Guide</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1117"/>
         <source>Save Database Backup</source>
         <translation>Save Database Backup</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1125"/>
         <source>SSH Agent: Add Key</source>
         <translation>SSH Agent: Add Key</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1136"/>
         <source>SSH Agent: Remove Key</source>
         <translation>SSH Agent: Remove Key</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1150"/>
         <source>Toggle Compact Mode</source>
         <translation>Toggle Compact Mode</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1164"/>
         <source>Set Theme: Automatic</source>
         <translation>Set Theme: Automatic</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1175"/>
         <source>Set Theme: Light</source>
         <translation>Set Theme: Light</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1186"/>
         <source>Set Theme: Dark</source>
         <translation>Set Theme: Dark</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1197"/>
         <source>Set Theme: Classic</source>
         <translation>Set Theme: Classic</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1211"/>
         <source>Toggle Show Menubar</source>
         <translation>Toggle Show Menubar</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1225"/>
         <source>Toggle Show Toolbar</source>
         <translation>Toggle Show Toolbar</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1239"/>
         <source>Toggle Show Preview Panel</source>
         <translation>Toggle Show Preview Panel</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1250"/>
         <source>Toggle Always on Top</source>
         <translation>Toggle Always on Top</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1264"/>
         <source>Toggle Hide Usernames</source>
         <translation>Toggle Hide Usernames</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1281"/>
         <source>Toggle Hide Passwords</source>
         <translation>Toggle Hide Passwords</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1327"/>
         <source>Export to XML</source>
         <translation>Export to XML</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1338"/>
         <source>Toggle Allow Screen Capture</source>
         <translation>Toggle Allow Screen Capture</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1362"/>
         <source>Show Group Panel</source>
         <translation>Show Group Panel</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1365"/>
         <source>Toggle Show Group Panel</source>
         <translation>Toggle Show Group Panel</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.cpp" line="1254"/>
         <source>Setup Remote Sync…</source>
         <translation>Setup Remote Sync…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.cpp" line="1060"/>
         <source>Password Generator</source>
         <translation>Password Generator</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1370"/>
         <source>Clear SSH Agent</source>
         <translation>Clear SSH Agent</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="1373"/>
         <source>Clear all identities in ssh-agent</source>
         <translation>Clear all identities in ssh-agent</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="544"/>
         <source>New Entry</source>
         <translation>New Entry</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="555"/>
         <source>Edit Entry…</source>
         <translation>Edit Entry…</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="569"/>
         <source>E&amp;xpire Entry</source>
         <translation>E&amp;xpire Entry</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="572"/>
+        <location filename="../../src/gui/MainWindow.ui" line="575"/>
         <source>Expire Entry</source>
         <translation>Expire Entry</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.ui" line="580"/>
         <source>&amp;Delete Entry</source>
         <translation>&amp;Delete Entry</translation>
     </message>
     <message numerus="yes">
+        <location filename="../../src/gui/MainWindow.cpp" line="912"/>
         <source>Move selected entry(s) to the recycle bin</source>
-        <translation><numerusform>Move selected entry(s) to the recycle bin</numerusform><numerusform>Move selected entry(s) to the recycle bin</numerusform></translation>
+        <translation>
+            <numerusform>Move selected entry(s) to the recycle bin</numerusform>
+            <numerusform>Move selected entry(s) to the recycle bin</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
+        <location filename="../../src/gui/MainWindow.cpp" line="915"/>
         <source>Permanently delete the selected entry(s)</source>
-        <translation><numerusform>Permanently delete the selected entry(s)</numerusform><numerusform>Permanently delete the selected entry(s)</numerusform></translation>
+        <translation>
+            <numerusform>Permanently delete the selected entry(s)</numerusform>
+            <numerusform>Permanently delete the selected entry(s)</numerusform>
+        </translation>
     </message>
 </context>
 <context>
     <name>ManageDatabase</name>
     <message>
         <source>Database settings</source>
-        <translation>Database settings</translation>
+        <translation type="vanished">Database settings</translation>
     </message>
     <message>
         <source>Edit database settings</source>
-        <translation>Edit database settings</translation>
+        <translation type="vanished">Edit database settings</translation>
     </message>
     <message>
         <source>Unlock database</source>
-        <translation>Unlock database</translation>
+        <translation type="vanished">Unlock database</translation>
     </message>
     <message>
         <source>Unlock database to show more information</source>
-        <translation>Unlock database to show more information</translation>
+        <translation type="vanished">Unlock database to show more information</translation>
     </message>
     <message>
         <source>Lock database</source>
-        <translation>Lock database</translation>
+        <translation type="vanished">Lock database</translation>
     </message>
 </context>
 <context>
     <name>ManageSession</name>
     <message>
         <source>Disconnect</source>
-        <translation>Disconnect</translation>
+        <translation type="vanished">Disconnect</translation>
     </message>
     <message>
         <source>Disconnect this application</source>
-        <translation>Disconnect this application</translation>
+        <translation type="vanished">Disconnect this application</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation>Reset</translation>
+        <translation type="vanished">Reset</translation>
     </message>
     <message>
         <source>Reset any remembered decisions for this application</source>
-        <translation>Reset any remembered decisions for this application</translation>
+        <translation type="vanished">Reset any remembered decisions for this application</translation>
     </message>
 </context>
 <context>
     <name>MergeDialog</name>
     <message>
         <source>Database Merge Confirmation</source>
-        <translation>Database Merge Confirmation</translation>
+        <translation type="vanished">Database Merge Confirmation</translation>
     </message>
     <message>
         <source>Merge</source>
-        <translation>Merge</translation>
+        <translation type="vanished">Merge</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Group</translation>
+        <translation type="vanished">Group</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation>Title</translation>
+        <translation type="vanished">Title</translation>
     </message>
     <message>
         <source>UUID</source>
-        <translation>UUID</translation>
+        <translation type="vanished">UUID</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation>Details</translation>
+        <translation type="vanished">Details</translation>
     </message>
     <message>
         <source>Change</source>
-        <translation>Change</translation>
+        <translation type="vanished">Change</translation>
     </message>
 </context>
 <context>
     <name>Merger</name>
     <message>
         <source>Changed deleted objects</source>
-        <translation>Changed deleted objects</translation>
+        <translation type="vanished">Changed deleted objects</translation>
     </message>
     <message>
         <source>Removed custom data %1 [%2]</source>
-        <translation>Removed custom data %1 [%2]</translation>
+        <translation type="vanished">Removed custom data %1 [%2]</translation>
     </message>
     <message>
         <source>Adding custom data %1 [%2]</source>
-        <translation>Adding custom data %1 [%2]</translation>
+        <translation type="vanished">Adding custom data %1 [%2]</translation>
     </message>
     <message>
         <source>Added</source>
-        <translation>Added</translation>
+        <translation type="vanished">Added</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation>Modified</translation>
+        <translation type="vanished">Modified</translation>
     </message>
     <message>
         <source>Moved</source>
-        <translation>Moved</translation>
+        <translation type="vanished">Moved</translation>
     </message>
     <message>
         <source>Deleted</source>
-        <translation>Deleted</translation>
+        <translation type="vanished">Deleted</translation>
     </message>
     <message>
         <source>Previous location: %1</source>
-        <translation>Previous location: %1</translation>
+        <translation type="vanished">Previous location: %1</translation>
     </message>
     <message>
         <source>Number of entries in group: %1</source>
-        <translation>Number of entries in group: %1</translation>
+        <translation type="vanished">Number of entries in group: %1</translation>
     </message>
     <message>
         <source>Group name</source>
-        <translation>Group name</translation>
+        <translation type="vanished">Group name</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation>Notes</translation>
+        <translation type="vanished">Notes</translation>
     </message>
     <message>
         <source>Icon (UUID)</source>
-        <translation>Icon (UUID)</translation>
+        <translation type="vanished">Icon (UUID)</translation>
     </message>
     <message>
         <source>Icon (Number)</source>
-        <translation>Icon (Number)</translation>
+        <translation type="vanished">Icon (Number)</translation>
     </message>
     <message>
         <source>Expiry time</source>
-        <translation>Expiry time</translation>
+        <translation type="vanished">Expiry time</translation>
     </message>
     <message>
         <source>Modification time</source>
-        <translation>Modification time</translation>
+        <translation type="vanished">Modification time</translation>
     </message>
     <message>
         <source>%1 (Add local modifications to new entry)</source>
-        <translation>%1 (Add local modifications to new entry)</translation>
+        <translation type="vanished">%1 (Add local modifications to new entry)</translation>
     </message>
     <message>
         <source>%1 (Add new modifications to existing entry)</source>
-        <translation>%1 (Add new modifications to existing entry)</translation>
+        <translation type="vanished">%1 (Add new modifications to existing entry)</translation>
     </message>
     <message>
         <source>Explicit deletion</source>
-        <translation>Explicit deletion</translation>
+        <translation type="vanished">Explicit deletion</translation>
     </message>
     <message>
         <source>Implicit deletion (e.g. removal of parent group)</source>
-        <translation>Implicit deletion (e.g. removal of parent group)</translation>
+        <translation type="vanished">Implicit deletion (e.g. removal of parent group)</translation>
     </message>
     <message>
         <source>Adding new icon %1</source>
-        <translation>Adding new icon %1</translation>
+        <translation type="vanished">Adding new icon %1</translation>
     </message>
 </context>
 <context>
     <name>NewDatabaseWizard</name>
     <message>
         <source>Create a new KeePassXC database…</source>
-        <translation>Create a new KeePassXC database…</translation>
+        <translation type="vanished">Create a new KeePassXC database…</translation>
     </message>
     <message>
         <source>Root</source>
         <comment>Root group</comment>
-        <translation>Root</translation>
+        <translation type="vanished">Root</translation>
     </message>
 </context>
 <context>
     <name>NewDatabaseWizardPage</name>
     <message>
         <source>WizardPage</source>
-        <translation>WizardPage</translation>
+        <translation type="vanished">WizardPage</translation>
     </message>
     <message>
         <source>Encryption Settings</source>
-        <translation>Encryption Settings</translation>
+        <translation type="vanished">Encryption Settings</translation>
     </message>
     <message>
         <source>Here you can adjust the database encryption settings. Don&apos;t worry, you can change them later in the database settings.</source>
-        <translation>Here you can adjust the database encryption settings. Don&apos;t worry, you can change them later in the database settings.</translation>
+        <translation type="vanished">Here you can adjust the database encryption settings. Don&apos;t worry, you can change them later in the database settings.</translation>
     </message>
 </context>
 <context>
     <name>NewDatabaseWizardPageDatabaseKey</name>
     <message>
         <source>Database Credentials</source>
-        <translation>Database Credentials</translation>
+        <translation type="vanished">Database Credentials</translation>
     </message>
     <message>
         <source>A set of credentials known only to you that protects your database.</source>
-        <translation>A set of credentials known only to you that protects your database.</translation>
+        <translation type="vanished">A set of credentials known only to you that protects your database.</translation>
     </message>
 </context>
 <context>
     <name>NewDatabaseWizardPageEncryption</name>
     <message>
         <source>Encryption Settings</source>
-        <translation>Encryption Settings</translation>
+        <translation type="vanished">Encryption Settings</translation>
     </message>
     <message>
         <source>Here you can adjust the database encryption settings. Don&apos;t worry, you can change them later in the database settings.</source>
-        <translation>Here you can adjust the database encryption settings. Don&apos;t worry, you can change them later in the database settings.</translation>
+        <translation type="vanished">Here you can adjust the database encryption settings. Don&apos;t worry, you can change them later in the database settings.</translation>
     </message>
 </context>
 <context>
     <name>NewDatabaseWizardPageMetaData</name>
     <message>
         <source>General Database Information</source>
-        <translation>General Database Information</translation>
+        <translation type="vanished">General Database Information</translation>
     </message>
     <message>
         <source>Please fill in the display name and an optional description for your new database:</source>
-        <translation>Please fill in the display name and an optional description for your new database:</translation>
+        <translation type="vanished">Please fill in the display name and an optional description for your new database:</translation>
     </message>
 </context>
 <context>
     <name>NixUtils</name>
     <message>
         <source>Password Manager</source>
-        <translation>Password Manager</translation>
+        <translation type="vanished">Password Manager</translation>
     </message>
     <message>
         <source>Global shortcut already registered to %1</source>
-        <translation>Global shortcut already registered to %1</translation>
+        <translation type="vanished">Global shortcut already registered to %1</translation>
     </message>
     <message>
         <source>Could not register global shortcut</source>
-        <translation>Could not register global shortcut</translation>
+        <translation type="vanished">Could not register global shortcut</translation>
     </message>
 </context>
 <context>
     <name>OpData01</name>
     <message>
         <source>Invalid OpData01, does not contain header</source>
-        <translation>Invalid OpData01, does not contain header</translation>
+        <translation type="vanished">Invalid OpData01, does not contain header</translation>
     </message>
     <message>
         <source>Unable to read all IV bytes, wanted 16 but got %1</source>
-        <translation>Unable to read all IV bytes, wanted 16 but got %1</translation>
+        <translation type="vanished">Unable to read all IV bytes, wanted 16 but got %1</translation>
     </message>
     <message>
         <source>Unable to init cipher for opdata01: %1</source>
-        <translation>Unable to init cipher for opdata01: %1</translation>
+        <translation type="vanished">Unable to init cipher for opdata01: %1</translation>
     </message>
     <message>
         <source>Unable to read all HMAC signature bytes</source>
-        <translation>Unable to read all HMAC signature bytes</translation>
+        <translation type="vanished">Unable to read all HMAC signature bytes</translation>
     </message>
     <message>
         <source>Malformed OpData01 due to a failed HMAC</source>
-        <translation>Malformed OpData01 due to a failed HMAC</translation>
+        <translation type="vanished">Malformed OpData01 due to a failed HMAC</translation>
     </message>
     <message>
         <source>Unable to process clearText in place</source>
-        <translation>Unable to process clearText in place</translation>
+        <translation type="vanished">Unable to process clearText in place</translation>
     </message>
     <message>
         <source>Expected %1 bytes of clear-text, found %2</source>
-        <translation>Expected %1 bytes of clear-text, found %2</translation>
+        <translation type="vanished">Expected %1 bytes of clear-text, found %2</translation>
     </message>
 </context>
 <context>
     <name>OpVaultReader</name>
     <message>
         <source>Directory .opvault must exist</source>
-        <translation>Directory .opvault must exist</translation>
+        <translation type="vanished">Directory .opvault must exist</translation>
     </message>
     <message>
         <source>Directory .opvault must be readable</source>
-        <translation>Directory .opvault must be readable</translation>
+        <translation type="vanished">Directory .opvault must be readable</translation>
     </message>
     <message>
         <source>Directory .opvault/default must exist</source>
-        <translation>Directory .opvault/default must exist</translation>
+        <translation type="vanished">Directory .opvault/default must exist</translation>
     </message>
     <message>
         <source>Directory .opvault/default must be readable</source>
-        <translation>Directory .opvault/default must be readable</translation>
+        <translation type="vanished">Directory .opvault/default must be readable</translation>
     </message>
     <message>
         <source>Unable to decode masterKey: %1</source>
-        <translation>Unable to decode masterKey: %1</translation>
+        <translation type="vanished">Unable to decode masterKey: %1</translation>
     </message>
     <message>
         <source>Unable to derive master key: %1</source>
-        <translation>Unable to derive master key: %1</translation>
+        <translation type="vanished">Unable to derive master key: %1</translation>
     </message>
 </context>
 <context>
     <name>OpenSSHKey</name>
     <message>
         <source>Invalid key file, expecting an OpenSSH key</source>
-        <translation>Invalid key file, expecting an OpenSSH key</translation>
+        <translation type="vanished">Invalid key file, expecting an OpenSSH key</translation>
     </message>
     <message>
         <source>PEM boundary mismatch</source>
-        <translation>PEM boundary mismatch</translation>
+        <translation type="vanished">PEM boundary mismatch</translation>
     </message>
     <message>
         <source>Base64 decoding failed</source>
-        <translation>Base64 decoding failed</translation>
+        <translation type="vanished">Base64 decoding failed</translation>
     </message>
     <message>
         <source>Key file way too small.</source>
-        <translation>Key file way too small.</translation>
+        <translation type="vanished">Key file way too small.</translation>
     </message>
     <message>
         <source>Key file magic header id invalid</source>
-        <translation>Key file magic header id invalid</translation>
+        <translation type="vanished">Key file magic header id invalid</translation>
     </message>
     <message>
         <source>Found zero keys</source>
-        <translation>Found zero keys</translation>
+        <translation type="vanished">Found zero keys</translation>
     </message>
     <message>
         <source>Corrupted key file, reading private key failed</source>
-        <translation>Corrupted key file, reading private key failed</translation>
+        <translation type="vanished">Corrupted key file, reading private key failed</translation>
     </message>
     <message>
         <source>Unsupported key type: %1</source>
-        <translation>Unsupported key type: %1</translation>
+        <translation type="vanished">Unsupported key type: %1</translation>
     </message>
     <message>
         <source>No private key payload to decrypt</source>
-        <translation>No private key payload to decrypt</translation>
+        <translation type="vanished">No private key payload to decrypt</translation>
     </message>
     <message>
         <source>Unknown cipher: %1</source>
-        <translation>Unknown cipher: %1</translation>
+        <translation type="vanished">Unknown cipher: %1</translation>
     </message>
     <message>
         <source>AES-256/GCM is currently not supported</source>
-        <translation>AES-256/GCM is currently not supported</translation>
+        <translation type="vanished">AES-256/GCM is currently not supported</translation>
     </message>
     <message>
         <source>Passphrase is required to decrypt this key</source>
-        <translation>Passphrase is required to decrypt this key</translation>
+        <translation type="vanished">Passphrase is required to decrypt this key</translation>
     </message>
     <message>
         <source>Key derivation failed: %1</source>
-        <translation>Key derivation failed: %1</translation>
+        <translation type="vanished">Key derivation failed: %1</translation>
     </message>
     <message>
         <source>Cipher IV is too short for MD5 kdf</source>
-        <translation>Cipher IV is too short for MD5 kdf</translation>
+        <translation type="vanished">Cipher IV is too short for MD5 kdf</translation>
     </message>
     <message>
         <source>Unknown KDF: %1</source>
-        <translation>Unknown KDF: %1</translation>
+        <translation type="vanished">Unknown KDF: %1</translation>
     </message>
     <message>
         <source>Failed to initialize cipher: %1</source>
-        <translation>Failed to initialize cipher: %1</translation>
+        <translation type="vanished">Failed to initialize cipher: %1</translation>
     </message>
     <message>
         <source>Decryption failed: %1</source>
-        <translation>Decryption failed: %1</translation>
+        <translation type="vanished">Decryption failed: %1</translation>
     </message>
     <message>
         <source>Decryption failed, wrong passphrase?</source>
-        <translation>Decryption failed, wrong passphrase?</translation>
+        <translation type="vanished">Decryption failed, wrong passphrase?</translation>
     </message>
     <message>
         <source>Unexpected EOF while reading key</source>
-        <translation>Unexpected EOF while reading key</translation>
+        <translation type="vanished">Unexpected EOF while reading key</translation>
     </message>
     <message>
         <source>Unsupported key part</source>
-        <translation>Unsupported key part</translation>
+        <translation type="vanished">Unsupported key part</translation>
     </message>
     <message>
         <source>Unexpected EOF while reading public key</source>
-        <translation>Unexpected EOF while reading public key</translation>
+        <translation type="vanished">Unexpected EOF while reading public key</translation>
     </message>
     <message>
         <source>Unknown key type: %1</source>
-        <translation>Unknown key type: %1</translation>
+        <translation type="vanished">Unknown key type: %1</translation>
     </message>
     <message>
         <source>Unexpected EOF while reading private key</source>
-        <translation>Unexpected EOF while reading private key</translation>
+        <translation type="vanished">Unexpected EOF while reading private key</translation>
     </message>
     <message>
         <source>Can&apos;t write public key as it is empty</source>
-        <translation>Can&apos;t write public key as it is empty</translation>
+        <translation type="vanished">Can&apos;t write public key as it is empty</translation>
     </message>
     <message>
         <source>Unexpected EOF when writing public key</source>
-        <translation>Unexpected EOF when writing public key</translation>
+        <translation type="vanished">Unexpected EOF when writing public key</translation>
     </message>
     <message>
         <source>Can&apos;t write private key as it is empty</source>
-        <translation>Can&apos;t write private key as it is empty</translation>
+        <translation type="vanished">Can&apos;t write private key as it is empty</translation>
     </message>
     <message>
         <source>Unexpected EOF when writing private key</source>
-        <translation>Unexpected EOF when writing private key</translation>
+        <translation type="vanished">Unexpected EOF when writing private key</translation>
     </message>
     <message>
         <source>(encrypted)</source>
-        <translation>(encrypted)</translation>
-    </message>
-    <message>
-        <source>Failed to read key file: %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Failed to read public key: %1</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">(encrypted)</translation>
     </message>
 </context>
 <context>
     <name>OpenSSHKeyGenDialog</name>
     <message>
         <source>SSH Key Generator</source>
-        <translation>SSH Key Generator</translation>
+        <translation type="vanished">SSH Key Generator</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Type</translation>
+        <translation type="vanished">Type</translation>
     </message>
     <message>
         <source>Bits</source>
-        <translation>Bits</translation>
+        <translation type="vanished">Bits</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation>Comment</translation>
+        <translation type="vanished">Comment</translation>
     </message>
 </context>
 <context>
     <name>PasskeyExportDialog</name>
     <message>
         <source>KeePassXC - Passkey Export</source>
-        <translation>KeePassXC - Passkey Export</translation>
+        <translation type="vanished">KeePassXC - Passkey Export</translation>
     </message>
     <message>
         <source>Filenames will be generated with title and .passkey file extension.</source>
-        <translation>Filenames will be generated with title and .passkey file extension.</translation>
+        <translation type="vanished">Filenames will be generated with title and .passkey file extension.</translation>
     </message>
     <message>
         <source>Export entries</source>
-        <translation>Export entries</translation>
+        <translation type="vanished">Export entries</translation>
     </message>
     <message>
         <source>Export Selected</source>
-        <translation>Export Selected</translation>
+        <translation type="vanished">Export Selected</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancel</translation>
+        <translation type="vanished">Cancel</translation>
     </message>
     <message>
         <source>Export to folder</source>
-        <translation>Export to folder</translation>
+        <translation type="vanished">Export to folder</translation>
     </message>
     <message>
         <source>Export the following passkey entries.</source>
-        <translation>Export the following passkey entries.</translation>
+        <translation type="vanished">Export the following passkey entries.</translation>
     </message>
 </context>
 <context>
@@ -6897,3730 +7396,3916 @@ Expect some bugs and minor issues, this version is meant for testing purposes.</
         <source>File &quot;%1.passkey&quot; already exists.
 Do you want to overwrite it?
 </source>
-        <translation>File &quot;%1.passkey&quot; already exists.
+        <translation type="vanished">File &quot;%1.passkey&quot; already exists.
 Do you want to overwrite it?
 </translation>
     </message>
     <message>
         <source>Cannot open file</source>
-        <translation>Cannot open file</translation>
+        <translation type="vanished">Cannot open file</translation>
     </message>
     <message>
         <source>Cannot open file &quot;%1&quot; for writing.</source>
-        <translation>Cannot open file &quot;%1&quot; for writing.</translation>
+        <translation type="vanished">Cannot open file &quot;%1&quot; for writing.</translation>
     </message>
     <message>
         <source>Cannot write to file</source>
-        <translation>Cannot write to file</translation>
+        <translation type="vanished">Cannot write to file</translation>
     </message>
     <message>
         <source>Overwrite Existing File?</source>
-        <translation>Overwrite Existing File?</translation>
+        <translation type="vanished">Overwrite Existing File?</translation>
     </message>
 </context>
 <context>
     <name>PasskeyImportDialog</name>
     <message>
         <source>KeePassXC - Passkey Import</source>
-        <translation>KeePassXC - Passkey Import</translation>
+        <translation type="vanished">KeePassXC - Passkey Import</translation>
     </message>
     <message>
         <source>Username: %1</source>
-        <translation>Username: %1</translation>
+        <translation type="vanished">Username: %1</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Group</translation>
+        <translation type="vanished">Group</translation>
     </message>
     <message>
         <source>Database</source>
-        <translation>Database</translation>
+        <translation type="vanished">Database</translation>
     </message>
     <message>
         <source>Import Passkey</source>
-        <translation>Import Passkey</translation>
+        <translation type="vanished">Import Passkey</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation>Import</translation>
+        <translation type="vanished">Import</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancel</translation>
+        <translation type="vanished">Cancel</translation>
     </message>
     <message>
         <source>Entry</source>
-        <translation>Entry</translation>
+        <translation type="vanished">Entry</translation>
     </message>
     <message>
         <source>Create new entry</source>
-        <translation>Create new entry</translation>
+        <translation type="vanished">Create new entry</translation>
     </message>
     <message>
         <source>Relying Party: %1</source>
-        <translation>Relying Party: %1</translation>
+        <translation type="vanished">Relying Party: %1</translation>
     </message>
     <message>
         <source>Import the following passkey:</source>
-        <translation>Import the following passkey:</translation>
+        <translation type="vanished">Import the following passkey:</translation>
     </message>
     <message>
         <source>Import the following passkey to this entry:</source>
-        <translation>Import the following passkey to this entry:</translation>
+        <translation type="vanished">Import the following passkey to this entry:</translation>
     </message>
     <message>
         <source>Default passkeys group (Imported Passkeys)</source>
-        <translation>Default passkeys group (Imported Passkeys)</translation>
+        <translation type="vanished">Default passkeys group (Imported Passkeys)</translation>
     </message>
 </context>
 <context>
     <name>PasskeyImporter</name>
     <message>
         <source>Passkey file</source>
-        <translation>Passkey file</translation>
+        <translation type="vanished">Passkey file</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation>All files</translation>
+        <translation type="vanished">All files</translation>
     </message>
     <message>
         <source>Cannot open file</source>
-        <translation>Cannot open file</translation>
+        <translation type="vanished">Cannot open file</translation>
     </message>
     <message>
         <source>Cannot open file &quot;%1&quot; for reading.</source>
-        <translation>Cannot open file &quot;%1&quot; for reading.</translation>
+        <translation type="vanished">Cannot open file &quot;%1&quot; for reading.</translation>
     </message>
     <message>
         <source>Cannot import passkey file &quot;%1&quot;. Data is missing.</source>
-        <translation>Cannot import passkey file &quot;%1&quot;. Data is missing.</translation>
+        <translation type="vanished">Cannot import passkey file &quot;%1&quot;. Data is missing.</translation>
     </message>
     <message>
         <source>Cannot import passkey file &quot;%1&quot;.
 The following data is missing:
 %2</source>
-        <translation>Cannot import passkey file &quot;%1&quot;.
+        <translation type="vanished">Cannot import passkey file &quot;%1&quot;.
 The following data is missing:
 %2</translation>
     </message>
     <message>
         <source>Cannot import passkey file &quot;%1&quot;. Private key is missing or malformed.</source>
-        <translation>Cannot import passkey file &quot;%1&quot;. Private key is missing or malformed.</translation>
+        <translation type="vanished">Cannot import passkey file &quot;%1&quot;. Private key is missing or malformed.</translation>
     </message>
     <message>
         <source>Open Passkey File</source>
-        <translation>Open Passkey File</translation>
+        <translation type="vanished">Open Passkey File</translation>
     </message>
     <message>
         <source>Passkey Import Failed</source>
-        <translation>Passkey Import Failed</translation>
+        <translation type="vanished">Passkey Import Failed</translation>
     </message>
 </context>
 <context>
     <name>PasswordEditWidget</name>
     <message>
         <source>Enter password:</source>
-        <translation>Enter password:</translation>
+        <translation type="vanished">Enter password:</translation>
     </message>
     <message>
         <source>Password field</source>
-        <translation>Password field</translation>
+        <translation type="vanished">Password field</translation>
     </message>
     <message>
         <source>Confirm password:</source>
-        <translation>Confirm password:</translation>
+        <translation type="vanished">Confirm password:</translation>
     </message>
     <message>
         <source>Repeat password field</source>
-        <translation>Repeat password field</translation>
+        <translation type="vanished">Repeat password field</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Password</translation>
+        <translation type="vanished">Password</translation>
     </message>
     <message>
         <source>Add Password</source>
-        <translation>Add Password</translation>
+        <translation type="vanished">Add Password</translation>
     </message>
     <message>
         <source>Change Password</source>
-        <translation>Change Password</translation>
+        <translation type="vanished">Change Password</translation>
     </message>
     <message>
         <source>Remove Password</source>
-        <translation>Remove Password</translation>
+        <translation type="vanished">Remove Password</translation>
     </message>
     <message>
         <source>Password set, click to change or remove</source>
-        <translation>Password set, click to change or remove</translation>
+        <translation type="vanished">Password set, click to change or remove</translation>
     </message>
     <message>
         <source>&lt;p&gt;A password is the primary method for securing your database.&lt;/p&gt;&lt;p&gt;Good passwords are long and unique. KeePassXC can generate one for you.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;A password is the primary method for securing your database.&lt;/p&gt;&lt;p&gt;Good passwords are long and unique. KeePassXC can generate one for you.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;A password is the primary method for securing your database.&lt;/p&gt;&lt;p&gt;Good passwords are long and unique. KeePassXC can generate one for you.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Passwords do not match.</source>
-        <translation>Passwords do not match.</translation>
+        <translation type="vanished">Passwords do not match.</translation>
     </message>
 </context>
 <context>
     <name>PasswordGeneratorWidget</name>
     <message>
         <source>Generate Password</source>
-        <translation>Generate Password</translation>
+        <translation type="vanished">Generate Password</translation>
     </message>
     <message>
         <source>strength</source>
         <comment>Password strength</comment>
-        <translation>strength</translation>
+        <translation type="vanished">strength</translation>
     </message>
     <message>
         <source>entropy</source>
-        <translation>entropy</translation>
+        <translation type="vanished">entropy</translation>
     </message>
     <message>
         <source>Generated password</source>
-        <translation>Generated password</translation>
+        <translation type="vanished">Generated password</translation>
     </message>
     <message>
         <source>%p%</source>
-        <translation>%p%</translation>
+        <translation type="vanished">%p%</translation>
     </message>
     <message>
         <source>Regenerate password</source>
-        <translation>Regenerate password</translation>
+        <translation type="vanished">Regenerate password</translation>
     </message>
     <message>
         <source>Copy password</source>
-        <translation>Copy password</translation>
+        <translation type="vanished">Copy password</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Password</translation>
+        <translation type="vanished">Password</translation>
     </message>
     <message>
         <source>&amp;Length:</source>
-        <translation>&amp;Length:</translation>
+        <translation type="vanished">&amp;Length:</translation>
     </message>
     <message>
         <source>Password length</source>
-        <translation>Password length</translation>
+        <translation type="vanished">Password length</translation>
     </message>
     <message>
         <source>Switch to advanced mode</source>
-        <translation>Switch to advanced mode</translation>
+        <translation type="vanished">Switch to advanced mode</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation>Advanced</translation>
+        <translation type="vanished">Advanced</translation>
     </message>
     <message>
         <source>Character Types</source>
-        <translation>Character Types</translation>
+        <translation type="vanished">Character Types</translation>
     </message>
     <message>
         <source>Special characters</source>
-        <translation>Special characters</translation>
+        <translation type="vanished">Special characters</translation>
     </message>
     <message>
         <source>Quotes</source>
-        <translation>Quotes</translation>
+        <translation type="vanished">Quotes</translation>
     </message>
     <message>
         <source>Punctuation</source>
-        <translation>Punctuation</translation>
+        <translation type="vanished">Punctuation</translation>
     </message>
     <message>
         <source>Dashes and Slashes</source>
-        <translation>Dashes and Slashes</translation>
+        <translation type="vanished">Dashes and Slashes</translation>
     </message>
     <message>
         <source>Upper-case letters</source>
-        <translation>Upper-case letters</translation>
+        <translation type="vanished">Upper-case letters</translation>
     </message>
     <message>
         <source>Numbers</source>
-        <translation>Numbers</translation>
+        <translation type="vanished">Numbers</translation>
     </message>
     <message>
         <source>Lower-case letters</source>
-        <translation>Lower-case letters</translation>
+        <translation type="vanished">Lower-case letters</translation>
     </message>
     <message>
         <source>Math Symbols</source>
-        <translation>Math Symbols</translation>
+        <translation type="vanished">Math Symbols</translation>
     </message>
     <message>
         <source>Extended ASCII</source>
-        <translation>Extended ASCII</translation>
+        <translation type="vanished">Extended ASCII</translation>
     </message>
     <message>
         <source>Braces</source>
-        <translation>Braces</translation>
+        <translation type="vanished">Braces</translation>
     </message>
     <message>
         <source>Do not include:</source>
-        <translation>Do not include:</translation>
+        <translation type="vanished">Do not include:</translation>
     </message>
     <message>
         <source>Additional characters to use for the generated password</source>
-        <translation>Additional characters to use for the generated password</translation>
+        <translation type="vanished">Additional characters to use for the generated password</translation>
     </message>
     <message>
         <source>Additional characters</source>
-        <translation>Additional characters</translation>
+        <translation type="vanished">Additional characters</translation>
     </message>
     <message>
         <source>Add non-hex letters to &quot;do not include&quot; list</source>
-        <translation>Add non-hex letters to &quot;do not include&quot; list</translation>
+        <translation type="vanished">Add non-hex letters to &quot;do not include&quot; list</translation>
     </message>
     <message>
         <source>Hex Passwords</source>
-        <translation>Hex Passwords</translation>
+        <translation type="vanished">Hex Passwords</translation>
     </message>
     <message>
         <source>Hex</source>
-        <translation>Hex</translation>
+        <translation type="vanished">Hex</translation>
     </message>
     <message>
         <source>Character set to exclude from generated password</source>
-        <translation>Character set to exclude from generated password</translation>
+        <translation type="vanished">Character set to exclude from generated password</translation>
     </message>
     <message>
         <source>Excluded characters</source>
-        <translation>Excluded characters</translation>
+        <translation type="vanished">Excluded characters</translation>
     </message>
     <message>
         <source>Also choose from:</source>
-        <translation>Also choose from:</translation>
+        <translation type="vanished">Also choose from:</translation>
     </message>
     <message>
         <source>Exclude look-alike characters</source>
-        <translation>Exclude look-alike characters</translation>
+        <translation type="vanished">Exclude look-alike characters</translation>
     </message>
     <message>
         <source>Pick characters from every group</source>
-        <translation>Pick characters from every group</translation>
+        <translation type="vanished">Pick characters from every group</translation>
     </message>
     <message>
         <source>Passphrase</source>
-        <translation>Passphrase</translation>
+        <translation type="vanished">Passphrase</translation>
     </message>
     <message>
         <source>Word Separator:</source>
-        <translation>Word Separator:</translation>
+        <translation type="vanished">Word Separator:</translation>
     </message>
     <message>
         <source>Wordlist:</source>
-        <translation>Wordlist:</translation>
+        <translation type="vanished">Wordlist:</translation>
     </message>
     <message>
         <source>Word Count:</source>
-        <translation>Word Count:</translation>
+        <translation type="vanished">Word Count:</translation>
     </message>
     <message>
         <source>Word Case:</source>
-        <translation>Word Case:</translation>
+        <translation type="vanished">Word Case:</translation>
     </message>
     <message>
         <source>Delete selected wordlist</source>
-        <translation>Delete selected wordlist</translation>
+        <translation type="vanished">Delete selected wordlist</translation>
     </message>
     <message>
         <source>Add custom wordlist</source>
-        <translation>Add custom wordlist</translation>
+        <translation type="vanished">Add custom wordlist</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Close</translation>
+        <translation type="vanished">Close</translation>
     </message>
     <message>
         <source>Esc</source>
-        <translation>Esc</translation>
+        <translation type="vanished">Esc</translation>
     </message>
     <message>
         <source>Apply Password</source>
-        <translation>Apply Password</translation>
+        <translation type="vanished">Apply Password</translation>
     </message>
     <message>
         <source>Regenerate password (%1)</source>
-        <translation>Regenerate password (%1)</translation>
+        <translation type="vanished">Regenerate password (%1)</translation>
     </message>
     <message>
         <source>lower case</source>
-        <translation>lower case</translation>
+        <translation type="vanished">lower case</translation>
     </message>
     <message>
         <source>UPPER CASE</source>
-        <translation>UPPER CASE</translation>
+        <translation type="vanished">UPPER CASE</translation>
     </message>
     <message>
         <source>Title Case</source>
-        <translation>Title Case</translation>
+        <translation type="vanished">Title Case</translation>
     </message>
     <message>
         <source>(SYSTEM)</source>
-        <translation>(SYSTEM)</translation>
+        <translation type="vanished">(SYSTEM)</translation>
     </message>
     <message>
         <source>Entropy: %1 bit</source>
-        <translation>Entropy: %1 bit</translation>
+        <translation type="vanished">Entropy: %1 bit</translation>
     </message>
     <message>
         <source>Password Quality: %1</source>
-        <translation>Password Quality: %1</translation>
+        <translation type="vanished">Password Quality: %1</translation>
     </message>
     <message>
         <source>Poor</source>
         <comment>Password quality</comment>
-        <translation>Poor</translation>
+        <translation type="vanished">Poor</translation>
     </message>
     <message>
         <source>Weak</source>
         <comment>Password quality</comment>
-        <translation>Weak</translation>
+        <translation type="vanished">Weak</translation>
     </message>
     <message>
         <source>Good</source>
         <comment>Password quality</comment>
-        <translation>Good</translation>
+        <translation type="vanished">Good</translation>
     </message>
     <message>
         <source>Excellent</source>
         <comment>Password quality</comment>
-        <translation>Excellent</translation>
+        <translation type="vanished">Excellent</translation>
     </message>
     <message>
         <source>Failed to delete wordlist</source>
-        <translation>Failed to delete wordlist</translation>
+        <translation type="vanished">Failed to delete wordlist</translation>
     </message>
     <message>
         <source>Wordlists</source>
-        <translation>Wordlists</translation>
+        <translation type="vanished">Wordlists</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation>All files</translation>
+        <translation type="vanished">All files</translation>
     </message>
     <message>
         <source>Select Custom Wordlist</source>
-        <translation>Select Custom Wordlist</translation>
+        <translation type="vanished">Select Custom Wordlist</translation>
     </message>
     <message>
         <source>Overwrite Wordlist?</source>
-        <translation>Overwrite Wordlist?</translation>
+        <translation type="vanished">Overwrite Wordlist?</translation>
     </message>
     <message>
         <source>Wordlist &quot;%1&quot; already exists as a custom wordlist.
 Do you want to overwrite it?</source>
-        <translation>Wordlist &quot;%1&quot; already exists as a custom wordlist.
+        <translation type="vanished">Wordlist &quot;%1&quot; already exists as a custom wordlist.
 Do you want to overwrite it?</translation>
     </message>
     <message>
         <source>Failed to add wordlist</source>
-        <translation>Failed to add wordlist</translation>
+        <translation type="vanished">Failed to add wordlist</translation>
     </message>
     <message>
         <source>Logograms</source>
-        <translation>Logograms</translation>
+        <translation type="vanished">Logograms</translation>
     </message>
     <message>
         <source>Special Characters</source>
-        <translation>Special Characters</translation>
+        <translation type="vanished">Special Characters</translation>
     </message>
     <message>
         <source>passwordLength</source>
-        <translation>passwordLength</translation>
+        <translation type="vanished">passwordLength</translation>
     </message>
     <message>
         <source>Characters: %1</source>
-        <translation>Characters: %1</translation>
+        <translation type="vanished">Characters: %1</translation>
     </message>
     <message>
         <source>MIXED case</source>
-        <translation>MIXED case</translation>
+        <translation type="vanished">MIXED case</translation>
     </message>
     <message>
         <source>Excluded characters: &quot;0&quot;, &quot;1&quot;, &quot;l&quot;, &quot;I&quot;, &quot;O&quot;, &quot;|&quot;, &quot;﹒&quot;, &quot;B&quot;, &quot;8&quot;, &quot;G&quot;, &quot;6&quot;</source>
-        <translation>Excluded characters: &quot;0&quot;, &quot;1&quot;, &quot;l&quot;, &quot;I&quot;, &quot;O&quot;, &quot;|&quot;, &quot;﹒&quot;, &quot;B&quot;, &quot;8&quot;, &quot;G&quot;, &quot;6&quot;</translation>
+        <translation type="vanished">Excluded characters: &quot;0&quot;, &quot;1&quot;, &quot;l&quot;, &quot;I&quot;, &quot;O&quot;, &quot;|&quot;, &quot;﹒&quot;, &quot;B&quot;, &quot;8&quot;, &quot;G&quot;, &quot;6&quot;</translation>
     </message>
     <message>
         <source>Warning: the chosen wordlist is smaller than the minimum recommended size!</source>
-        <translation>Warning: the chosen wordlist is smaller than the minimum recommended size!</translation>
+        <translation type="vanished">Warning: the chosen wordlist is smaller than the minimum recommended size!</translation>
     </message>
     <message>
         <source>Confirm Remove Wordlist</source>
-        <translation>Confirm Remove Wordlist</translation>
+        <translation type="vanished">Confirm Remove Wordlist</translation>
     </message>
     <message>
         <source>Do you really want to remove the wordlist &quot;%1&quot;?</source>
-        <translation>Do you really want to remove the wordlist &quot;%1&quot;?</translation>
+        <translation type="vanished">Do you really want to remove the wordlist &quot;%1&quot;?</translation>
     </message>
 </context>
 <context>
     <name>PasswordWidget</name>
     <message>
         <source>Passwords do not match</source>
-        <translation>Passwords do not match</translation>
+        <translation type="vanished">Passwords do not match</translation>
     </message>
     <message>
         <source>Passwords match so far</source>
-        <translation>Passwords match so far</translation>
+        <translation type="vanished">Passwords match so far</translation>
     </message>
     <message>
         <source>Toggle Password (%1)</source>
-        <translation>Toggle Password (%1)</translation>
+        <translation type="vanished">Toggle Password (%1)</translation>
     </message>
     <message>
         <source>Generate Password (%1)</source>
-        <translation>Generate Password (%1)</translation>
+        <translation type="vanished">Generate Password (%1)</translation>
     </message>
     <message>
         <source>Warning: Caps Lock enabled!</source>
-        <translation>Warning: Caps Lock enabled!</translation>
+        <translation type="vanished">Warning: Caps Lock enabled!</translation>
     </message>
     <message>
         <source>Quality: %1</source>
-        <translation>Quality: %1</translation>
+        <translation type="vanished">Quality: %1</translation>
     </message>
     <message>
         <source>Poor</source>
         <comment>Password quality</comment>
-        <translation>Poor</translation>
+        <translation type="vanished">Poor</translation>
     </message>
     <message>
         <source>Weak</source>
         <comment>Password quality</comment>
-        <translation>Weak</translation>
+        <translation type="vanished">Weak</translation>
     </message>
     <message>
         <source>Good</source>
         <comment>Password quality</comment>
-        <translation>Good</translation>
+        <translation type="vanished">Good</translation>
     </message>
     <message>
         <source>Excellent</source>
         <comment>Password quality</comment>
-        <translation>Excellent</translation>
+        <translation type="vanished">Excellent</translation>
     </message>
     <message>
         <source>Toggle password visibility using Control + H. Open the password generator using Control + G.</source>
-        <translation>Toggle password visibility using Control + H. Open the password generator using Control + G.</translation>
+        <translation type="vanished">Toggle password visibility using Control + H. Open the password generator using Control + G.</translation>
     </message>
 </context>
 <context>
     <name>PickcharsDialog</name>
     <message>
         <source>KeePassXC - Pick Characters</source>
-        <translation>KeePassXC - Pick Characters</translation>
+        <translation type="vanished">KeePassXC - Pick Characters</translation>
     </message>
     <message>
         <source>Select characters to type, navigate with arrow keys, Ctrl + S submits.</source>
-        <translation>Select characters to type, navigate with arrow keys, Ctrl + S submits.</translation>
+        <translation type="vanished">Select characters to type, navigate with arrow keys, Ctrl + S submits.</translation>
     </message>
     <message>
         <source>Press &amp;Tab between characters</source>
-        <translation>Press &amp;Tab between characters</translation>
+        <translation type="vanished">Press &amp;Tab between characters</translation>
     </message>
 </context>
 <context>
     <name>PreviewEntryAttachmentsDialog</name>
     <message>
         <source>Form</source>
-        <translation>Form</translation>
+        <translation type="vanished">Form</translation>
     </message>
     <message>
         <source>Preview: %1</source>
-        <translation>Preview: %1</translation>
+        <translation type="vanished">Preview: %1</translation>
     </message>
     <message>
         <source>Save…</source>
-        <translation>Save…</translation>
+        <translation type="vanished">Save…</translation>
     </message>
 </context>
 <context>
     <name>QMessageBox</name>
     <message>
         <source>Overwrite</source>
-        <translation>Overwrite</translation>
+        <translation type="vanished">Overwrite</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Delete</translation>
+        <translation type="vanished">Delete</translation>
     </message>
     <message>
         <source>Move</source>
-        <translation>Move</translation>
+        <translation type="vanished">Move</translation>
     </message>
     <message>
         <source>Empty</source>
-        <translation>Empty</translation>
+        <translation type="vanished">Empty</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Remove</translation>
+        <translation type="vanished">Remove</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation>Skip</translation>
+        <translation type="vanished">Skip</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation>Disable</translation>
+        <translation type="vanished">Disable</translation>
     </message>
     <message>
         <source>Merge</source>
-        <translation>Merge</translation>
+        <translation type="vanished">Merge</translation>
     </message>
     <message>
         <source>Continue</source>
-        <translation>Continue</translation>
+        <translation type="vanished">Continue</translation>
     </message>
     <message>
         <source>Continue with weak password</source>
-        <translation>Continue with weak password</translation>
+        <translation type="vanished">Continue with weak password</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Database not opened</source>
-        <translation>Database not opened</translation>
+        <translation type="vanished">Database not opened</translation>
     </message>
     <message>
         <source>Database hash not available</source>
-        <translation>Database hash not available</translation>
+        <translation type="vanished">Database hash not available</translation>
     </message>
     <message>
         <source>Client public key not received</source>
-        <translation>Client public key not received</translation>
+        <translation type="vanished">Client public key not received</translation>
     </message>
     <message>
         <source>Cannot decrypt message</source>
-        <translation>Cannot decrypt message</translation>
+        <translation type="vanished">Cannot decrypt message</translation>
     </message>
     <message>
         <source>Action cancelled or denied</source>
-        <translation>Action cancelled or denied</translation>
+        <translation type="vanished">Action cancelled or denied</translation>
     </message>
     <message>
         <source>Message encryption failed.</source>
-        <translation>Message encryption failed.</translation>
+        <translation type="vanished">Message encryption failed.</translation>
     </message>
     <message>
         <source>KeePassXC association failed, try again</source>
-        <translation>KeePassXC association failed, try again</translation>
+        <translation type="vanished">KeePassXC association failed, try again</translation>
     </message>
     <message>
         <source>Encryption key is not recognized</source>
-        <translation>Encryption key is not recognized</translation>
+        <translation type="vanished">Encryption key is not recognized</translation>
     </message>
     <message>
         <source>Incorrect action</source>
-        <translation>Incorrect action</translation>
+        <translation type="vanished">Incorrect action</translation>
     </message>
     <message>
         <source>Empty message received</source>
-        <translation>Empty message received</translation>
+        <translation type="vanished">Empty message received</translation>
     </message>
     <message>
         <source>No URL provided</source>
-        <translation>No URL provided</translation>
+        <translation type="vanished">No URL provided</translation>
     </message>
     <message>
         <source>No logins found</source>
-        <translation>No logins found</translation>
+        <translation type="vanished">No logins found</translation>
     </message>
     <message>
         <source>No groups found</source>
-        <translation>No groups found</translation>
+        <translation type="vanished">No groups found</translation>
     </message>
     <message>
         <source>Cannot create new group</source>
-        <translation>Cannot create new group</translation>
+        <translation type="vanished">Cannot create new group</translation>
     </message>
     <message>
         <source>No valid UUID provided</source>
-        <translation>No valid UUID provided</translation>
+        <translation type="vanished">No valid UUID provided</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Unknown error</translation>
+        <translation type="vanished">Unknown error</translation>
     </message>
     <message>
         <source>Browser Integration</source>
-        <translation>Browser Integration</translation>
+        <translation type="vanished">Browser Integration</translation>
     </message>
     <message>
         <source>Browser Plugin Failure</source>
-        <translation>Browser Plugin Failure</translation>
+        <translation type="vanished">Browser Plugin Failure</translation>
     </message>
     <message>
         <source>Could not save the native messaging script file for %1.</source>
-        <translation>Could not save the native messaging script file for %1.</translation>
+        <translation type="vanished">Could not save the native messaging script file for %1.</translation>
     </message>
     <message>
         <source>Username for the entry.</source>
-        <translation>Username for the entry.</translation>
+        <translation type="vanished">Username for the entry.</translation>
     </message>
     <message>
         <source>username</source>
-        <translation>username</translation>
+        <translation type="vanished">username</translation>
     </message>
     <message>
         <source>URL for the entry.</source>
-        <translation>URL for the entry.</translation>
+        <translation type="vanished">URL for the entry.</translation>
     </message>
     <message>
         <source>URL</source>
-        <translation>URL</translation>
+        <translation type="vanished">URL</translation>
     </message>
     <message>
         <source>Notes for the entry.</source>
-        <translation>Notes for the entry.</translation>
+        <translation type="vanished">Notes for the entry.</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation>Notes</translation>
+        <translation type="vanished">Notes</translation>
     </message>
     <message>
         <source>Prompt for the entry&apos;s password.</source>
-        <translation>Prompt for the entry&apos;s password.</translation>
+        <translation type="vanished">Prompt for the entry&apos;s password.</translation>
     </message>
     <message>
         <source>Generate a password for the entry.</source>
-        <translation>Generate a password for the entry.</translation>
+        <translation type="vanished">Generate a password for the entry.</translation>
     </message>
     <message>
         <source>Add a new entry to a database.</source>
-        <translation>Add a new entry to a database.</translation>
+        <translation type="vanished">Add a new entry to a database.</translation>
     </message>
     <message>
         <source>Path of the entry to add.</source>
-        <translation>Path of the entry to add.</translation>
+        <translation type="vanished">Path of the entry to add.</translation>
     </message>
     <message>
         <source>Cannot generate a password and prompt at the same time.</source>
-        <translation>Cannot generate a password and prompt at the same time.</translation>
+        <translation type="vanished">Cannot generate a password and prompt at the same time.</translation>
     </message>
     <message>
         <source>Could not create entry with path %1.</source>
-        <translation>Could not create entry with path %1.</translation>
+        <translation type="vanished">Could not create entry with path %1.</translation>
     </message>
     <message>
         <source>Enter password for new entry: </source>
-        <translation>Enter password for new entry: </translation>
+        <translation type="vanished">Enter password for new entry: </translation>
     </message>
     <message>
         <source>Writing the database failed %1.</source>
-        <translation>Writing the database failed %1.</translation>
+        <translation type="vanished">Writing the database failed %1.</translation>
     </message>
     <message>
         <source>Successfully added entry %1.</source>
-        <translation>Successfully added entry %1.</translation>
+        <translation type="vanished">Successfully added entry %1.</translation>
     </message>
     <message>
         <source>Adds a new group to a database.</source>
-        <translation>Adds a new group to a database.</translation>
+        <translation type="vanished">Adds a new group to a database.</translation>
     </message>
     <message>
         <source>Path of the group to add.</source>
-        <translation>Path of the group to add.</translation>
+        <translation type="vanished">Path of the group to add.</translation>
     </message>
     <message>
         <source>Group %1 already exists!</source>
-        <translation>Group %1 already exists!</translation>
+        <translation type="vanished">Group %1 already exists!</translation>
     </message>
     <message>
         <source>Group %1 not found.</source>
-        <translation>Group %1 not found.</translation>
+        <translation type="vanished">Group %1 not found.</translation>
     </message>
     <message>
         <source>Successfully added group %1.</source>
-        <translation>Successfully added group %1.</translation>
+        <translation type="vanished">Successfully added group %1.</translation>
     </message>
     <message>
         <source>Check if any passwords have been publicly leaked. FILENAME must be the path of a file listing SHA-1 hashes of leaked passwords in HIBP format, as available from https://haveibeenpwned.com/Passwords.</source>
-        <translation>Check if any passwords have been publicly leaked. FILENAME must be the path of a file listing SHA-1 hashes of leaked passwords in HIBP format, as available from https://haveibeenpwned.com/Passwords.</translation>
+        <translation type="vanished">Check if any passwords have been publicly leaked. FILENAME must be the path of a file listing SHA-1 hashes of leaked passwords in HIBP format, as available from https://haveibeenpwned.com/Passwords.</translation>
     </message>
     <message>
         <source>FILENAME</source>
-        <translation>FILENAME</translation>
+        <translation type="vanished">FILENAME</translation>
     </message>
     <message>
         <source>Path to okon-cli to search a formatted HIBP file</source>
-        <translation>Path to okon-cli to search a formatted HIBP file</translation>
+        <translation type="vanished">Path to okon-cli to search a formatted HIBP file</translation>
     </message>
     <message>
         <source>okon-cli</source>
-        <translation>okon-cli</translation>
+        <translation type="vanished">okon-cli</translation>
     </message>
     <message>
         <source>Analyze passwords for weaknesses and problems.</source>
-        <translation>Analyze passwords for weaknesses and problems.</translation>
+        <translation type="vanished">Analyze passwords for weaknesses and problems.</translation>
     </message>
     <message>
         <source>Cannot find HIBP file: %1</source>
-        <translation>Cannot find HIBP file: %1</translation>
+        <translation type="vanished">Cannot find HIBP file: %1</translation>
     </message>
     <message>
         <source>Evaluating database entries using okon…</source>
-        <translation>Evaluating database entries using okon…</translation>
+        <translation type="vanished">Evaluating database entries using okon…</translation>
     </message>
     <message>
         <source>Failed to open HIBP file %1: %2</source>
-        <translation>Failed to open HIBP file %1: %2</translation>
+        <translation type="vanished">Failed to open HIBP file %1: %2</translation>
     </message>
     <message>
         <source>Evaluating database entries against HIBP file, this will take a while…</source>
-        <translation>Evaluating database entries against HIBP file, this will take a while…</translation>
+        <translation type="vanished">Evaluating database entries against HIBP file, this will take a while…</translation>
     </message>
     <message numerus="yes">
         <source>Password for &apos;%1&apos; has been leaked %2 time(s)!</source>
-        <translation><numerusform>Password for &apos;%1&apos; has been leaked %2 time!</numerusform><numerusform>Password for &apos;%1&apos; has been leaked %2 times!</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>Password for &apos;%1&apos; has been leaked %2 time!</numerusform>
+            <numerusform>Password for &apos;%1&apos; has been leaked %2 times!</numerusform>
+        </translation>
     </message>
     <message>
         <source>Password for &apos;%1&apos; has been leaked!</source>
-        <translation>Password for &apos;%1&apos; has been leaked!</translation>
+        <translation type="vanished">Password for &apos;%1&apos; has been leaked!</translation>
     </message>
     <message>
         <source>Export an attachment of an entry.</source>
-        <translation>Export an attachment of an entry.</translation>
+        <translation type="vanished">Export an attachment of an entry.</translation>
     </message>
     <message>
         <source>Path of the entry with the target attachment.</source>
-        <translation>Path of the entry with the target attachment.</translation>
+        <translation type="vanished">Path of the entry with the target attachment.</translation>
     </message>
     <message>
         <source>Name of the attachment to be exported.</source>
-        <translation>Name of the attachment to be exported.</translation>
+        <translation type="vanished">Name of the attachment to be exported.</translation>
     </message>
     <message>
         <source>Path to which the attachment should be exported.</source>
-        <translation>Path to which the attachment should be exported.</translation>
+        <translation type="vanished">Path to which the attachment should be exported.</translation>
     </message>
     <message>
         <source>Could not find entry with path %1.</source>
-        <translation>Could not find entry with path %1.</translation>
+        <translation type="vanished">Could not find entry with path %1.</translation>
     </message>
     <message>
         <source>Could not find attachment with name %1.</source>
-        <translation>Could not find attachment with name %1.</translation>
+        <translation type="vanished">Could not find attachment with name %1.</translation>
     </message>
     <message>
         <source>No export target given. Please use &apos;--stdout&apos; or specify an &apos;export-file&apos;.</source>
-        <translation>No export target given. Please use &apos;--stdout&apos; or specify an &apos;export-file&apos;.</translation>
+        <translation type="vanished">No export target given. Please use &apos;--stdout&apos; or specify an &apos;export-file&apos;.</translation>
     </message>
     <message>
         <source>Could not open output file %1.</source>
-        <translation>Could not open output file %1.</translation>
+        <translation type="vanished">Could not open output file %1.</translation>
     </message>
     <message>
         <source>Successfully exported attachment %1 of entry %2 to %3.</source>
-        <translation>Successfully exported attachment %1 of entry %2 to %3.</translation>
+        <translation type="vanished">Successfully exported attachment %1 of entry %2 to %3.</translation>
     </message>
     <message>
         <source>Overwrite existing attachments.</source>
-        <translation>Overwrite existing attachments.</translation>
+        <translation type="vanished">Overwrite existing attachments.</translation>
     </message>
     <message>
         <source>Imports an attachment to an entry.</source>
-        <translation>Imports an attachment to an entry.</translation>
+        <translation type="vanished">Imports an attachment to an entry.</translation>
     </message>
     <message>
         <source>Path of the entry.</source>
-        <translation>Path of the entry.</translation>
+        <translation type="vanished">Path of the entry.</translation>
     </message>
     <message>
         <source>Name of the attachment to be added.</source>
-        <translation>Name of the attachment to be added.</translation>
+        <translation type="vanished">Name of the attachment to be added.</translation>
     </message>
     <message>
         <source>Path of the attachment to be imported.</source>
-        <translation>Path of the attachment to be imported.</translation>
+        <translation type="vanished">Path of the attachment to be imported.</translation>
     </message>
     <message>
         <source>Attachment %1 already exists for entry %2.</source>
-        <translation>Attachment %1 already exists for entry %2.</translation>
+        <translation type="vanished">Attachment %1 already exists for entry %2.</translation>
     </message>
     <message>
         <source>Could not open attachment file %1.</source>
-        <translation>Could not open attachment file %1.</translation>
+        <translation type="vanished">Could not open attachment file %1.</translation>
     </message>
     <message>
         <source>Successfully imported attachment %1 as %2 to entry %3.</source>
-        <translation>Successfully imported attachment %1 as %2 to entry %3.</translation>
+        <translation type="vanished">Successfully imported attachment %1 as %2 to entry %3.</translation>
     </message>
     <message>
         <source>Remove an attachment of an entry.</source>
-        <translation>Remove an attachment of an entry.</translation>
+        <translation type="vanished">Remove an attachment of an entry.</translation>
     </message>
     <message>
         <source>Name of the attachment to be removed.</source>
-        <translation>Name of the attachment to be removed.</translation>
+        <translation type="vanished">Name of the attachment to be removed.</translation>
     </message>
     <message>
         <source>Successfully removed attachment %1 from entry %2.</source>
-        <translation>Successfully removed attachment %1 from entry %2.</translation>
+        <translation type="vanished">Successfully removed attachment %1 from entry %2.</translation>
     </message>
     <message>
         <source>Copy the given attribute to the clipboard. Defaults to &quot;password&quot; if not specified.</source>
-        <comment>Don't translate &quot;password&quot;, it refers to the attribute.</comment>
-        <translation>Copy the given attribute to the clipboard. Defaults to &quot;password&quot; if not specified.</translation>
+        <comment>Don&apos;t translate &quot;password&quot;, it refers to the attribute.</comment>
+        <translation type="vanished">Copy the given attribute to the clipboard. Defaults to &quot;password&quot; if not specified.</translation>
     </message>
     <message>
         <source>Copy the current TOTP to the clipboard (equivalent to &quot;-a totp&quot;).</source>
-        <translation>Copy the current TOTP to the clipboard (equivalent to &quot;-a totp&quot;).</translation>
+        <translation type="vanished">Copy the current TOTP to the clipboard (equivalent to &quot;-a totp&quot;).</translation>
     </message>
     <message>
         <source>Must match only one entry, otherwise a list of possible matches is shown.</source>
-        <translation>Must match only one entry, otherwise a list of possible matches is shown.</translation>
+        <translation type="vanished">Must match only one entry, otherwise a list of possible matches is shown.</translation>
     </message>
     <message>
         <source>Copy an entry&apos;s attribute to the clipboard.</source>
-        <translation>Copy an entry&apos;s attribute to the clipboard.</translation>
+        <translation type="vanished">Copy an entry&apos;s attribute to the clipboard.</translation>
     </message>
     <message>
         <source>Path of the entry to clip.</source>
         <comment>clip = copy to clipboard</comment>
-        <translation>Path of the entry to clip.</translation>
+        <translation type="vanished">Path of the entry to clip.</translation>
     </message>
     <message>
         <source>Timeout before clearing the clipboard (default is %1 seconds, set to 0 for unlimited).</source>
-        <translation>Timeout before clearing the clipboard (default is %1 seconds, set to 0 for unlimited).</translation>
+        <translation type="vanished">Timeout before clearing the clipboard (default is %1 seconds, set to 0 for unlimited).</translation>
     </message>
     <message>
         <source>Invalid timeout value %1.</source>
-        <translation>Invalid timeout value %1.</translation>
+        <translation type="vanished">Invalid timeout value %1.</translation>
     </message>
     <message>
         <source>Multiple entries matching:</source>
-        <translation>Multiple entries matching:</translation>
+        <translation type="vanished">Multiple entries matching:</translation>
     </message>
     <message>
         <source>Using matching entry: %1</source>
-        <translation>Using matching entry: %1</translation>
+        <translation type="vanished">Using matching entry: %1</translation>
     </message>
     <message>
         <source>Entry %1 not found.</source>
-        <translation>Entry %1 not found.</translation>
+        <translation type="vanished">Entry %1 not found.</translation>
     </message>
     <message>
         <source>ERROR: Please specify one of --attribute or --totp, not both.</source>
-        <translation>ERROR: Please specify one of --attribute or --totp, not both.</translation>
+        <translation type="vanished">ERROR: Please specify one of --attribute or --totp, not both.</translation>
     </message>
     <message>
         <source>Entry with path %1 has no TOTP set up.</source>
-        <translation>Entry with path %1 has no TOTP set up.</translation>
+        <translation type="vanished">Entry with path %1 has no TOTP set up.</translation>
     </message>
     <message>
         <source>ERROR: attribute %1 is ambiguous, it matches %2.</source>
-        <translation>ERROR: attribute %1 is ambiguous, it matches %2.</translation>
+        <translation type="vanished">ERROR: attribute %1 is ambiguous, it matches %2.</translation>
     </message>
     <message>
         <source>Attribute &quot;%1&quot; not found.</source>
-        <translation>Attribute &quot;%1&quot; not found.</translation>
+        <translation type="vanished">Attribute &quot;%1&quot; not found.</translation>
     </message>
     <message>
         <source>Entry&apos;s &quot;%1&quot; attribute copied to the clipboard!</source>
-        <translation>Entry&apos;s &quot;%1&quot; attribute copied to the clipboard!</translation>
+        <translation type="vanished">Entry&apos;s &quot;%1&quot; attribute copied to the clipboard!</translation>
     </message>
     <message numerus="yes">
         <source>Clearing the clipboard in %1 second(s)...</source>
-        <translation><numerusform>Clearing the clipboard in %1 second...</numerusform><numerusform>Clearing the clipboard in %1 seconds...</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>Clearing the clipboard in %1 second...</numerusform>
+            <numerusform>Clearing the clipboard in %1 seconds...</numerusform>
+        </translation>
     </message>
     <message>
         <source>Clipboard cleared!</source>
-        <translation>Clipboard cleared!</translation>
+        <translation type="vanished">Clipboard cleared!</translation>
     </message>
     <message>
         <source>Close the currently opened database.</source>
-        <translation>Close the currently opened database.</translation>
+        <translation type="vanished">Close the currently opened database.</translation>
     </message>
     <message>
         <source>Display this help.</source>
-        <translation>Display this help.</translation>
+        <translation type="vanished">Display this help.</translation>
     </message>
     <message>
         <source>Silence password prompt and other secondary outputs.</source>
-        <translation>Silence password prompt and other secondary outputs.</translation>
+        <translation type="vanished">Silence password prompt and other secondary outputs.</translation>
     </message>
     <message>
         <source>Key file of the database.</source>
-        <translation>Key file of the database.</translation>
+        <translation type="vanished">Key file of the database.</translation>
     </message>
     <message>
         <source>path</source>
-        <translation>path</translation>
+        <translation type="vanished">path</translation>
     </message>
     <message>
         <source>Deactivate password key for the database.</source>
-        <translation>Deactivate password key for the database.</translation>
+        <translation type="vanished">Deactivate password key for the database.</translation>
     </message>
     <message>
         <source>Yubikey slot and optional serial used to access the database (e.g., 1:7370001).</source>
-        <translation>Yubikey slot and optional serial used to access the database (e.g., 1:7370001).</translation>
+        <translation type="vanished">Yubikey slot and optional serial used to access the database (e.g., 1:7370001).</translation>
     </message>
     <message>
         <source>slot[:serial]</source>
-        <translation>slot[:serial]</translation>
+        <translation type="vanished">slot[:serial]</translation>
     </message>
     <message>
         <source>Missing positional argument(s).</source>
-        <translation>Missing positional argument(s).</translation>
+        <translation type="vanished">Missing positional argument(s).</translation>
     </message>
     <message>
         <source>Too many arguments provided.</source>
-        <translation>Too many arguments provided.</translation>
+        <translation type="vanished">Too many arguments provided.</translation>
     </message>
     <message>
         <source>Path of the database.</source>
-        <translation>Path of the database.</translation>
+        <translation type="vanished">Path of the database.</translation>
     </message>
     <message>
         <source>Target decryption time in MS for the database.</source>
-        <translation>Target decryption time in MS for the database.</translation>
+        <translation type="vanished">Target decryption time in MS for the database.</translation>
     </message>
     <message>
         <source>time</source>
-        <translation>time</translation>
+        <translation type="vanished">time</translation>
     </message>
     <message>
         <source>Set the key file for the database.</source>
-        <translation>Set the key file for the database.</translation>
+        <translation type="vanished">Set the key file for the database.</translation>
     </message>
     <message>
         <source>Set a password for the database.</source>
-        <translation>Set a password for the database.</translation>
+        <translation type="vanished">Set a password for the database.</translation>
     </message>
     <message>
         <source>Create a new database.</source>
-        <translation>Create a new database.</translation>
+        <translation type="vanished">Create a new database.</translation>
     </message>
     <message>
         <source>Invalid decryption time %1.</source>
-        <translation>Invalid decryption time %1.</translation>
+        <translation type="vanished">Invalid decryption time %1.</translation>
     </message>
     <message>
         <source>Target decryption time must be between %1 and %2.</source>
-        <translation>Target decryption time must be between %1 and %2.</translation>
+        <translation type="vanished">Target decryption time must be between %1 and %2.</translation>
     </message>
     <message>
         <source>Failed to set database password.</source>
-        <translation>Failed to set database password.</translation>
+        <translation type="vanished">Failed to set database password.</translation>
     </message>
     <message>
         <source>Loading the key file failed</source>
-        <translation>Loading the key file failed</translation>
+        <translation type="vanished">Loading the key file failed</translation>
     </message>
     <message>
         <source>No key is set. Aborting database creation.</source>
-        <translation>No key is set. Aborting database creation.</translation>
+        <translation type="vanished">No key is set. Aborting database creation.</translation>
     </message>
     <message>
         <source>Benchmarking key derivation function for %1ms delay.</source>
-        <translation>Benchmarking key derivation function for %1ms delay.</translation>
+        <translation type="vanished">Benchmarking key derivation function for %1ms delay.</translation>
     </message>
     <message>
         <source>Setting %1 rounds for key derivation function.</source>
-        <translation>Setting %1 rounds for key derivation function.</translation>
+        <translation type="vanished">Setting %1 rounds for key derivation function.</translation>
     </message>
     <message>
         <source>error while setting database key derivation settings.</source>
-        <translation>error while setting database key derivation settings.</translation>
+        <translation type="vanished">error while setting database key derivation settings.</translation>
     </message>
     <message>
         <source>File %1 already exists.</source>
-        <translation>File %1 already exists.</translation>
+        <translation type="vanished">File %1 already exists.</translation>
     </message>
     <message>
         <source>Failed to save the database: %1.</source>
-        <translation>Failed to save the database: %1.</translation>
+        <translation type="vanished">Failed to save the database: %1.</translation>
     </message>
     <message>
         <source>Successfully created new database.</source>
-        <translation>Successfully created new database.</translation>
+        <translation type="vanished">Successfully created new database.</translation>
     </message>
     <message>
         <source>Unset the password for the database.</source>
-        <translation>Unset the password for the database.</translation>
+        <translation type="vanished">Unset the password for the database.</translation>
     </message>
     <message>
         <source>Unset the key file for the database.</source>
-        <translation>Unset the key file for the database.</translation>
+        <translation type="vanished">Unset the key file for the database.</translation>
     </message>
     <message>
         <source>Edit a database.</source>
-        <translation>Edit a database.</translation>
+        <translation type="vanished">Edit a database.</translation>
     </message>
     <message>
         <source>Cannot use %1 and %2 at the same time.</source>
-        <translation>Cannot use %1 and %2 at the same time.</translation>
+        <translation type="vanished">Cannot use %1 and %2 at the same time.</translation>
     </message>
     <message>
         <source>Could not change the database key.</source>
-        <translation>Could not change the database key.</translation>
+        <translation type="vanished">Could not change the database key.</translation>
     </message>
     <message>
         <source>Database was not modified.</source>
-        <translation>Database was not modified.</translation>
+        <translation type="vanished">Database was not modified.</translation>
     </message>
     <message>
         <source>Writing the database failed: %1</source>
-        <translation>Writing the database failed: %1</translation>
+        <translation type="vanished">Writing the database failed: %1</translation>
     </message>
     <message>
         <source>Successfully edited the database.</source>
-        <translation>Successfully edited the database.</translation>
+        <translation type="vanished">Successfully edited the database.</translation>
     </message>
     <message>
         <source>Cannot remove password: The database does not have a password.</source>
-        <translation>Cannot remove password: The database does not have a password.</translation>
+        <translation type="vanished">Cannot remove password: The database does not have a password.</translation>
     </message>
     <message>
         <source>Cannot remove file key: The database does not have a file key.</source>
-        <translation>Cannot remove file key: The database does not have a file key.</translation>
+        <translation type="vanished">Cannot remove file key: The database does not have a file key.</translation>
     </message>
     <message>
         <source>Loading the new key file failed: %1</source>
-        <translation>Loading the new key file failed: %1</translation>
+        <translation type="vanished">Loading the new key file failed: %1</translation>
     </message>
     <message>
         <source>Found unexpected Key type %1</source>
-        <translation>Found unexpected Key type %1</translation>
+        <translation type="vanished">Found unexpected Key type %1</translation>
     </message>
     <message>
         <source>Cannot remove all the keys from a database.</source>
-        <translation>Cannot remove all the keys from a database.</translation>
+        <translation type="vanished">Cannot remove all the keys from a database.</translation>
     </message>
     <message>
         <source>Show a database&apos;s information.</source>
-        <translation>Show a database&apos;s information.</translation>
+        <translation type="vanished">Show a database&apos;s information.</translation>
     </message>
     <message>
         <source>UUID: </source>
-        <translation>UUID: </translation>
+        <translation type="vanished">UUID: </translation>
     </message>
     <message>
         <source>Name: </source>
-        <translation>Name: </translation>
+        <translation type="vanished">Name: </translation>
     </message>
     <message>
         <source>Description: </source>
-        <translation>Description: </translation>
+        <translation type="vanished">Description: </translation>
     </message>
     <message>
         <source>Cipher: </source>
-        <translation>Cipher: </translation>
+        <translation type="vanished">Cipher: </translation>
     </message>
     <message>
         <source>KDF: </source>
-        <translation>KDF: </translation>
+        <translation type="vanished">KDF: </translation>
     </message>
     <message>
         <source>Recycle bin is enabled.</source>
-        <translation>Recycle bin is enabled.</translation>
+        <translation type="vanished">Recycle bin is enabled.</translation>
     </message>
     <message>
         <source>Recycle bin is not enabled.</source>
-        <translation>Recycle bin is not enabled.</translation>
+        <translation type="vanished">Recycle bin is not enabled.</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation>Location</translation>
+        <translation type="vanished">Location</translation>
     </message>
     <message>
         <source>Database created</source>
-        <translation>Database created</translation>
+        <translation type="vanished">Database created</translation>
     </message>
     <message>
         <source>Last saved</source>
-        <translation>Last saved</translation>
+        <translation type="vanished">Last saved</translation>
     </message>
     <message>
         <source>Unsaved changes</source>
-        <translation>Unsaved changes</translation>
+        <translation type="vanished">Unsaved changes</translation>
     </message>
     <message>
         <source>yes</source>
-        <translation>yes</translation>
+        <translation type="vanished">yes</translation>
     </message>
     <message>
         <source>no</source>
-        <translation>no</translation>
+        <translation type="vanished">no</translation>
     </message>
     <message>
         <source>Number of groups</source>
-        <translation>Number of groups</translation>
+        <translation type="vanished">Number of groups</translation>
     </message>
     <message>
         <source>Number of entries</source>
-        <translation>Number of entries</translation>
+        <translation type="vanished">Number of entries</translation>
     </message>
     <message>
         <source>Number of expired entries</source>
-        <translation>Number of expired entries</translation>
+        <translation type="vanished">Number of expired entries</translation>
     </message>
     <message>
         <source>Unique passwords</source>
-        <translation>Unique passwords</translation>
+        <translation type="vanished">Unique passwords</translation>
     </message>
     <message>
         <source>Non-unique passwords</source>
-        <translation>Non-unique passwords</translation>
+        <translation type="vanished">Non-unique passwords</translation>
     </message>
     <message>
         <source>Maximum password reuse</source>
-        <translation>Maximum password reuse</translation>
+        <translation type="vanished">Maximum password reuse</translation>
     </message>
     <message>
         <source>Number of short passwords</source>
-        <translation>Number of short passwords</translation>
+        <translation type="vanished">Number of short passwords</translation>
     </message>
     <message>
         <source>Number of weak passwords</source>
-        <translation>Number of weak passwords</translation>
+        <translation type="vanished">Number of weak passwords</translation>
     </message>
     <message>
         <source>Entries excluded from reports</source>
-        <translation>Entries excluded from reports</translation>
+        <translation type="vanished">Entries excluded from reports</translation>
     </message>
     <message>
         <source>Average password length</source>
-        <translation>Average password length</translation>
+        <translation type="vanished">Average password length</translation>
     </message>
     <message>
         <source>Word count for the diceware passphrase.</source>
-        <translation>Word count for the diceware passphrase.</translation>
+        <translation type="vanished">Word count for the diceware passphrase.</translation>
     </message>
     <message>
         <source>count</source>
         <comment>CLI parameter</comment>
-        <translation>count</translation>
+        <translation type="vanished">count</translation>
     </message>
     <message>
         <source>Wordlist for the diceware generator.
 [Default: EFF English]</source>
-        <translation>Wordlist for the diceware generator.
+        <translation type="vanished">Wordlist for the diceware generator.
 [Default: EFF English]</translation>
     </message>
     <message>
         <source>Generate a new random diceware passphrase.</source>
-        <translation>Generate a new random diceware passphrase.</translation>
+        <translation type="vanished">Generate a new random diceware passphrase.</translation>
     </message>
     <message>
         <source>Invalid word count %1</source>
-        <translation>Invalid word count %1</translation>
+        <translation type="vanished">Invalid word count %1</translation>
     </message>
     <message>
         <source>Title for the entry.</source>
-        <translation>Title for the entry.</translation>
+        <translation type="vanished">Title for the entry.</translation>
     </message>
     <message>
         <source>title</source>
-        <translation>title</translation>
+        <translation type="vanished">title</translation>
     </message>
     <message>
         <source>Edit an entry.</source>
-        <translation>Edit an entry.</translation>
+        <translation type="vanished">Edit an entry.</translation>
     </message>
     <message>
         <source>Path of the entry to edit.</source>
-        <translation>Path of the entry to edit.</translation>
+        <translation type="vanished">Path of the entry to edit.</translation>
     </message>
     <message>
         <source>Not changing any field for entry %1.</source>
-        <translation>Not changing any field for entry %1.</translation>
+        <translation type="vanished">Not changing any field for entry %1.</translation>
     </message>
     <message>
         <source>Enter new password for entry: </source>
-        <translation>Enter new password for entry: </translation>
+        <translation type="vanished">Enter new password for entry: </translation>
     </message>
     <message>
         <source>Successfully edited entry %1.</source>
-        <translation>Successfully edited entry %1.</translation>
+        <translation type="vanished">Successfully edited entry %1.</translation>
     </message>
     <message>
         <source>Perform advanced analysis on the password.</source>
-        <translation>Perform advanced analysis on the password.</translation>
+        <translation type="vanished">Perform advanced analysis on the password.</translation>
     </message>
     <message>
         <source>Password for which to estimate the entropy.</source>
-        <translation>Password for which to estimate the entropy.</translation>
+        <translation type="vanished">Password for which to estimate the entropy.</translation>
     </message>
     <message>
         <source>Estimate the entropy of a password.</source>
-        <translation>Estimate the entropy of a password.</translation>
+        <translation type="vanished">Estimate the entropy of a password.</translation>
     </message>
     <message>
         <source>Length %1</source>
-        <translation>Length %1</translation>
+        <translation type="vanished">Length %1</translation>
     </message>
     <message>
         <source>Entropy %1</source>
-        <translation>Entropy %1</translation>
+        <translation type="vanished">Entropy %1</translation>
     </message>
     <message>
         <source>Log10 %1</source>
-        <translation>Log10 %1</translation>
+        <translation type="vanished">Log10 %1</translation>
     </message>
     <message>
         <source>Multi-word extra bits %1</source>
-        <translation>Multi-word extra bits %1</translation>
+        <translation type="vanished">Multi-word extra bits %1</translation>
     </message>
     <message>
         <source>Type: Bruteforce</source>
-        <translation>Type: Bruteforce</translation>
+        <translation type="vanished">Type: Bruteforce</translation>
     </message>
     <message>
         <source>Type: Dictionary</source>
-        <translation>Type: Dictionary</translation>
+        <translation type="vanished">Type: Dictionary</translation>
     </message>
     <message>
         <source>Type: Dict+Leet</source>
-        <translation>Type: Dict+Leet</translation>
+        <translation type="vanished">Type: Dict+Leet</translation>
     </message>
     <message>
         <source>Type: User Words</source>
-        <translation>Type: User Words</translation>
+        <translation type="vanished">Type: User Words</translation>
     </message>
     <message>
         <source>Type: User+Leet</source>
-        <translation>Type: User+Leet</translation>
+        <translation type="vanished">Type: User+Leet</translation>
     </message>
     <message>
         <source>Type: Repeated</source>
-        <translation>Type: Repeated</translation>
+        <translation type="vanished">Type: Repeated</translation>
     </message>
     <message>
         <source>Type: Sequence</source>
-        <translation>Type: Sequence</translation>
+        <translation type="vanished">Type: Sequence</translation>
     </message>
     <message>
         <source>Type: Spatial</source>
-        <translation>Type: Spatial</translation>
+        <translation type="vanished">Type: Spatial</translation>
     </message>
     <message>
         <source>Type: Date</source>
-        <translation>Type: Date</translation>
+        <translation type="vanished">Type: Date</translation>
     </message>
     <message>
         <source>Type: Bruteforce(Rep)</source>
-        <translation>Type: Bruteforce(Rep)</translation>
+        <translation type="vanished">Type: Bruteforce(Rep)</translation>
     </message>
     <message>
         <source>Type: Dictionary(Rep)</source>
-        <translation>Type: Dictionary(Rep)</translation>
+        <translation type="vanished">Type: Dictionary(Rep)</translation>
     </message>
     <message>
         <source>Type: Dict+Leet(Rep)</source>
-        <translation>Type: Dict+Leet(Rep)</translation>
+        <translation type="vanished">Type: Dict+Leet(Rep)</translation>
     </message>
     <message>
         <source>Type: User Words(Rep)</source>
-        <translation>Type: User Words(Rep)</translation>
+        <translation type="vanished">Type: User Words(Rep)</translation>
     </message>
     <message>
         <source>Type: User+Leet(Rep)</source>
-        <translation>Type: User+Leet(Rep)</translation>
+        <translation type="vanished">Type: User+Leet(Rep)</translation>
     </message>
     <message>
         <source>Type: Repeated(Rep)</source>
-        <translation>Type: Repeated(Rep)</translation>
+        <translation type="vanished">Type: Repeated(Rep)</translation>
     </message>
     <message>
         <source>Type: Sequence(Rep)</source>
-        <translation>Type: Sequence(Rep)</translation>
+        <translation type="vanished">Type: Sequence(Rep)</translation>
     </message>
     <message>
         <source>Type: Spatial(Rep)</source>
-        <translation>Type: Spatial(Rep)</translation>
+        <translation type="vanished">Type: Spatial(Rep)</translation>
     </message>
     <message>
         <source>Type: Date(Rep)</source>
-        <translation>Type: Date(Rep)</translation>
+        <translation type="vanished">Type: Date(Rep)</translation>
     </message>
     <message>
         <source>Type: Unknown (%1)</source>
-        <translation>Type: Unknown (%1)</translation>
+        <translation type="vanished">Type: Unknown (%1)</translation>
     </message>
     <message>
         <source>Entropy %1 (%2)</source>
-        <translation>Entropy %1 (%2)</translation>
+        <translation type="vanished">Entropy %1 (%2)</translation>
     </message>
     <message>
         <source>*** Password length (%1) != sum of length of parts (%2) ***</source>
-        <translation>*** Password length (%1) != sum of length of parts (%2) ***</translation>
+        <translation type="vanished">*** Password length (%1) != sum of length of parts (%2) ***</translation>
     </message>
     <message>
         <source>Exit interactive mode.</source>
-        <translation>Exit interactive mode.</translation>
+        <translation type="vanished">Exit interactive mode.</translation>
     </message>
     <message>
         <source>Exports the content of a database to standard output in the specified format.</source>
-        <translation>Exports the content of a database to standard output in the specified format.</translation>
+        <translation type="vanished">Exports the content of a database to standard output in the specified format.</translation>
     </message>
     <message>
         <source>Unable to export database to XML: %1</source>
-        <translation>Unable to export database to XML: %1</translation>
+        <translation type="vanished">Unable to export database to XML: %1</translation>
     </message>
     <message>
         <source>Unsupported format %1</source>
-        <translation>Unsupported format %1</translation>
+        <translation type="vanished">Unsupported format %1</translation>
     </message>
     <message>
         <source>Length of the generated password</source>
-        <translation>Length of the generated password</translation>
+        <translation type="vanished">Length of the generated password</translation>
     </message>
     <message>
         <source>length</source>
-        <translation>length</translation>
+        <translation type="vanished">length</translation>
     </message>
     <message>
         <source>Use lowercase characters</source>
-        <translation>Use lowercase characters</translation>
+        <translation type="vanished">Use lowercase characters</translation>
     </message>
     <message>
         <source>Use uppercase characters</source>
-        <translation>Use uppercase characters</translation>
+        <translation type="vanished">Use uppercase characters</translation>
     </message>
     <message>
         <source>Use numbers</source>
-        <translation>Use numbers</translation>
+        <translation type="vanished">Use numbers</translation>
     </message>
     <message>
         <source>Use special characters</source>
-        <translation>Use special characters</translation>
+        <translation type="vanished">Use special characters</translation>
     </message>
     <message>
         <source>Use extended ASCII</source>
-        <translation>Use extended ASCII</translation>
+        <translation type="vanished">Use extended ASCII</translation>
     </message>
     <message>
         <source>Exclude character set</source>
-        <translation>Exclude character set</translation>
+        <translation type="vanished">Exclude character set</translation>
     </message>
     <message>
         <source>chars</source>
-        <translation>chars</translation>
+        <translation type="vanished">chars</translation>
     </message>
     <message>
         <source>Use custom character set</source>
-        <translation>Use custom character set</translation>
+        <translation type="vanished">Use custom character set</translation>
     </message>
     <message>
         <source>Exclude similar looking characters</source>
-        <translation>Exclude similar looking characters</translation>
+        <translation type="vanished">Exclude similar looking characters</translation>
     </message>
     <message>
         <source>Include characters from every selected group</source>
-        <translation>Include characters from every selected group</translation>
+        <translation type="vanished">Include characters from every selected group</translation>
     </message>
     <message>
         <source>Generate a new random password.</source>
-        <translation>Generate a new random password.</translation>
+        <translation type="vanished">Generate a new random password.</translation>
     </message>
     <message>
         <source>Invalid password length %1</source>
-        <translation>Invalid password length %1</translation>
+        <translation type="vanished">Invalid password length %1</translation>
     </message>
     <message>
         <source>Invalid password generator after applying all options</source>
-        <translation>Invalid password generator after applying all options</translation>
+        <translation type="vanished">Invalid password generator after applying all options</translation>
     </message>
     <message>
         <source>Display command help.</source>
-        <translation>Display command help.</translation>
+        <translation type="vanished">Display command help.</translation>
     </message>
     <message>
         <source>Available commands:</source>
-        <translation>Available commands:</translation>
+        <translation type="vanished">Available commands:</translation>
     </message>
     <message>
         <source>Import the contents of an XML database.</source>
-        <translation>Import the contents of an XML database.</translation>
+        <translation type="vanished">Import the contents of an XML database.</translation>
     </message>
     <message>
         <source>Path of the XML database export.</source>
-        <translation>Path of the XML database export.</translation>
+        <translation type="vanished">Path of the XML database export.</translation>
     </message>
     <message>
         <source>Path of the new database.</source>
-        <translation>Path of the new database.</translation>
+        <translation type="vanished">Path of the new database.</translation>
     </message>
     <message>
         <source>Unable to import XML database: %1</source>
-        <translation>Unable to import XML database: %1</translation>
+        <translation type="vanished">Unable to import XML database: %1</translation>
     </message>
     <message>
         <source>Successfully imported database.</source>
-        <translation>Successfully imported database.</translation>
+        <translation type="vanished">Successfully imported database.</translation>
     </message>
     <message>
         <source>Unknown command %1</source>
-        <translation>Unknown command %1</translation>
+        <translation type="vanished">Unknown command %1</translation>
     </message>
     <message>
         <source>
 
 Available commands:
 </source>
-        <translation>
+        <translation type="vanished">
 
 Available commands:
 </translation>
     </message>
     <message>
         <source>Name of the command to execute.</source>
-        <translation>Name of the command to execute.</translation>
+        <translation type="vanished">Name of the command to execute.</translation>
     </message>
     <message>
         <source>Displays debugging information.</source>
-        <translation>Displays debugging information.</translation>
+        <translation type="vanished">Displays debugging information.</translation>
     </message>
     <message>
         <source>Invalid command %1.</source>
-        <translation>Invalid command %1.</translation>
+        <translation type="vanished">Invalid command %1.</translation>
     </message>
     <message>
         <source>Recursively list the elements of the group.</source>
-        <translation>Recursively list the elements of the group.</translation>
+        <translation type="vanished">Recursively list the elements of the group.</translation>
     </message>
     <message>
         <source>Flattens the output to single lines.</source>
-        <translation>Flattens the output to single lines.</translation>
+        <translation type="vanished">Flattens the output to single lines.</translation>
     </message>
     <message>
         <source>List database entries.</source>
-        <translation>List database entries.</translation>
+        <translation type="vanished">List database entries.</translation>
     </message>
     <message>
         <source>Path of the group to list. Default is /</source>
-        <translation>Path of the group to list. Default is /</translation>
+        <translation type="vanished">Path of the group to list. Default is /</translation>
     </message>
     <message>
         <source>Cannot find group %1.</source>
-        <translation>Cannot find group %1.</translation>
+        <translation type="vanished">Cannot find group %1.</translation>
     </message>
     <message>
         <source>Use the same credentials for both database files.</source>
-        <translation>Use the same credentials for both database files.</translation>
+        <translation type="vanished">Use the same credentials for both database files.</translation>
     </message>
     <message>
         <source>Key file of the database to merge from.</source>
-        <translation>Key file of the database to merge from.</translation>
+        <translation type="vanished">Key file of the database to merge from.</translation>
     </message>
     <message>
         <source>Deactivate password key for the database to merge from.</source>
-        <translation>Deactivate password key for the database to merge from.</translation>
+        <translation type="vanished">Deactivate password key for the database to merge from.</translation>
     </message>
     <message>
         <source>Only print the changes detected by the merge operation.</source>
-        <translation>Only print the changes detected by the merge operation.</translation>
+        <translation type="vanished">Only print the changes detected by the merge operation.</translation>
     </message>
     <message>
         <source>Yubikey slot for the second database.</source>
-        <translation>Yubikey slot for the second database.</translation>
+        <translation type="vanished">Yubikey slot for the second database.</translation>
     </message>
     <message>
         <source>slot</source>
-        <translation>slot</translation>
+        <translation type="vanished">slot</translation>
     </message>
     <message>
         <source>Merge two databases.</source>
-        <translation>Merge two databases.</translation>
+        <translation type="vanished">Merge two databases.</translation>
     </message>
     <message>
         <source>Path of the database to merge from.</source>
-        <translation>Path of the database to merge from.</translation>
+        <translation type="vanished">Path of the database to merge from.</translation>
     </message>
     <message>
         <source>Error reading merge file:
 %1</source>
-        <translation>Error reading merge file:
+        <translation type="vanished">Error reading merge file:
 %1</translation>
     </message>
     <message>
         <source>Unable to save database to file : %1</source>
-        <translation>Unable to save database to file : %1</translation>
+        <translation type="vanished">Unable to save database to file : %1</translation>
     </message>
     <message>
         <source>Successfully merged %1 into %2.</source>
-        <translation>Successfully merged %1 into %2.</translation>
+        <translation type="vanished">Successfully merged %1 into %2.</translation>
     </message>
     <message>
         <source>Database was not modified by merge operation.</source>
-        <translation>Database was not modified by merge operation.</translation>
+        <translation type="vanished">Database was not modified by merge operation.</translation>
     </message>
     <message>
         <source>Moves an entry to a new group.</source>
-        <translation>Moves an entry to a new group.</translation>
+        <translation type="vanished">Moves an entry to a new group.</translation>
     </message>
     <message>
         <source>Path of the entry to move.</source>
-        <translation>Path of the entry to move.</translation>
+        <translation type="vanished">Path of the entry to move.</translation>
     </message>
     <message>
         <source>Path of the destination group.</source>
-        <translation>Path of the destination group.</translation>
+        <translation type="vanished">Path of the destination group.</translation>
     </message>
     <message>
         <source>Could not find group with path %1.</source>
-        <translation>Could not find group with path %1.</translation>
+        <translation type="vanished">Could not find group with path %1.</translation>
     </message>
     <message>
         <source>Entry is already in group %1.</source>
-        <translation>Entry is already in group %1.</translation>
+        <translation type="vanished">Entry is already in group %1.</translation>
     </message>
     <message>
         <source>Successfully moved entry %1 to group %2.</source>
-        <translation>Successfully moved entry %1 to group %2.</translation>
+        <translation type="vanished">Successfully moved entry %1 to group %2.</translation>
     </message>
     <message>
         <source>Open a database.</source>
-        <translation>Open a database.</translation>
+        <translation type="vanished">Open a database.</translation>
     </message>
     <message>
         <source>Path of the entry to remove.</source>
-        <translation>Path of the entry to remove.</translation>
+        <translation type="vanished">Path of the entry to remove.</translation>
     </message>
     <message>
         <source>Unable to save database to file: %1</source>
-        <translation>Unable to save database to file: %1</translation>
+        <translation type="vanished">Unable to save database to file: %1</translation>
     </message>
     <message>
         <source>Successfully recycled entry %1.</source>
-        <translation>Successfully recycled entry %1.</translation>
+        <translation type="vanished">Successfully recycled entry %1.</translation>
     </message>
     <message>
         <source>Successfully deleted entry %1.</source>
-        <translation>Successfully deleted entry %1.</translation>
+        <translation type="vanished">Successfully deleted entry %1.</translation>
     </message>
     <message>
         <source>Path of the group to remove.</source>
-        <translation>Path of the group to remove.</translation>
+        <translation type="vanished">Path of the group to remove.</translation>
     </message>
     <message>
         <source>Cannot remove root group from database.</source>
-        <translation>Cannot remove root group from database.</translation>
+        <translation type="vanished">Cannot remove root group from database.</translation>
     </message>
     <message>
         <source>Successfully recycled group %1.</source>
-        <translation>Successfully recycled group %1.</translation>
+        <translation type="vanished">Successfully recycled group %1.</translation>
     </message>
     <message>
         <source>Successfully deleted group %1.</source>
-        <translation>Successfully deleted group %1.</translation>
+        <translation type="vanished">Successfully deleted group %1.</translation>
     </message>
     <message>
         <source>Find entries quickly.</source>
-        <translation>Find entries quickly.</translation>
+        <translation type="vanished">Find entries quickly.</translation>
     </message>
     <message>
         <source>Search term.</source>
-        <translation>Search term.</translation>
+        <translation type="vanished">Search term.</translation>
     </message>
     <message>
         <source>Show the entry&apos;s current TOTP.</source>
-        <translation>Show the entry&apos;s current TOTP.</translation>
+        <translation type="vanished">Show the entry&apos;s current TOTP.</translation>
     </message>
     <message>
         <source>Show the protected attributes in clear text.</source>
-        <translation>Show the protected attributes in clear text.</translation>
+        <translation type="vanished">Show the protected attributes in clear text.</translation>
     </message>
     <message>
         <source>Show all the attributes of the entry.</source>
-        <translation>Show all the attributes of the entry.</translation>
+        <translation type="vanished">Show all the attributes of the entry.</translation>
     </message>
     <message>
         <source>Show the attachments of the entry.</source>
-        <translation>Show the attachments of the entry.</translation>
+        <translation type="vanished">Show the attachments of the entry.</translation>
     </message>
     <message>
         <source>Names of the attributes to show. This option can be specified more than once, with each attribute shown one-per-line in the given order. If no attributes are specified, a summary of the default attributes is given.</source>
-        <translation>Names of the attributes to show. This option can be specified more than once, with each attribute shown one-per-line in the given order. If no attributes are specified, a summary of the default attributes is given.</translation>
+        <translation type="vanished">Names of the attributes to show. This option can be specified more than once, with each attribute shown one-per-line in the given order. If no attributes are specified, a summary of the default attributes is given.</translation>
     </message>
     <message>
         <source>attribute</source>
-        <translation>attribute</translation>
+        <translation type="vanished">attribute</translation>
     </message>
     <message>
         <source>Show an entry&apos;s information.</source>
-        <translation>Show an entry&apos;s information.</translation>
+        <translation type="vanished">Show an entry&apos;s information.</translation>
     </message>
     <message>
         <source>Name of the entry to show.</source>
-        <translation>Name of the entry to show.</translation>
+        <translation type="vanished">Name of the entry to show.</translation>
     </message>
     <message>
         <source>ERROR: unknown attribute %1.</source>
-        <translation>ERROR: unknown attribute %1.</translation>
+        <translation type="vanished">ERROR: unknown attribute %1.</translation>
     </message>
     <message>
         <source>No attachments present.</source>
-        <translation>No attachments present.</translation>
+        <translation type="vanished">No attachments present.</translation>
     </message>
     <message>
         <source>Attachments:</source>
-        <translation>Attachments:</translation>
+        <translation type="vanished">Attachments:</translation>
     </message>
     <message>
         <source>Failed to open database file %1: not found</source>
-        <translation>Failed to open database file %1: not found</translation>
+        <translation type="vanished">Failed to open database file %1: not found</translation>
     </message>
     <message>
         <source>Failed to open database file %1: not a plain file</source>
-        <translation>Failed to open database file %1: not a plain file</translation>
+        <translation type="vanished">Failed to open database file %1: not a plain file</translation>
     </message>
     <message>
         <source>Failed to open database file %1: not readable</source>
-        <translation>Failed to open database file %1: not readable</translation>
+        <translation type="vanished">Failed to open database file %1: not readable</translation>
     </message>
     <message>
         <source>Enter password to unlock %1: </source>
-        <translation>Enter password to unlock %1: </translation>
+        <translation type="vanished">Enter password to unlock %1: </translation>
     </message>
     <message>
         <source>Failed to load key file %1: %2</source>
-        <translation>Failed to load key file %1: %2</translation>
+        <translation type="vanished">Failed to load key file %1: %2</translation>
     </message>
     <message>
         <source>WARNING: You are using an old key file format which KeePassXC may
 stop supporting in the future.
 
 Please consider generating a new key file.</source>
-        <translation>WARNING: You are using an old key file format which KeePassXC may
+        <translation type="vanished">WARNING: You are using an old key file format which KeePassXC may
 stop supporting in the future.
 
 Please consider generating a new key file.</translation>
     </message>
     <message>
         <source>Invalid YubiKey slot %1</source>
-        <translation>Invalid YubiKey slot %1</translation>
+        <translation type="vanished">Invalid YubiKey slot %1</translation>
     </message>
     <message>
         <source>Invalid YubiKey serial %1</source>
-        <translation>Invalid YubiKey serial %1</translation>
+        <translation type="vanished">Invalid YubiKey serial %1</translation>
     </message>
     <message>
         <source>Please present or touch your YubiKey to continue.</source>
-        <translation>Please present or touch your YubiKey to continue.</translation>
+        <translation type="vanished">Please present or touch your YubiKey to continue.</translation>
     </message>
     <message>
         <source>Enter password to encrypt database (optional): </source>
-        <translation>Enter password to encrypt database (optional): </translation>
+        <translation type="vanished">Enter password to encrypt database (optional): </translation>
     </message>
     <message>
         <source>Do you want to create a database with an empty password? [y/N]: </source>
-        <translation>Do you want to create a database with an empty password? [y/N]: </translation>
+        <translation type="vanished">Do you want to create a database with an empty password? [y/N]: </translation>
     </message>
     <message>
         <source>Repeat password: </source>
-        <translation>Repeat password: </translation>
+        <translation type="vanished">Repeat password: </translation>
     </message>
     <message>
         <source>Error: Passwords do not match.</source>
-        <translation>Error: Passwords do not match.</translation>
+        <translation type="vanished">Error: Passwords do not match.</translation>
     </message>
     <message>
         <source>No program defined for clipboard manipulation</source>
-        <translation>No program defined for clipboard manipulation</translation>
+        <translation type="vanished">No program defined for clipboard manipulation</translation>
     </message>
     <message>
         <source>All clipping programs failed. Tried %1
 </source>
-        <translation>All clipping programs failed. Tried %1
+        <translation type="vanished">All clipping programs failed. Tried %1
 </translation>
     </message>
     <message>
         <source>Creating KeyFile %1 failed: %2</source>
-        <translation>Creating KeyFile %1 failed: %2</translation>
+        <translation type="vanished">Creating KeyFile %1 failed: %2</translation>
     </message>
     <message>
         <source>Loading KeyFile %1 failed: %2</source>
-        <translation>Loading KeyFile %1 failed: %2</translation>
+        <translation type="vanished">Loading KeyFile %1 failed: %2</translation>
     </message>
     <message>
         <source>HIBP file, line %1: parse error</source>
-        <translation>HIBP file, line %1: parse error</translation>
+        <translation type="vanished">HIBP file, line %1: parse error</translation>
     </message>
     <message>
         <source>To use okon, you must provide a post-processed file (e.g. file.okon)</source>
-        <translation>To use okon, you must provide a post-processed file (e.g. file.okon)</translation>
+        <translation type="vanished">To use okon, you must provide a post-processed file (e.g. file.okon)</translation>
     </message>
     <message>
         <source>Could not start okon process: %1</source>
-        <translation>Could not start okon process: %1</translation>
+        <translation type="vanished">Could not start okon process: %1</translation>
     </message>
     <message>
         <source>Error: okon process did not finish</source>
-        <translation>Error: okon process did not finish</translation>
+        <translation type="vanished">Error: okon process did not finish</translation>
     </message>
     <message>
         <source>Failed to load okon processed database: %1</source>
-        <translation>Failed to load okon processed database: %1</translation>
+        <translation type="vanished">Failed to load okon processed database: %1</translation>
     </message>
     <message>
         <source>Very weak password</source>
-        <translation>Very weak password</translation>
+        <translation type="vanished">Very weak password</translation>
     </message>
     <message>
         <source>Password entropy is %1 bits</source>
-        <translation>Password entropy is %1 bits</translation>
+        <translation type="vanished">Password entropy is %1 bits</translation>
     </message>
     <message>
         <source>Weak password</source>
-        <translation>Weak password</translation>
+        <translation type="vanished">Weak password</translation>
     </message>
     <message>
         <source>Used in %1/%2</source>
-        <translation>Used in %1/%2</translation>
+        <translation type="vanished">Used in %1/%2</translation>
     </message>
     <message numerus="yes">
         <source>Password is used %1 time(s)</source>
-        <translation><numerusform>Password is used %1 time</numerusform><numerusform>Password is used %1 times</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>Password is used %1 time</numerusform>
+            <numerusform>Password is used %1 times</numerusform>
+        </translation>
     </message>
     <message>
         <source>Password has expired</source>
-        <translation>Password has expired</translation>
+        <translation type="vanished">Password has expired</translation>
     </message>
     <message>
         <source>Password expiry was %1</source>
-        <translation>Password expiry was %1</translation>
+        <translation type="vanished">Password expiry was %1</translation>
     </message>
     <message>
         <source>Password expires on %1</source>
-        <translation>Password expires on %1</translation>
+        <translation type="vanished">Password expires on %1</translation>
     </message>
     <message>
         <source>Password is about to expire</source>
-        <translation>Password is about to expire</translation>
+        <translation type="vanished">Password is about to expire</translation>
     </message>
     <message numerus="yes">
         <source>Password expires in %1 day(s)</source>
-        <translation><numerusform>Password expires in %1 day</numerusform><numerusform>Password expires in %1 days</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>Password expires in %1 day</numerusform>
+            <numerusform>Password expires in %1 days</numerusform>
+        </translation>
     </message>
     <message>
         <source>Password will expire soon</source>
-        <translation>Password will expire soon</translation>
+        <translation type="vanished">Password will expire soon</translation>
     </message>
     <message>
         <source>Version %1</source>
-        <translation>Version %1</translation>
+        <translation type="vanished">Version %1</translation>
     </message>
     <message>
         <source>Build Type: %1</source>
-        <translation>Build Type: %1</translation>
+        <translation type="vanished">Build Type: %1</translation>
     </message>
     <message>
         <source>Revision: %1</source>
-        <translation>Revision: %1</translation>
+        <translation type="vanished">Revision: %1</translation>
     </message>
     <message>
         <source>Distribution: %1</source>
-        <translation>Distribution: %1</translation>
+        <translation type="vanished">Distribution: %1</translation>
     </message>
     <message>
         <source>Debugging mode is disabled.</source>
-        <translation>Debugging mode is disabled.</translation>
+        <translation type="vanished">Debugging mode is disabled.</translation>
     </message>
     <message>
         <source>Debugging mode is enabled.</source>
-        <translation>Debugging mode is enabled.</translation>
+        <translation type="vanished">Debugging mode is enabled.</translation>
     </message>
     <message>
         <source>Operating system: %1
 CPU architecture: %2
 Kernel: %3 %4</source>
-        <translation>Operating system: %1
+        <translation type="vanished">Operating system: %1
 CPU architecture: %2
 Kernel: %3 %4</translation>
     </message>
     <message>
         <source>Auto-Type</source>
-        <translation>Auto-Type</translation>
+        <translation type="vanished">Auto-Type</translation>
     </message>
     <message>
         <source>SSH Agent</source>
-        <translation>SSH Agent</translation>
+        <translation type="vanished">SSH Agent</translation>
     </message>
     <message>
         <source>KeeShare</source>
-        <translation>KeeShare</translation>
+        <translation type="vanished">KeeShare</translation>
     </message>
     <message>
         <source>YubiKey</source>
-        <translation>YubiKey</translation>
+        <translation type="vanished">YubiKey</translation>
     </message>
     <message>
         <source>Quick Unlock</source>
-        <translation>Quick Unlock</translation>
+        <translation type="vanished">Quick Unlock</translation>
     </message>
     <message>
         <source>Secret Service Integration</source>
-        <translation>Secret Service Integration</translation>
+        <translation type="vanished">Secret Service Integration</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>None</translation>
+        <translation type="vanished">None</translation>
     </message>
     <message>
         <source>Enabled extensions:</source>
-        <translation>Enabled extensions:</translation>
+        <translation type="vanished">Enabled extensions:</translation>
     </message>
     <message numerus="yes">
         <source>over %1 year(s)</source>
-        <translation><numerusform>over %1 year</numerusform><numerusform>over %1 years</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>over %1 year</numerusform>
+            <numerusform>over %1 years</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>about %1 month(s)</source>
-        <translation><numerusform>about %1 month</numerusform><numerusform>about %1 months</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>about %1 month</numerusform>
+            <numerusform>about %1 months</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%1 week(s)</source>
-        <translation><numerusform>%1 week</numerusform><numerusform>%1 weeks</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>%1 week</numerusform>
+            <numerusform>%1 weeks</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%1 day(s)</source>
-        <translation><numerusform>%1 day</numerusform><numerusform>%1 days</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>%1 day</numerusform>
+            <numerusform>%1 days</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%1 hour(s)</source>
-        <translation><numerusform>%1 hour</numerusform><numerusform>%1 hours</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>%1 hour</numerusform>
+            <numerusform>%1 hours</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%1 minute(s)</source>
-        <translation><numerusform>%1 minute</numerusform><numerusform>%1 minutes</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>%1 minute</numerusform>
+            <numerusform>%1 minutes</numerusform>
+        </translation>
     </message>
     <message>
         <source>Botan library must be at least %1, found %2.%3.%4</source>
-        <translation>Botan library must be at least %1, found %2.%3.%4</translation>
+        <translation type="vanished">Botan library must be at least %1, found %2.%3.%4</translation>
     </message>
     <message>
         <source>Cryptographic libraries:</source>
-        <translation>Cryptographic libraries:</translation>
+        <translation type="vanished">Cryptographic libraries:</translation>
     </message>
     <message>
         <source>AES (%1 rounds)</source>
-        <translation>AES (%1 rounds)</translation>
+        <translation type="vanished">AES (%1 rounds)</translation>
     </message>
     <message>
         <source>Argon2%1 (%2 rounds, %3 KB)</source>
-        <translation>Argon2%1 (%2 rounds, %3 KB)</translation>
+        <translation type="vanished">Argon2%1 (%2 rounds, %3 KB)</translation>
     </message>
     <message>
         <source>SymmetricCipher::init: Invalid cipher mode.</source>
-        <translation>SymmetricCipher::init: Invalid cipher mode.</translation>
+        <translation type="vanished">SymmetricCipher::init: Invalid cipher mode.</translation>
     </message>
     <message>
         <source>SymmetricCipher::init: Invalid IV size of %1 for %2.</source>
-        <translation>SymmetricCipher::init: Invalid IV size of %1 for %2.</translation>
+        <translation type="vanished">SymmetricCipher::init: Invalid IV size of %1 for %2.</translation>
     </message>
     <message>
         <source>Cipher not initialized prior to use.</source>
-        <translation>Cipher not initialized prior to use.</translation>
+        <translation type="vanished">Cipher not initialized prior to use.</translation>
     </message>
     <message>
         <source>Cannot process 0 length data.</source>
-        <translation>Cannot process 0 length data.</translation>
+        <translation type="vanished">Cannot process 0 length data.</translation>
     </message>
     <message>
         <source>unknown executable (DBus address %1)</source>
-        <translation>unknown executable (DBus address %1)</translation>
+        <translation type="vanished">unknown executable (DBus address %1)</translation>
     </message>
     <message>
         <source>%1 (invalid executable path)</source>
-        <translation>%1 (invalid executable path)</translation>
+        <translation type="vanished">%1 (invalid executable path)</translation>
     </message>
     <message>
         <source>NULL device</source>
-        <translation>NULL device</translation>
+        <translation type="vanished">NULL device</translation>
     </message>
     <message>
         <source>error reading from device</source>
-        <translation>error reading from device</translation>
+        <translation type="vanished">error reading from device</translation>
     </message>
     <message>
         <source>file empty</source>
-        <translation>file empty</translation>
+        <translation type="vanished">file empty</translation>
     </message>
     <message>
         <source>AES 256-bit</source>
-        <translation>AES 256-bit</translation>
+        <translation type="vanished">AES 256-bit</translation>
     </message>
     <message>
         <source>Twofish 256-bit</source>
-        <translation>Twofish 256-bit</translation>
+        <translation type="vanished">Twofish 256-bit</translation>
     </message>
     <message>
         <source>ChaCha20 256-bit</source>
-        <translation>ChaCha20 256-bit</translation>
+        <translation type="vanished">ChaCha20 256-bit</translation>
     </message>
     <message>
         <source>Argon2d (KDBX 4 – recommended)</source>
-        <translation>Argon2d (KDBX 4 – recommended)</translation>
+        <translation type="vanished">Argon2d (KDBX 4 – recommended)</translation>
     </message>
     <message>
         <source>Argon2id (KDBX 4)</source>
-        <translation>Argon2id (KDBX 4)</translation>
+        <translation type="vanished">Argon2id (KDBX 4)</translation>
     </message>
     <message>
         <source>AES-KDF (KDBX 4)</source>
-        <translation>AES-KDF (KDBX 4)</translation>
+        <translation type="vanished">AES-KDF (KDBX 4)</translation>
     </message>
     <message>
         <source>AES-KDF (KDBX 3)</source>
-        <translation>AES-KDF (KDBX 3)</translation>
+        <translation type="vanished">AES-KDF (KDBX 3)</translation>
     </message>
     <message>
         <source>Existing single-instance lock file is invalid. Launching new instance.</source>
-        <translation>Existing single-instance lock file is invalid. Launching new instance.</translation>
+        <translation type="vanished">Existing single-instance lock file is invalid. Launching new instance.</translation>
     </message>
     <message>
         <source>The lock file could not be created. Single-instance mode disabled.</source>
-        <translation>The lock file could not be created. Single-instance mode disabled.</translation>
+        <translation type="vanished">The lock file could not be created. Single-instance mode disabled.</translation>
     </message>
     <message numerus="yes">
         <source>Clearing the clipboard in %1 second(s)…</source>
-        <translation><numerusform>Clearing the clipboard in %1 second…</numerusform><numerusform>Clearing the clipboard in %1 seconds…</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>Clearing the clipboard in %1 second…</numerusform>
+            <numerusform>Clearing the clipboard in %1 seconds…</numerusform>
+        </translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Group</translation>
+        <translation type="vanished">Group</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation>Title</translation>
+        <translation type="vanished">Title</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Username</translation>
+        <translation type="vanished">Username</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Password</translation>
+        <translation type="vanished">Password</translation>
     </message>
     <message>
         <source>TOTP</source>
-        <translation>TOTP</translation>
+        <translation type="vanished">TOTP</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation>Icon</translation>
+        <translation type="vanished">Icon</translation>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation>Last Modified</translation>
+        <translation type="vanished">Last Modified</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation>Created</translation>
+        <translation type="vanished">Created</translation>
     </message>
     <message>
         <source>Benchmark %1 delay</source>
-        <translation>Benchmark %1 delay</translation>
+        <translation type="vanished">Benchmark %1 delay</translation>
     </message>
     <message numerus="yes">
         <source>%1 ms</source>
         <comment>milliseconds</comment>
-        <translation><numerusform>%1 ms</numerusform><numerusform>%1 ms</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>%1 ms</numerusform>
+            <numerusform>%1 ms</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%1 s</source>
         <comment>seconds</comment>
-        <translation><numerusform>%1 s</numerusform><numerusform>%1 s</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>%1 s</numerusform>
+            <numerusform>%1 s</numerusform>
+        </translation>
     </message>
     <message>
         <source>Do you really want to move entry &quot;%1&quot; to the recycle bin?</source>
-        <translation>Do you really want to move entry &quot;%1&quot; to the recycle bin?</translation>
+        <translation type="vanished">Do you really want to move entry &quot;%1&quot; to the recycle bin?</translation>
     </message>
     <message numerus="yes">
         <source>Do you really want to move %n entry(s) to the recycle bin?</source>
-        <translation><numerusform>Do you really want to move %n entry to the recycle bin?</numerusform><numerusform>Do you really want to move %n entries to the recycle bin?</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>Do you really want to move %n entry to the recycle bin?</numerusform>
+            <numerusform>Do you really want to move %n entries to the recycle bin?</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>Entry &quot;%1&quot; has %2 reference(s). Do you want to overwrite references with values, skip this entry, or delete anyway?</source>
-        <translation><numerusform>Entry &quot;%1&quot; has %2 reference. Do you want to overwrite references with values, skip this entry, or delete anyway?</numerusform><numerusform>Entry &quot;%1&quot; has %2 references. Do you want to overwrite references with values, skip this entry, or delete anyway?</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>Entry &quot;%1&quot; has %2 reference. Do you want to overwrite references with values, skip this entry, or delete anyway?</numerusform>
+            <numerusform>Entry &quot;%1&quot; has %2 references. Do you want to overwrite references with values, skip this entry, or delete anyway?</numerusform>
+        </translation>
     </message>
     <message>
         <source>User name</source>
-        <translation>User name</translation>
+        <translation type="vanished">User name</translation>
     </message>
     <message>
         <source>Browser Statistics</source>
-        <translation>Browser Statistics</translation>
+        <translation type="vanished">Browser Statistics</translation>
     </message>
     <message>
         <source>Health Check</source>
-        <translation>Health Check</translation>
+        <translation type="vanished">Health Check</translation>
     </message>
     <message>
         <source>HIBP</source>
-        <translation>HIBP</translation>
+        <translation type="vanished">HIBP</translation>
     </message>
     <message>
         <source>Statistics</source>
-        <translation>Statistics</translation>
+        <translation type="vanished">Statistics</translation>
     </message>
     <message>
         <source>Unsupported key file version: %1</source>
-        <translation>Unsupported key file version: %1</translation>
+        <translation type="vanished">Unsupported key file version: %1</translation>
     </message>
     <message>
         <source>Checksum mismatch! Key file may be corrupt.</source>
-        <translation>Checksum mismatch! Key file may be corrupt.</translation>
+        <translation type="vanished">Checksum mismatch! Key file may be corrupt.</translation>
     </message>
     <message>
         <source>Unexpected key file data! Key file may be corrupt.</source>
-        <translation>Unexpected key file data! Key file may be corrupt.</translation>
+        <translation type="vanished">Unexpected key file data! Key file may be corrupt.</translation>
     </message>
     <message>
         <source>KeePassXC - cross-platform password manager</source>
-        <translation>KeePassXC - cross-platform password manager</translation>
+        <translation type="vanished">KeePassXC - cross-platform password manager</translation>
     </message>
     <message>
         <source>filenames of the password databases to open (*.kdbx)</source>
-        <translation>filenames of the password databases to open (*.kdbx)</translation>
+        <translation type="vanished">filenames of the password databases to open (*.kdbx)</translation>
     </message>
     <message>
         <source>path to a custom config file</source>
-        <translation>path to a custom config file</translation>
+        <translation type="vanished">path to a custom config file</translation>
     </message>
     <message>
         <source>path to a custom local config file</source>
-        <translation>path to a custom local config file</translation>
+        <translation type="vanished">path to a custom local config file</translation>
     </message>
     <message>
         <source>lock all open databases</source>
-        <translation>lock all open databases</translation>
+        <translation type="vanished">lock all open databases</translation>
     </message>
     <message>
         <source>key file of the database</source>
-        <translation>key file of the database</translation>
+        <translation type="vanished">key file of the database</translation>
     </message>
     <message>
         <source>read password of the database from stdin</source>
-        <translation>read password of the database from stdin</translation>
+        <translation type="vanished">read password of the database from stdin</translation>
     </message>
     <message>
         <source>Database failed to lock.</source>
-        <translation>Database failed to lock.</translation>
+        <translation type="vanished">Database failed to lock.</translation>
     </message>
     <message>
         <source>Another instance of KeePassXC is already running.</source>
-        <translation>Another instance of KeePassXC is already running.</translation>
+        <translation type="vanished">Another instance of KeePassXC is already running.</translation>
     </message>
     <message>
         <source>KeePassXC is not running. No open database to lock</source>
-        <translation>KeePassXC is not running. No open database to lock</translation>
+        <translation type="vanished">KeePassXC is not running. No open database to lock</translation>
     </message>
     <message>
         <source>Fatal error while testing the cryptographic functions.</source>
-        <translation>Fatal error while testing the cryptographic functions.</translation>
+        <translation type="vanished">Fatal error while testing the cryptographic functions.</translation>
     </message>
     <message>
         <source>KeePassXC - Error</source>
-        <translation>KeePassXC - Error</translation>
+        <translation type="vanished">KeePassXC - Error</translation>
     </message>
     <message>
         <source>Database password: </source>
-        <translation>Database password: </translation>
+        <translation type="vanished">Database password: </translation>
     </message>
     <message>
         <source>Invalid Settings</source>
         <comment>TOTP</comment>
-        <translation>Invalid Settings</translation>
+        <translation type="vanished">Invalid Settings</translation>
     </message>
     <message>
         <source>Invalid Key</source>
         <comment>TOTP</comment>
-        <translation>Invalid Key</translation>
+        <translation type="vanished">Invalid Key</translation>
     </message>
     <message>
         <source>Failed to create Windows Hello credential.</source>
-        <translation>Failed to create Windows Hello credential.</translation>
+        <translation type="vanished">Failed to create Windows Hello credential.</translation>
     </message>
     <message>
         <source>Failed to sign challenge using Windows Hello.</source>
-        <translation>Failed to sign challenge using Windows Hello.</translation>
+        <translation type="vanished">Failed to sign challenge using Windows Hello.</translation>
     </message>
     <message>
+        <location filename="../../src/gui/MainWindow.cpp" line="1747"/>
         <source>Warning: Failed to block screenshot capture on a top-level window.</source>
         <translation>Warning: Failed to block screenshot capture on a top-level window.</translation>
     </message>
     <message>
         <source>Invalid Cipher</source>
-        <translation>Invalid Cipher</translation>
+        <translation type="vanished">Invalid Cipher</translation>
     </message>
     <message>
         <source>Invalid KDF</source>
-        <translation>Invalid KDF</translation>
+        <translation type="vanished">Invalid KDF</translation>
     </message>
     <message>
         <source>Access to all entries is denied</source>
-        <translation>Access to all entries is denied</translation>
+        <translation type="vanished">Access to all entries is denied</translation>
     </message>
     <message>
         <source>allow screenshots and app recording (Windows/macOS)</source>
-        <translation>allow screenshots and app recording (Windows/macOS)</translation>
+        <translation type="vanished">allow screenshots and app recording (Windows/macOS)</translation>
     </message>
     <message>
         <source>Set the key file for the database.
 This option is deprecated, use --set-key-file instead.</source>
-        <translation>Set the key file for the database.
+        <translation type="vanished">Set the key file for the database.
 This option is deprecated, use --set-key-file instead.</translation>
     </message>
     <message>
         <source>Databases have been locked.</source>
-        <translation>Databases have been locked.</translation>
+        <translation type="vanished">Databases have been locked.</translation>
     </message>
     <message>
         <source>Attestation not supported</source>
-        <translation>Attestation not supported</translation>
+        <translation type="vanished">Attestation not supported</translation>
     </message>
     <message>
         <source>Credential is excluded</source>
-        <translation>Credential is excluded</translation>
+        <translation type="vanished">Credential is excluded</translation>
     </message>
     <message>
         <source>Passkeys request canceled</source>
-        <translation>Passkeys request canceled</translation>
+        <translation type="vanished">Passkeys request canceled</translation>
     </message>
     <message>
         <source>Invalid user verification</source>
-        <translation>Invalid user verification</translation>
+        <translation type="vanished">Invalid user verification</translation>
     </message>
     <message>
         <source>Empty public key</source>
-        <translation>Empty public key</translation>
+        <translation type="vanished">Empty public key</translation>
     </message>
     <message>
         <source>Invalid URL provided</source>
-        <translation>Invalid URL provided</translation>
+        <translation type="vanished">Invalid URL provided</translation>
     </message>
     <message>
         <source>Passkeys</source>
-        <translation>Passkeys</translation>
+        <translation type="vanished">Passkeys</translation>
     </message>
     <message>
         <source>AES initialization failed</source>
-        <translation>AES initialisation failed</translation>
+        <translation type="vanished">AES initialisation failed</translation>
     </message>
     <message>
         <source>AES encrypt failed</source>
-        <translation>AES encrypt failed</translation>
+        <translation type="vanished">AES encrypt failed</translation>
     </message>
     <message>
         <source>Failed to store in Linux Keyring</source>
-        <translation>Failed to store in Linux Keyring</translation>
+        <translation type="vanished">Failed to store in Linux Keyring</translation>
     </message>
     <message>
         <source>Polkit returned an error: %1</source>
-        <translation>Polkit returned an error: %1</translation>
+        <translation type="vanished">Polkit returned an error: %1</translation>
     </message>
     <message>
         <source>Could not locate key in keyring</source>
-        <translation>Could not locate key in keyring</translation>
+        <translation type="vanished">Could not locate key in keyring</translation>
     </message>
     <message>
         <source>Could not read key in keyring</source>
-        <translation>Could not read key in keyring</translation>
+        <translation type="vanished">Could not read key in keyring</translation>
     </message>
     <message>
         <source>AES decrypt failed</source>
-        <translation>AES decrypt failed</translation>
+        <translation type="vanished">AES decrypt failed</translation>
     </message>
     <message>
         <source>No Polkit authentication agent was available</source>
-        <translation>No Polkit authentication agent was available</translation>
+        <translation type="vanished">No Polkit authentication agent was available</translation>
     </message>
     <message>
         <source>Polkit authorization failed</source>
-        <translation>Polkit authorisation failed</translation>
+        <translation type="vanished">Polkit authorisation failed</translation>
     </message>
     <message>
         <source>No Quick Unlock provider is available</source>
-        <translation>No Quick Unlock provider is available</translation>
+        <translation type="vanished">No Quick Unlock provider is available</translation>
     </message>
     <message>
         <source>Failed to init KeePassXC crypto.</source>
-        <translation>Failed to init KeePassXC crypto.</translation>
+        <translation type="vanished">Failed to init KeePassXC crypto.</translation>
     </message>
     <message>
         <source>Failed to encrypt key data.</source>
-        <translation>Failed to encrypt key data.</translation>
+        <translation type="vanished">Failed to encrypt key data.</translation>
     </message>
     <message>
         <source>Failed to get Windows Hello credential.</source>
-        <translation>Failed to get Windows Hello credential.</translation>
+        <translation type="vanished">Failed to get Windows Hello credential.</translation>
     </message>
     <message>
         <source>Failed to decrypt key data.</source>
-        <translation>Failed to decrypt key data.</translation>
+        <translation type="vanished">Failed to decrypt key data.</translation>
     </message>
     <message>
         <source>Origin is empty or not allowed</source>
-        <translation>Origin is empty or not allowed</translation>
+        <translation type="vanished">Origin is empty or not allowed</translation>
     </message>
     <message>
         <source>Effective domain is not a valid domain</source>
-        <translation>Effective domain is not a valid domain</translation>
+        <translation type="vanished">Effective domain is not a valid domain</translation>
     </message>
     <message>
         <source>Origin and RP ID do not match</source>
-        <translation>Origin and RP ID do not match</translation>
+        <translation type="vanished">Origin and RP ID do not match</translation>
     </message>
     <message>
         <source>No supported algorithms were provided</source>
-        <translation>No supported algorithms were provided</translation>
+        <translation type="vanished">No supported algorithms were provided</translation>
     </message>
     <message>
         <source>Wait for timer to expire</source>
-        <translation>Wait for timer to expire</translation>
+        <translation type="vanished">Wait for timer to expire</translation>
     </message>
     <message>
         <source>Challenge is shorter than required minimum length</source>
-        <translation>Challenge is shorter than required minimum length</translation>
+        <translation type="vanished">Challenge is shorter than required minimum length</translation>
     </message>
     <message>
         <source>user.id does not match the required length</source>
-        <translation>user.id does not match the required length</translation>
+        <translation type="vanished">user.id does not match the required length</translation>
     </message>
     <message>
         <source>Favorite</source>
         <comment>Tag for favorite entries</comment>
-        <translation>Favorite</translation>
+        <translation type="vanished">Favorite</translation>
     </message>
     <message>
         <source>File does not exist.</source>
-        <translation>File does not exist.</translation>
+        <translation type="vanished">File does not exist.</translation>
     </message>
     <message>
         <source>Cannot open file: %1</source>
-        <translation>Cannot open file: %1</translation>
+        <translation type="vanished">Cannot open file: %1</translation>
     </message>
     <message>
         <source>Cannot parse file: %1 at position %2</source>
-        <translation>Cannot parse file: %1 at position %2</translation>
+        <translation type="vanished">Cannot parse file: %1 at position %2</translation>
     </message>
     <message>
         <source>Failed to decrypt json file: %1</source>
-        <translation>Failed to decrypt json file: %1</translation>
+        <translation type="vanished">Failed to decrypt json file: %1</translation>
     </message>
     <message>
         <source>Invalid encKeyValidation field</source>
-        <translation>Invalid encKeyValidation field</translation>
+        <translation type="vanished">Invalid encKeyValidation field</translation>
     </message>
     <message>
         <source>Invalid cipher list within encKeyValidation field</source>
-        <translation>Invalid cipher list within encKeyValidation field</translation>
+        <translation type="vanished">Invalid cipher list within encKeyValidation field</translation>
     </message>
     <message>
         <source>Wrong password</source>
-        <translation>Wrong password</translation>
+        <translation type="vanished">Wrong password</translation>
     </message>
     <message>
         <source>Invalid encrypted data field</source>
-        <translation>Invalid encrypted data field</translation>
+        <translation type="vanished">Invalid encrypted data field</translation>
     </message>
     <message>
         <source>Invalid cipher list within encrypted data field</source>
-        <translation>Invalid cipher list within encrypted data field</translation>
+        <translation type="vanished">Invalid cipher list within encrypted data field</translation>
     </message>
     <message>
         <source>Cannot initialize cipher</source>
-        <translation>Cannot initialize cipher</translation>
+        <translation type="vanished">Cannot initialize cipher</translation>
     </message>
     <message>
         <source>Cannot decrypt data</source>
-        <translation>Cannot decrypt data</translation>
+        <translation type="vanished">Cannot decrypt data</translation>
     </message>
     <message>
         <source>Bitwarden Import</source>
-        <translation>Bitwarden Import</translation>
+        <translation type="vanished">Bitwarden Import</translation>
     </message>
     <message>
         <source>Archived</source>
         <comment>Tag for archived entries</comment>
-        <translation>Archived</translation>
+        <translation type="vanished">Archived</translation>
     </message>
     <message>
         <source>Invalid 1PUX file format: Not a valid ZIP file.</source>
-        <translation>Invalid 1PUX file format: Not a valid ZIP file.</translation>
+        <translation type="vanished">Invalid 1PUX file format: Not a valid ZIP file.</translation>
     </message>
     <message>
         <source>Invalid 1PUX file format: Missing export.data</source>
-        <translation>Invalid 1PUX file format: Missing export.data</translation>
+        <translation type="vanished">Invalid 1PUX file format: Missing export.data</translation>
     </message>
     <message>
         <source>1Password Import</source>
-        <translation>1Password Import</translation>
+        <translation type="vanished">1Password Import</translation>
     </message>
     <message>
         <source>Enter Shortcut</source>
-        <translation>Enter Shortcut</translation>
+        <translation type="vanished">Enter Shortcut</translation>
     </message>
     <message>
         <source>Action</source>
-        <translation>Action</translation>
+        <translation type="vanished">Action</translation>
     </message>
     <message>
         <source>Shortcuts</source>
-        <translation>Shortcuts</translation>
+        <translation type="vanished">Shortcuts</translation>
     </message>
     <message>
         <source>Unknown passkeys error</source>
-        <translation>Unknown passkeys error</translation>
+        <translation type="vanished">Unknown passkeys error</translation>
     </message>
     <message>
         <source>Invalid KDF iterations, cannot decrypt json file</source>
-        <translation>Invalid KDF iterations, cannot decrypt json file</translation>
+        <translation type="vanished">Invalid KDF iterations, cannot decrypt json file</translation>
     </message>
     <message>
         <source>Unsupported format, ensure your Bitwarden export is password-protected</source>
-        <translation>Unsupported format, ensure your Bitwarden export is password-protected</translation>
+        <translation type="vanished">Unsupported format, ensure your Bitwarden export is password-protected</translation>
     </message>
     <message>
         <source>Only PBKDF and Argon2 are supported, cannot decrypt json file</source>
-        <translation>Only PBKDF and Argon2 are supported, cannot decrypt json file</translation>
+        <translation type="vanished">Only PBKDF and Argon2 are supported, cannot decrypt json file</translation>
     </message>
     <message>
         <source>Reset Shortcuts</source>
-        <translation>Reset Shortcuts</translation>
+        <translation type="vanished">Reset Shortcuts</translation>
     </message>
     <message>
         <source>Double click an action to change its shortcut</source>
-        <translation>Double click an action to change its shortcut</translation>
+        <translation type="vanished">Double click an action to change its shortcut</translation>
     </message>
     <message>
         <source>Filter...</source>
-        <translation>Filter...</translation>
+        <translation type="vanished">Filter...</translation>
     </message>
     <message>
         <source>Shortcut Conflict</source>
-        <translation>Shortcut Conflict</translation>
+        <translation type="vanished">Shortcut Conflict</translation>
     </message>
     <message>
         <source>Shortcut %1 conflicts with &apos;%2&apos;. Overwrite shortcut?</source>
-        <translation>Shortcut %1 conflicts with &apos;%2&apos;. Overwrite shortcut?</translation>
+        <translation type="vanished">Shortcut %1 conflicts with &apos;%2&apos;. Overwrite shortcut?</translation>
     </message>
     <message>
         <source>Encrypted files are not supported.</source>
-        <translation>Encrypted files are not supported.</translation>
+        <translation type="vanished">Encrypted files are not supported.</translation>
     </message>
     <message>
         <source>Proton Pass Import</source>
-        <translation>Proton Pass Import</translation>
+        <translation type="vanished">Proton Pass Import</translation>
     </message>
     <message>
         <source>Passkey</source>
-        <translation>Passkey</translation>
+        <translation type="vanished">Passkey</translation>
     </message>
     <message>
         <source>Format to use when exporting. Available choices are &apos;xml&apos;, &apos;csv&apos; or &apos;html&apos;. Defaults to &apos;xml&apos;.</source>
-        <translation>Format to use when exporting. Available choices are &apos;xml&apos;, &apos;csv&apos; or &apos;html&apos;. Defaults to &apos;xml&apos;.</translation>
+        <translation type="vanished">Format to use when exporting. Available choices are &apos;xml&apos;, &apos;csv&apos; or &apos;html&apos;. Defaults to &apos;xml&apos;.</translation>
     </message>
     <message>
         <source>start minimized to the system tray</source>
-        <translation>start minimized to the system tray</translation>
+        <translation type="vanished">start minimized to the system tray</translation>
     </message>
     <message>
         <source>malformed string, possible unescaped delimiter</source>
-        <translation>malformed string, possible unescaped delimiter</translation>
+        <translation type="vanished">malformed string, possible unescaped delimiter</translation>
     </message>
     <message>
         <source>missing closing delimiter</source>
-        <translation>missing closing delimiter</translation>
+        <translation type="vanished">missing closing delimiter</translation>
     </message>
     <message>
         <source>%1, row: %2, column: %3</source>
-        <translation>%1, row: %2, column: %3</translation>
+        <translation type="vanished">%1, row: %2, column: %3</translation>
     </message>
     <message>
         <source>Tags</source>
-        <translation>Tags</translation>
+        <translation type="vanished">Tags</translation>
     </message>
     <message>
         <source>Warning: the chosen wordlist is smaller than the minimum recommended size!</source>
-        <translation>Warning: the chosen wordlist is smaller than the minimum recommended size!</translation>
+        <translation type="vanished">Warning: the chosen wordlist is smaller than the minimum recommended size!</translation>
     </message>
     <message>
         <source>Invalid Step</source>
         <comment>TOTP</comment>
-        <translation>Invalid Step</translation>
+        <translation type="vanished">Invalid Step</translation>
     </message>
     <message>
         <source>Invalid Digits</source>
         <comment>TOTP</comment>
-        <translation>Invalid Digits</translation>
+        <translation type="vanished">Invalid Digits</translation>
     </message>
     <message numerus="yes">
         <source>%1 character(s)</source>
-        <translation><numerusform>%1 character(s)</numerusform><numerusform>%1 character(s)</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>%1 character(s)</numerusform>
+            <numerusform>%1 character(s)</numerusform>
+        </translation>
     </message>
     <message>
         <source>Do you really want to permanently delete the entry &quot;%1&quot;?</source>
-        <translation>Do you really want to permanently delete the entry &quot;%1&quot;?</translation>
+        <translation type="vanished">Do you really want to permanently delete the entry &quot;%1&quot;?</translation>
     </message>
     <message numerus="yes">
         <source>Do you really want to permanently delete %n entry(s)?</source>
-        <translation><numerusform>Do you really want to permanently delete %n entry(s)?</numerusform><numerusform>Do you really want to permanently delete %n entry(s)?</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>Do you really want to permanently delete %n entry(s)?</numerusform>
+            <numerusform>Do you really want to permanently delete %n entry(s)?</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>Confirm Delete Entry(s)</source>
-        <translation><numerusform>Confirm Delete Entry(s)</numerusform><numerusform>Confirm Delete Entry(s)</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>Confirm Delete Entry(s)</numerusform>
+            <numerusform>Confirm Delete Entry(s)</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>Confirm Recycle Entry(s)</source>
-        <translation><numerusform>Confirm Recycle Entry(s)</numerusform><numerusform>Confirm Recycle Entry(s)</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>Confirm Recycle Entry(s)</numerusform>
+            <numerusform>Confirm Recycle Entry(s)</numerusform>
+        </translation>
     </message>
     <message>
         <source>Confirm Delete Plugin Data</source>
-        <translation>Confirm Delete Plugin Data</translation>
+        <translation type="vanished">Confirm Delete Plugin Data</translation>
     </message>
     <message numerus="yes">
         <source>Delete plugin data from the selected entry(s)?</source>
-        <translation><numerusform>Delete plugin data from the selected entry(s)?</numerusform><numerusform>Delete plugin data from the selected entry(s)?</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>Delete plugin data from the selected entry(s)?</numerusform>
+            <numerusform>Delete plugin data from the selected entry(s)?</numerusform>
+        </translation>
     </message>
     <message>
         <source>Confirm Replace Entry References</source>
-        <translation>Confirm Replace Entry References</translation>
+        <translation type="vanished">Confirm Replace Entry References</translation>
     </message>
 </context>
 <context>
     <name>QtIOCompressor</name>
     <message>
         <source>Internal zlib error when compressing: </source>
-        <translation>Internal zlib error when compressing: </translation>
+        <translation type="vanished">Internal zlib error when compressing: </translation>
     </message>
     <message>
         <source>Error writing to underlying device: </source>
-        <translation>Error writing to underlying device: </translation>
+        <translation type="vanished">Error writing to underlying device: </translation>
     </message>
     <message>
         <source>Error opening underlying device: </source>
-        <translation>Error opening underlying device: </translation>
+        <translation type="vanished">Error opening underlying device: </translation>
     </message>
     <message>
         <source>Error reading data from underlying device: </source>
-        <translation>Error reading data from underlying device: </translation>
+        <translation type="vanished">Error reading data from underlying device: </translation>
     </message>
     <message>
         <source>Internal zlib error when decompressing: </source>
-        <translation>Internal zlib error when decompressing: </translation>
+        <translation type="vanished">Internal zlib error when decompressing: </translation>
     </message>
 </context>
 <context>
     <name>QtIOCompressor::open</name>
     <message>
         <source>The gzip format not supported in this version of zlib.</source>
-        <translation>The gzip format not supported in this version of zlib.</translation>
+        <translation type="vanished">The gzip format not supported in this version of zlib.</translation>
     </message>
     <message>
         <source>Internal zlib error: </source>
-        <translation>Internal zlib error: </translation>
+        <translation type="vanished">Internal zlib error: </translation>
     </message>
 </context>
 <context>
     <name>RemoteHandler</name>
     <message>
         <source>Command `%1` did not finish in time. Process was killed.</source>
-        <translation>Command `%1` did not finish in time. Process was killed.</translation>
+        <translation type="vanished">Command `%1` did not finish in time. Process was killed.</translation>
     </message>
     <message>
         <source>Failed to upload merged database. Command `%1` did not finish in time. Process was killed.</source>
-        <translation>Failed to upload merged database. Command `%1` did not finish in time. Process was killed.</translation>
+        <translation type="vanished">Failed to upload merged database. Command `%1` did not finish in time. Process was killed.</translation>
     </message>
     <message>
         <source>Invalid download parameters provided.</source>
-        <translation>Invalid download parameters provided.</translation>
+        <translation type="vanished">Invalid download parameters provided.</translation>
     </message>
     <message>
         <source>Command `%1` failed to download database.</source>
-        <translation>Command `%1` failed to download database.</translation>
+        <translation type="vanished">Command `%1` failed to download database.</translation>
     </message>
     <message>
         <source>Invalid database pointer or upload parameters provided.</source>
-        <translation>Invalid database pointer or upload parameters provided.</translation>
+        <translation type="vanished">Invalid database pointer or upload parameters provided.</translation>
     </message>
     <message>
         <source>Command `%1` exited with status code: %2</source>
-        <translation>Command `%1` exited with status code: %2</translation>
+        <translation type="vanished">Command `%1` exited with status code: %2</translation>
     </message>
     <message>
         <source>Failed to upload merged database. Command `%1` exited with status code: %2</source>
-        <translation>Failed to upload merged database. Command `%1` exited with status code: %2</translation>
+        <translation type="vanished">Failed to upload merged database. Command `%1` exited with status code: %2</translation>
     </message>
 </context>
 <context>
     <name>ReportsWidgetBrowserStatistics</name>
     <message>
         <source>Double-click entries to edit.</source>
-        <translation>Double-click entries to edit.</translation>
+        <translation type="vanished">Double-click entries to edit.</translation>
     </message>
     <message>
         <source>List of entry URLs</source>
-        <translation>List of entry URLs</translation>
+        <translation type="vanished">List of entry URLs</translation>
     </message>
     <message>
         <source>Entry has no URLs set</source>
-        <translation>Entry has no URLs set</translation>
+        <translation type="vanished">Entry has no URLs set</translation>
     </message>
     <message>
         <source>Allowed URLs</source>
-        <translation>Allowed URLs</translation>
+        <translation type="vanished">Allowed URLs</translation>
     </message>
     <message>
         <source>Entry has no Browser Integration settings</source>
-        <translation>Entry has no Browser Integration settings</translation>
+        <translation type="vanished">Entry has no Browser Integration settings</translation>
     </message>
     <message>
         <source>Denied URLs</source>
-        <translation>Denied URLs</translation>
+        <translation type="vanished">Denied URLs</translation>
     </message>
     <message>
         <source> (Excluded)</source>
-        <translation> (Excluded)</translation>
+        <translation type="vanished"> (Excluded)</translation>
     </message>
     <message>
         <source>This entry is being excluded from reports</source>
-        <translation>This entry is being excluded from reports</translation>
+        <translation type="vanished">This entry is being excluded from reports</translation>
     </message>
     <message>
         <source>Please wait, browser statistics is being calculated…</source>
-        <translation>Please wait, browser statistics is being calculated…</translation>
+        <translation type="vanished">Please wait, browser statistics is being calculated…</translation>
     </message>
     <message>
         <source>No entries with a URL, or none has browser extension settings saved.</source>
-        <translation>No entries with a URL, or none has browser extension settings saved.</translation>
+        <translation type="vanished">No entries with a URL, or none has browser extension settings saved.</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation>Title</translation>
+        <translation type="vanished">Title</translation>
     </message>
     <message>
         <source>Path</source>
-        <translation>Path</translation>
+        <translation type="vanished">Path</translation>
     </message>
     <message>
         <source>URLs</source>
-        <translation>URLs</translation>
+        <translation type="vanished">URLs</translation>
     </message>
     <message>
         <source>Edit Entry…</source>
-        <translation>Edit Entry…</translation>
+        <translation type="vanished">Edit Entry…</translation>
     </message>
     <message numerus="yes">
         <source>Delete Entry(s)…</source>
-        <translation><numerusform>Delete Entry…</numerusform><numerusform>Delete Entries…</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>Delete Entry…</numerusform>
+            <numerusform>Delete Entries…</numerusform>
+        </translation>
     </message>
     <message>
         <source>Exclude from reports</source>
-        <translation>Exclude from reports</translation>
+        <translation type="vanished">Exclude from reports</translation>
     </message>
     <message numerus="yes">
         <source>Expire Entry(s)…</source>
-        <translation><numerusform>Expire Entry…</numerusform><numerusform>Expire Entries…</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>Expire Entry…</numerusform>
+            <numerusform>Expire Entries…</numerusform>
+        </translation>
     </message>
     <message>
         <source>Only show entries that have a URL</source>
-        <translation>Only show entries that have a URL</translation>
+        <translation type="vanished">Only show entries that have a URL</translation>
     </message>
     <message>
         <source>Only show entries that have been explicitly allowed or denied</source>
-        <translation>Only show entries that have been explicitly allowed or denied</translation>
+        <translation type="vanished">Only show entries that have been explicitly allowed or denied</translation>
     </message>
     <message>
         <source>Show expired entries</source>
-        <translation>Show expired entries</translation>
+        <translation type="vanished">Show expired entries</translation>
     </message>
     <message>
         <source> (Expired)</source>
-        <translation> (Expired)</translation>
+        <translation type="vanished"> (Expired)</translation>
     </message>
     <message numerus="yes">
         <source>Delete plugin data from Entry(s)…</source>
-        <translation><numerusform>Delete plugin data from Entry…</numerusform><numerusform>Delete plugin data from Entries…</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>Delete plugin data from Entry…</numerusform>
+            <numerusform>Delete plugin data from Entries…</numerusform>
+        </translation>
     </message>
 </context>
 <context>
     <name>ReportsWidgetHealthcheck</name>
     <message>
         <source>Show expired entries</source>
-        <translation>Show expired entries</translation>
+        <translation type="vanished">Show expired entries</translation>
     </message>
     <message>
         <source> (Expired)</source>
-        <translation> (Expired)</translation>
+        <translation type="vanished"> (Expired)</translation>
     </message>
     <message>
         <source>Hover over reason to show additional details. Double-click entries to edit.</source>
-        <translation>Hover over reason to show additional details. Double-click entries to edit.</translation>
+        <translation type="vanished">Hover over reason to show additional details. Double-click entries to edit.</translation>
     </message>
     <message>
         <source>Bad — password must be changed</source>
-        <translation>Bad — password must be changed</translation>
+        <translation type="vanished">Bad — password must be changed</translation>
     </message>
     <message>
         <source>Poor — password should be changed</source>
-        <translation>Poor — password should be changed</translation>
+        <translation type="vanished">Poor — password should be changed</translation>
     </message>
     <message>
         <source>Weak — consider changing the password</source>
-        <translation>Weak — consider changing the password</translation>
+        <translation type="vanished">Weak — consider changing the password</translation>
     </message>
     <message>
         <source> (Excluded)</source>
-        <translation> (Excluded)</translation>
+        <translation type="vanished"> (Excluded)</translation>
     </message>
     <message>
         <source>This entry is being excluded from reports</source>
-        <translation>This entry is being excluded from reports</translation>
+        <translation type="vanished">This entry is being excluded from reports</translation>
     </message>
     <message>
         <source>Please wait, health data is being calculated…</source>
-        <translation>Please wait, health data is being calculated…</translation>
+        <translation type="vanished">Please wait, health data is being calculated…</translation>
     </message>
     <message>
         <source>Congratulations, everything is healthy!</source>
-        <translation>Congratulations, everything is healthy!</translation>
+        <translation type="vanished">Congratulations, everything is healthy!</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation>Title</translation>
+        <translation type="vanished">Title</translation>
     </message>
     <message>
         <source>Path</source>
-        <translation>Path</translation>
+        <translation type="vanished">Path</translation>
     </message>
     <message>
         <source>Score</source>
-        <translation>Score</translation>
+        <translation type="vanished">Score</translation>
     </message>
     <message>
         <source>Reason</source>
-        <translation>Reason</translation>
+        <translation type="vanished">Reason</translation>
     </message>
     <message>
         <source>Edit Entry…</source>
-        <translation>Edit Entry…</translation>
+        <translation type="vanished">Edit Entry…</translation>
     </message>
     <message numerus="yes">
         <source>Delete Entry(s)…</source>
-        <translation><numerusform>Delete Entry…</numerusform><numerusform>Delete Entries…</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>Delete Entry…</numerusform>
+            <numerusform>Delete Entries…</numerusform>
+        </translation>
     </message>
     <message>
         <source>Exclude from reports</source>
-        <translation>Exclude from reports</translation>
+        <translation type="vanished">Exclude from reports</translation>
     </message>
     <message numerus="yes">
         <source>Expire Entry(s)…</source>
-        <translation><numerusform>Expire Entry…</numerusform><numerusform>Expire Entries…</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>Expire Entry…</numerusform>
+            <numerusform>Expire Entries…</numerusform>
+        </translation>
     </message>
     <message>
         <source>Show entries that have been excluded from reports</source>
-        <translation>Show entries that have been excluded from reports</translation>
+        <translation type="vanished">Show entries that have been excluded from reports</translation>
     </message>
 </context>
 <context>
     <name>ReportsWidgetHibp</name>
     <message>
         <source>CAUTION: This report requires sending information to the Have I Been Pwned online service (https://haveibeenpwned.com). If you proceed, your database passwords will be cryptographically hashed and the first five characters of those hashes will be sent securely to this service. Your database remains secure and cannot be reconstituted from this information. However, the number of passwords you send and your IP address will be exposed to this service.</source>
-        <translation>CAUTION: This report requires sending information to the Have I Been Pwned online service (https://haveibeenpwned.com). If you proceed, your database passwords will be cryptographically hashed and the first five characters of those hashes will be sent securely to this service. Your database remains secure and cannot be reconstituted from this information. However, the number of passwords you send and your IP address will be exposed to this service.</translation>
+        <translation type="vanished">CAUTION: This report requires sending information to the Have I Been Pwned online service (https://haveibeenpwned.com). If you proceed, your database passwords will be cryptographically hashed and the first five characters of those hashes will be sent securely to this service. Your database remains secure and cannot be reconstituted from this information. However, the number of passwords you send and your IP address will be exposed to this service.</translation>
     </message>
     <message>
         <source>Perform Online Analysis</source>
-        <translation>Perform Online Analysis</translation>
+        <translation type="vanished">Perform Online Analysis</translation>
     </message>
     <message>
         <source>Also show entries that have been excluded from reports</source>
-        <translation>Also show entries that have been excluded from reports</translation>
+        <translation type="vanished">Also show entries that have been excluded from reports</translation>
     </message>
     <message>
         <source>This build of KeePassXC does not have network functions. Networking is required to check your passwords against Have I Been Pwned databases.</source>
-        <translation>This build of KeePassXC does not have network functions. Networking is required to check your passwords against Have I Been Pwned databases.</translation>
+        <translation type="vanished">This build of KeePassXC does not have network functions. Networking is required to check your passwords against Have I Been Pwned databases.</translation>
     </message>
     <message>
         <source>Congratulations, no exposed passwords!</source>
-        <translation>Congratulations, no exposed passwords!</translation>
+        <translation type="vanished">Congratulations, no exposed passwords!</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation>Title</translation>
+        <translation type="vanished">Title</translation>
     </message>
     <message>
         <source>Path</source>
-        <translation>Path</translation>
+        <translation type="vanished">Path</translation>
     </message>
     <message>
         <source>Password exposed…</source>
-        <translation>Password exposed…</translation>
+        <translation type="vanished">Password exposed…</translation>
     </message>
     <message>
         <source> (Excluded)</source>
-        <translation> (Excluded)</translation>
+        <translation type="vanished"> (Excluded)</translation>
     </message>
     <message>
         <source>This entry is being excluded from reports</source>
-        <translation>This entry is being excluded from reports</translation>
+        <translation type="vanished">This entry is being excluded from reports</translation>
     </message>
     <message>
         <source>once</source>
         <comment>Password exposure amount</comment>
-        <translation>once</translation>
+        <translation type="vanished">once</translation>
     </message>
     <message>
         <source>up to 10 times</source>
         <comment>Password exposure amount</comment>
-        <translation>up to 10 times</translation>
+        <translation type="vanished">up to 10 times</translation>
     </message>
     <message>
         <source>up to 100 times</source>
         <comment>Password exposure amount</comment>
-        <translation>up to 100 times</translation>
+        <translation type="vanished">up to 100 times</translation>
     </message>
     <message>
         <source>up to 1000 times</source>
         <comment>Password exposure amount</comment>
-        <translation>up to 1000 times</translation>
+        <translation type="vanished">up to 1000 times</translation>
     </message>
     <message>
         <source>up to 10,000 times</source>
         <comment>Password exposure amount</comment>
-        <translation>up to 10,000 times</translation>
+        <translation type="vanished">up to 10,000 times</translation>
     </message>
     <message>
         <source>up to 100,000 times</source>
         <comment>Password exposure amount</comment>
-        <translation>up to 100,000 times</translation>
+        <translation type="vanished">up to 100,000 times</translation>
     </message>
     <message>
         <source>up to a million times</source>
         <comment>Password exposure amount</comment>
-        <translation>up to a million times</translation>
+        <translation type="vanished">up to a million times</translation>
     </message>
     <message>
         <source>millions of times</source>
         <comment>Password exposure amount</comment>
-        <translation>millions of times</translation>
+        <translation type="vanished">millions of times</translation>
     </message>
     <message>
         <source>Edit Entry…</source>
-        <translation>Edit Entry…</translation>
+        <translation type="vanished">Edit Entry…</translation>
     </message>
     <message numerus="yes">
         <source>Delete Entry(s)…</source>
-        <translation><numerusform>Delete Entry…</numerusform><numerusform>Delete Entries…</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>Delete Entry…</numerusform>
+            <numerusform>Delete Entries…</numerusform>
+        </translation>
     </message>
     <message>
         <source>Exclude from reports</source>
-        <translation>Exclude from reports</translation>
+        <translation type="vanished">Exclude from reports</translation>
     </message>
     <message numerus="yes">
         <source>Expire Entry(s)…</source>
-        <translation><numerusform>Expire Entry…</numerusform><numerusform>Expire Entries…</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>Expire Entry…</numerusform>
+            <numerusform>Expire Entries…</numerusform>
+        </translation>
     </message>
 </context>
 <context>
     <name>ReportsWidgetPasskeys</name>
     <message>
         <source>Export</source>
-        <translation>Export</translation>
+        <translation type="vanished">Export</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation>Import</translation>
+        <translation type="vanished">Import</translation>
     </message>
     <message>
         <source>List of entry URLs</source>
-        <translation>List of entry URLs</translation>
+        <translation type="vanished">List of entry URLs</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation>Title</translation>
+        <translation type="vanished">Title</translation>
     </message>
     <message>
         <source>Path</source>
-        <translation>Path</translation>
+        <translation type="vanished">Path</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Username</translation>
+        <translation type="vanished">Username</translation>
     </message>
     <message>
         <source>URLs</source>
-        <translation>URLs</translation>
+        <translation type="vanished">URLs</translation>
     </message>
     <message>
         <source>Edit Entry…</source>
-        <translation>Edit Entry…</translation>
+        <translation type="vanished">Edit Entry…</translation>
     </message>
     <message numerus="yes">
         <source>Delete Entry(s)…</source>
-        <translation><numerusform>Delete Entry…</numerusform><numerusform>Delete Entries…</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>Delete Entry…</numerusform>
+            <numerusform>Delete Entries…</numerusform>
+        </translation>
     </message>
     <message>
         <source>Relying Party</source>
-        <translation>Relying Party</translation>
+        <translation type="vanished">Relying Party</translation>
     </message>
     <message>
         <source>Show expired entries</source>
-        <translation>Show expired entries</translation>
+        <translation type="vanished">Show expired entries</translation>
     </message>
     <message>
         <source> (Expired)</source>
-        <translation> (Expired)</translation>
+        <translation type="vanished"> (Expired)</translation>
     </message>
     <message>
         <source>Export Confirmation</source>
-        <translation>Export Confirmation</translation>
+        <translation type="vanished">Export Confirmation</translation>
     </message>
     <message>
         <source>The passkey file will be vulnerable to theft and unauthorized use, if left unsecured. Are you sure you want to continue?</source>
-        <translation>The passkey file will be vulnerable to theft and unauthorized use, if left unsecured. Are you sure you want to continue?</translation>
+        <translation type="vanished">The passkey file will be vulnerable to theft and unauthorized use, if left unsecured. Are you sure you want to continue?</translation>
     </message>
     <message>
         <source>Please wait, list of entries with passkeys is being updated…</source>
-        <translation>Please wait, list of entries with passkeys is being updated…</translation>
+        <translation type="vanished">Please wait, list of entries with passkeys is being updated…</translation>
     </message>
     <message>
         <source>No entries with passkeys.</source>
-        <translation>No entries with passkeys.</translation>
+        <translation type="vanished">No entries with passkeys.</translation>
     </message>
 </context>
 <context>
     <name>ReportsWidgetStatistics</name>
     <message>
         <source>Hover over lines with error icons for further information.</source>
-        <translation>Hover over lines with error icons for further information.</translation>
+        <translation type="vanished">Hover over lines with error icons for further information.</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Name</translation>
+        <translation type="vanished">Name</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>Value</translation>
+        <translation type="vanished">Value</translation>
     </message>
     <message>
         <source>Please wait, database statistics are being calculated…</source>
-        <translation>Please wait, database statistics are being calculated…</translation>
+        <translation type="vanished">Please wait, database statistics are being calculated…</translation>
     </message>
     <message>
         <source>Database name</source>
-        <translation>Database name</translation>
+        <translation type="vanished">Database name</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation>Description</translation>
+        <translation type="vanished">Description</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation>Location</translation>
+        <translation type="vanished">Location</translation>
     </message>
     <message>
         <source>Database created</source>
-        <translation>Database created</translation>
+        <translation type="vanished">Database created</translation>
     </message>
     <message>
         <source>Last saved</source>
-        <translation>Last saved</translation>
+        <translation type="vanished">Last saved</translation>
     </message>
     <message>
         <source>Unsaved changes</source>
-        <translation>Unsaved changes</translation>
+        <translation type="vanished">Unsaved changes</translation>
     </message>
     <message>
         <source>yes</source>
-        <translation>yes</translation>
+        <translation type="vanished">yes</translation>
     </message>
     <message>
         <source>no</source>
-        <translation>no</translation>
+        <translation type="vanished">no</translation>
     </message>
     <message>
         <source>The database was modified, but the changes have not yet been saved to disk.</source>
-        <translation>The database was modified, but the changes have not yet been saved to disk.</translation>
+        <translation type="vanished">The database was modified, but the changes have not yet been saved to disk.</translation>
     </message>
     <message>
         <source>Number of groups</source>
-        <translation>Number of groups</translation>
+        <translation type="vanished">Number of groups</translation>
     </message>
     <message>
         <source>Number of entries</source>
-        <translation>Number of entries</translation>
+        <translation type="vanished">Number of entries</translation>
     </message>
     <message>
         <source>Number of expired entries</source>
-        <translation>Number of expired entries</translation>
+        <translation type="vanished">Number of expired entries</translation>
     </message>
     <message>
         <source>The database contains entries that have expired.</source>
-        <translation>The database contains entries that have expired.</translation>
+        <translation type="vanished">The database contains entries that have expired.</translation>
     </message>
     <message>
         <source>Unique passwords</source>
-        <translation>Unique passwords</translation>
+        <translation type="vanished">Unique passwords</translation>
     </message>
     <message>
         <source>Non-unique passwords</source>
-        <translation>Non-unique passwords</translation>
+        <translation type="vanished">Non-unique passwords</translation>
     </message>
     <message>
         <source>More than 10% of passwords are reused. Use unique passwords when possible.</source>
-        <translation>More than 10% of passwords are reused. Use unique passwords when possible.</translation>
+        <translation type="vanished">More than 10% of passwords are reused. Use unique passwords when possible.</translation>
     </message>
     <message>
         <source>Maximum password reuse</source>
-        <translation>Maximum password reuse</translation>
+        <translation type="vanished">Maximum password reuse</translation>
     </message>
     <message>
         <source>Some passwords are used more than three times. Use unique passwords when possible.</source>
-        <translation>Some passwords are used more than three times. Use unique passwords when possible.</translation>
+        <translation type="vanished">Some passwords are used more than three times. Use unique passwords when possible.</translation>
     </message>
     <message>
         <source>Number of short passwords</source>
-        <translation>Number of short passwords</translation>
+        <translation type="vanished">Number of short passwords</translation>
     </message>
     <message>
         <source>Recommended minimum password length is at least 8 characters.</source>
-        <translation>Recommended minimum password length is at least 8 characters.</translation>
+        <translation type="vanished">Recommended minimum password length is at least 8 characters.</translation>
     </message>
     <message>
         <source>Number of weak passwords</source>
-        <translation>Number of weak passwords</translation>
+        <translation type="vanished">Number of weak passwords</translation>
     </message>
     <message>
         <source>Recommend using long, randomized passwords with a rating of &apos;good&apos; or &apos;excellent&apos;.</source>
-        <translation>Recommend using long, randomized passwords with a rating of &apos;good&apos; or &apos;excellent&apos;.</translation>
+        <translation type="vanished">Recommend using long, randomized passwords with a rating of &apos;good&apos; or &apos;excellent&apos;.</translation>
     </message>
     <message>
         <source>Entries excluded from reports</source>
-        <translation>Entries excluded from reports</translation>
+        <translation type="vanished">Entries excluded from reports</translation>
     </message>
     <message>
         <source>Excluding entries from reports, e. g. because they are known to have a poor password, isn&apos;t necessarily a problem but you should keep an eye on them.</source>
-        <translation>Excluding entries from reports, e. g. because they are known to have a poor password, isn&apos;t necessarily a problem but you should keep an eye on them.</translation>
+        <translation type="vanished">Excluding entries from reports, e. g. because they are known to have a poor password, isn&apos;t necessarily a problem but you should keep an eye on them.</translation>
     </message>
     <message>
         <source>Average password length</source>
-        <translation>Average password length</translation>
+        <translation type="vanished">Average password length</translation>
     </message>
     <message>
         <source>Average password length is less than ten characters. Longer passwords provide more security.</source>
-        <translation>Average password length is less than ten characters. Longer passwords provide more security.</translation>
+        <translation type="vanished">Average password length is less than ten characters. Longer passwords provide more security.</translation>
     </message>
     <message numerus="yes">
         <source>%1 character(s)</source>
-        <translation><numerusform>%1 character(s)</numerusform><numerusform>%1 character(s)</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>%1 character(s)</numerusform>
+            <numerusform>%1 character(s)</numerusform>
+        </translation>
     </message>
 </context>
 <context>
     <name>SSHAgent</name>
     <message>
         <source>Agent connection failed.</source>
-        <translation>Agent connection failed.</translation>
+        <translation type="vanished">Agent connection failed.</translation>
     </message>
     <message>
         <source>Agent protocol error.</source>
-        <translation>Agent protocol error.</translation>
+        <translation type="vanished">Agent protocol error.</translation>
     </message>
     <message>
         <source>No agent running, cannot add identity.</source>
-        <translation>No agent running, cannot add identity.</translation>
+        <translation type="vanished">No agent running, cannot add identity.</translation>
     </message>
     <message>
         <source>Key identity ownership conflict. Refusing to add.</source>
-        <translation>Key identity ownership conflict. Refusing to add.</translation>
+        <translation type="vanished">Key identity ownership conflict. Refusing to add.</translation>
     </message>
     <message>
         <source>Agent refused this identity. Possible reasons include:</source>
-        <translation>Agent refused this identity. Possible reasons include:</translation>
+        <translation type="vanished">Agent refused this identity. Possible reasons include:</translation>
     </message>
     <message>
         <source>The key has already been added.</source>
-        <translation>The key has already been added.</translation>
+        <translation type="vanished">The key has already been added.</translation>
     </message>
     <message>
         <source>Restricted lifetime is not supported by the agent (check options).</source>
-        <translation>Restricted lifetime is not supported by the agent (check options).</translation>
+        <translation type="vanished">Restricted lifetime is not supported by the agent (check options).</translation>
     </message>
     <message>
         <source>A confirmation request is not supported by the agent (check options).</source>
-        <translation>A confirmation request is not supported by the agent (check options).</translation>
+        <translation type="vanished">A confirmation request is not supported by the agent (check options).</translation>
     </message>
     <message>
         <source>Security keys are not supported by the agent or the security key provider is unavailable.</source>
-        <translation>Security keys are not supported by the agent or the security key provider is unavailable.</translation>
+        <translation type="vanished">Security keys are not supported by the agent or the security key provider is unavailable.</translation>
     </message>
     <message>
         <source>No agent running, cannot remove identity.</source>
-        <translation>No agent running, cannot remove identity.</translation>
+        <translation type="vanished">No agent running, cannot remove identity.</translation>
     </message>
     <message>
         <source>No agent running, cannot list identities.</source>
-        <translation>No agent running, cannot list identities.</translation>
+        <translation type="vanished">No agent running, cannot list identities.</translation>
     </message>
     <message>
         <source>Failed to remove all SSH identities from agent.</source>
-        <translation>Failed to remove all SSH identities from agent.</translation>
+        <translation type="vanished">Failed to remove all SSH identities from agent.</translation>
     </message>
     <message>
         <source>All SSH identities removed from agent.</source>
-        <translation>All SSH identities removed from agent.</translation>
+        <translation type="vanished">All SSH identities removed from agent.</translation>
     </message>
 </context>
 <context>
     <name>SearchHelpWidget</name>
     <message>
         <source>Search Help</source>
-        <translation>Search Help</translation>
+        <translation type="vanished">Search Help</translation>
     </message>
     <message>
         <source>Search terms are as follows: [modifiers][field:][&quot;]term[&quot;]</source>
-        <translation>Search terms are as follows: [modifiers][field:][&quot;]term[&quot;]</translation>
+        <translation type="vanished">Search terms are as follows: [modifiers][field:][&quot;]term[&quot;]</translation>
     </message>
     <message>
         <source>Every search term must match (ie, logical AND)</source>
-        <translation>Every search term must match (ie, logical AND)</translation>
+        <translation type="vanished">Every search term must match (ie, logical AND)</translation>
     </message>
     <message>
         <source>Modifiers</source>
-        <translation>Modifiers</translation>
+        <translation type="vanished">Modifiers</translation>
     </message>
     <message>
         <source>exclude term from results</source>
-        <translation>exclude term from results</translation>
+        <translation type="vanished">exclude term from results</translation>
     </message>
     <message>
         <source>match term exactly</source>
-        <translation>match term exactly</translation>
+        <translation type="vanished">match term exactly</translation>
     </message>
     <message>
         <source>use regex in term</source>
-        <translation>use regex in term</translation>
+        <translation type="vanished">use regex in term</translation>
     </message>
     <message>
         <source>Fields</source>
-        <translation>Fields</translation>
+        <translation type="vanished">Fields</translation>
     </message>
     <message>
         <source>Term Wildcards</source>
-        <translation>Term Wildcards</translation>
+        <translation type="vanished">Term Wildcards</translation>
     </message>
     <message>
         <source>match anything</source>
-        <translation>match anything</translation>
+        <translation type="vanished">match anything</translation>
     </message>
     <message>
         <source>match one</source>
-        <translation>match one</translation>
+        <translation type="vanished">match one</translation>
     </message>
     <message>
         <source>logical OR</source>
-        <translation>logical OR</translation>
+        <translation type="vanished">logical OR</translation>
     </message>
     <message>
         <source>Examples</source>
-        <translation>Examples</translation>
+        <translation type="vanished">Examples</translation>
     </message>
 </context>
 <context>
     <name>SearchWidget</name>
     <message>
         <source>Search</source>
-        <translation>Search</translation>
+        <translation type="vanished">Search</translation>
     </message>
     <message>
         <source>Search Help</source>
-        <translation>Search Help</translation>
+        <translation type="vanished">Search Help</translation>
     </message>
     <message>
         <source>Save Search</source>
-        <translation>Save Search</translation>
+        <translation type="vanished">Save Search</translation>
     </message>
     <message>
         <source>Search (%1)…</source>
         <comment>Search placeholder text, %1 is the keyboard shortcut</comment>
-        <translation>Search (%1)…</translation>
+        <translation type="vanished">Search (%1)…</translation>
     </message>
     <message>
         <source>Case sensitive</source>
-        <translation>Case sensitive</translation>
+        <translation type="vanished">Case sensitive</translation>
     </message>
     <message>
         <source>Limit search to selected group</source>
-        <translation>Limit search to selected group</translation>
+        <translation type="vanished">Limit search to selected group</translation>
     </message>
     <message>
         <source>Press Enter to search</source>
-        <translation>Press Enter to search</translation>
+        <translation type="vanished">Press Enter to search</translation>
     </message>
 </context>
 <context>
     <name>SettingsClientModel</name>
     <message>
         <source>Application</source>
-        <translation>Application</translation>
+        <translation type="vanished">Application</translation>
     </message>
     <message>
         <source>PID</source>
-        <translation>PID</translation>
+        <translation type="vanished">PID</translation>
     </message>
     <message>
         <source>DBus Address</source>
-        <translation>DBus Address</translation>
+        <translation type="vanished">DBus Address</translation>
     </message>
     <message>
         <source>Manage</source>
-        <translation>Manage</translation>
+        <translation type="vanished">Manage</translation>
     </message>
 </context>
 <context>
     <name>SettingsDatabaseModel</name>
     <message>
         <source>File Name</source>
-        <translation>File Name</translation>
+        <translation type="vanished">File Name</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Group</translation>
+        <translation type="vanished">Group</translation>
     </message>
     <message>
         <source>Manage</source>
-        <translation>Manage</translation>
+        <translation type="vanished">Manage</translation>
     </message>
 </context>
 <context>
     <name>SettingsWidgetFdoSecrets</name>
     <message>
         <source>Options</source>
-        <translation>Options</translation>
+        <translation type="vanished">Options</translation>
     </message>
     <message>
         <source>Enable KeepassXC Freedesktop.org Secret Service integration</source>
-        <translation>Enable KeepassXC Freedesktop.org Secret Service integration</translation>
+        <translation type="vanished">Enable KeepassXC Freedesktop.org Secret Service integration</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>General</translation>
+        <translation type="vanished">General</translation>
     </message>
     <message>
         <source>Show notification when passwords are retrieved by clients</source>
-        <translation>Show notification when passwords are retrieved by clients</translation>
+        <translation type="vanished">Show notification when passwords are retrieved by clients</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If enabled, any attempt to read a password must be confirmed. Otherwise, clients can read passwords without confirmation when the database is unlocked.&lt;/p&gt;&lt;p&gt;This option only covers the access to the password of an entry. Clients can always enumerate the items of exposed databases and query their attributes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If enabled, any attempt to read a password must be confirmed. Otherwise, clients can read passwords without confirmation when the database is unlocked.&lt;/p&gt;&lt;p&gt;This option only covers the access to the password of an entry. Clients can always enumerate the items of exposed databases and query their attributes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If enabled, any attempt to read a password must be confirmed. Otherwise, clients can read passwords without confirmation when the database is unlocked.&lt;/p&gt;&lt;p&gt;This option only covers the access to the password of an entry. Clients can always enumerate the items of exposed databases and query their attributes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Confirm when passwords are retrieved by clients</source>
-        <translation>Confirm when passwords are retrieved by clients</translation>
+        <translation type="vanished">Confirm when passwords are retrieved by clients</translation>
     </message>
     <message>
         <source>Confirm when clients request entry deletion</source>
-        <translation>Confirm when clients request entry deletion</translation>
+        <translation type="vanished">Confirm when clients request entry deletion</translation>
     </message>
     <message>
         <source>Prompt to unlock database before searching</source>
-        <translation>Prompt to unlock database before searching</translation>
+        <translation type="vanished">Prompt to unlock database before searching</translation>
     </message>
     <message>
         <source>Exposed database groups:</source>
-        <translation>Exposed database groups:</translation>
+        <translation type="vanished">Exposed database groups:</translation>
     </message>
     <message>
         <source>Authorization</source>
-        <translation>Authorization</translation>
+        <translation type="vanished">Authorization</translation>
     </message>
     <message>
         <source>These applications are currently connected:</source>
-        <translation>These applications are currently connected:</translation>
+        <translation type="vanished">These applications are currently connected:</translation>
     </message>
     <message>
         <source>&lt;b&gt;Warning:&lt;/b&gt; </source>
-        <translation>&lt;b&gt;Warning:&lt;/b&gt; </translation>
+        <translation type="vanished">&lt;b&gt;Warning:&lt;/b&gt; </translation>
     </message>
     <message>
         <source>Save current changes to activate the plugin and enable editing of this section.</source>
-        <translation>Save current changes to activate the plugin and enable editing of this section.</translation>
+        <translation type="vanished">Save current changes to activate the plugin and enable editing of this section.</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This setting does not override disabling recycle bin prompts &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This setting does not override disabling recycle bin prompts &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This setting does not override disabling recycle bin prompts &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This improves compatibility with certain applications which search for password without unlocking the database first.&lt;/p&gt;&lt;p&gt;But enabling this may also crash the client if the database can not be unlocked within a certain timeout. (Usually 25s, but may be a different value set in applications.) &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This improves compatibility with certain applications which search for password without unlocking the database first.&lt;/p&gt;&lt;p&gt;But enabling this may also crash the client if the database can not be unlocked within a certain timeout. (Usually 25s, but may be a different value set in applications.) &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This improves compatibility with certain applications which search for password without unlocking the database first.&lt;/p&gt;&lt;p&gt;But enabling this may also crash the client if the database can not be unlocked within a certain timeout. (Usually 25s, but may be a different value set in applications.) &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
     <name>SettingsWidgetKeeShare</name>
     <message>
         <source>Active</source>
-        <translation>Active</translation>
+        <translation type="vanished">Active</translation>
     </message>
     <message>
         <source>Allow KeeShare imports</source>
-        <translation>Allow KeeShare imports</translation>
+        <translation type="vanished">Allow KeeShare imports</translation>
     </message>
     <message>
         <source>Allow import</source>
-        <translation>Allow import</translation>
+        <translation type="vanished">Allow import</translation>
     </message>
     <message>
         <source>Allow KeeShare exports</source>
-        <translation>Allow KeeShare exports</translation>
+        <translation type="vanished">Allow KeeShare exports</translation>
     </message>
     <message>
         <source>Allow export</source>
-        <translation>Allow export</translation>
+        <translation type="vanished">Allow export</translation>
     </message>
     <message>
         <source>Only show warnings and errors</source>
-        <translation>Only show warnings and errors</translation>
+        <translation type="vanished">Only show warnings and errors</translation>
     </message>
     <message>
         <source>Own certificate</source>
-        <translation>Personal certificate</translation>
+        <translation type="vanished">Personal certificate</translation>
     </message>
     <message>
         <source>Signer:</source>
-        <translation>Signer:</translation>
+        <translation type="vanished">Signer:</translation>
     </message>
     <message>
         <source>Generate new certificate</source>
-        <translation>Generate new certificate</translation>
+        <translation type="vanished">Generate new certificate</translation>
     </message>
     <message>
         <source>Generate</source>
-        <translation>Generate</translation>
+        <translation type="vanished">Generate</translation>
     </message>
     <message>
         <source>Fingerprint:</source>
-        <translation>Fingerprint:</translation>
+        <translation type="vanished">Fingerprint:</translation>
     </message>
     <message>
         <source>Signer name field</source>
-        <translation>Signer name field</translation>
+        <translation type="vanished">Signer name field</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation>Fingerprint</translation>
+        <translation type="vanished">Fingerprint</translation>
     </message>
 </context>
 <context>
     <name>ShareExport</name>
     <message>
         <source>Could not write export container.</source>
-        <translation>Could not write export container.</translation>
+        <translation type="vanished">Could not write export container.</translation>
     </message>
 </context>
 <context>
     <name>ShareImport</name>
     <message>
         <source>Successful import</source>
-        <translation>Successful import</translation>
+        <translation type="vanished">Successful import</translation>
     </message>
 </context>
 <context>
     <name>ShareObserver</name>
     <message>
         <source>Import from %1 failed (%2)</source>
-        <translation>Import from %1 failed (%2)</translation>
+        <translation type="vanished">Import from %1 failed (%2)</translation>
     </message>
     <message>
         <source>Import from %1 successful (%2)</source>
-        <translation>Import from %1 successful (%2)</translation>
+        <translation type="vanished">Import from %1 successful (%2)</translation>
     </message>
     <message>
         <source>Imported from %1</source>
-        <translation>Imported from %1</translation>
+        <translation type="vanished">Imported from %1</translation>
     </message>
     <message>
         <source>Multiple import source path to %1 in %2</source>
-        <translation>Multiple import source path to %1 in %2</translation>
+        <translation type="vanished">Multiple import source path to %1 in %2</translation>
     </message>
     <message>
         <source>Conflicting export target path %1 in %2</source>
-        <translation>Conflicting export target path %1 in %2</translation>
+        <translation type="vanished">Conflicting export target path %1 in %2</translation>
     </message>
     <message>
         <source>Export to %1 failed (%2)</source>
-        <translation>Export to %1 failed (%2)</translation>
+        <translation type="vanished">Export to %1 failed (%2)</translation>
     </message>
     <message>
         <source>Export to %1 successful (%2)</source>
-        <translation>Export to %1 successful (%2)</translation>
+        <translation type="vanished">Export to %1 successful (%2)</translation>
     </message>
     <message>
         <source>Export to %1</source>
-        <translation>Export to %1</translation>
+        <translation type="vanished">Export to %1</translation>
     </message>
 </context>
 <context>
     <name>TagModel</name>
     <message>
         <source>Clear Search</source>
-        <translation>Clear Search</translation>
+        <translation type="vanished">Clear Search</translation>
     </message>
     <message>
         <source>All Entries</source>
-        <translation>All Entries</translation>
+        <translation type="vanished">All Entries</translation>
     </message>
     <message>
         <source>Expired</source>
-        <translation>Expired</translation>
+        <translation type="vanished">Expired</translation>
     </message>
     <message>
         <source>Weak Passwords</source>
-        <translation>Weak Passwords</translation>
+        <translation type="vanished">Weak Passwords</translation>
     </message>
     <message>
         <source>TOTP Entries</source>
-        <translation>TOTP Entries</translation>
+        <translation type="vanished">TOTP Entries</translation>
     </message>
 </context>
 <context>
     <name>TagView</name>
     <message>
         <source>Remove Search</source>
-        <translation>Remove Search</translation>
+        <translation type="vanished">Remove Search</translation>
     </message>
     <message>
         <source>Remove Tag</source>
-        <translation>Remove Tag</translation>
+        <translation type="vanished">Remove Tag</translation>
     </message>
     <message>
         <source>Confirm Remove Tag</source>
-        <translation>Confirm Remove Tag</translation>
+        <translation type="vanished">Confirm Remove Tag</translation>
     </message>
     <message>
         <source>Remove tag &quot;%1&quot; from all entries in this database?</source>
-        <translation>Remove tag &quot;%1&quot; from all entries in this database?</translation>
+        <translation type="vanished">Remove tag &quot;%1&quot; from all entries in this database?</translation>
     </message>
 </context>
 <context>
     <name>TextAttachmentsEditWidget</name>
     <message>
         <source>Preview</source>
-        <translation>Preview</translation>
+        <translation type="vanished">Preview</translation>
     </message>
 </context>
 <context>
     <name>TextAttachmentsPreviewWidget</name>
     <message>
         <source>Form</source>
-        <translation>Form</translation>
+        <translation type="vanished">Form</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation>Type:</translation>
+        <translation type="vanished">Type:</translation>
     </message>
 </context>
 <context>
     <name>TotpDialog</name>
     <message>
         <source>Timed Password</source>
-        <translation>Timed Password</translation>
+        <translation type="vanished">Timed Password</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Copy</translation>
+        <translation type="vanished">Copy</translation>
     </message>
     <message numerus="yes">
         <source>Expires in &lt;b&gt;%n&lt;/b&gt; second(s)</source>
-        <translation><numerusform>Expires in &lt;b&gt;%n&lt;/b&gt; second</numerusform><numerusform>Expires in &lt;b&gt;%n&lt;/b&gt; seconds</numerusform></translation>
+        <translation type="vanished">
+            <numerusform>Expires in &lt;b&gt;%n&lt;/b&gt; second</numerusform>
+            <numerusform>Expires in &lt;b&gt;%n&lt;/b&gt; seconds</numerusform>
+        </translation>
     </message>
 </context>
 <context>
     <name>TotpExportSettingsDialog</name>
     <message>
         <source>Copy</source>
-        <translation>Copy</translation>
+        <translation type="vanished">Copy</translation>
     </message>
     <message>
         <source>NOTE: These TOTP settings are custom and may not work with other authenticators.</source>
         <comment>TOTP QR code dialog warning</comment>
-        <translation>NOTE: These TOTP settings are custom and may not work with other authenticators.</translation>
+        <translation type="vanished">NOTE: These TOTP settings are custom and may not work with other authenticators.</translation>
     </message>
     <message>
         <source>There was an error creating the QR code.</source>
-        <translation>There was an error creating the QR code.</translation>
+        <translation type="vanished">There was an error creating the QR code.</translation>
     </message>
     <message>
         <source>Closing in %1 seconds.</source>
-        <translation>Closing in %1 seconds.</translation>
+        <translation type="vanished">Closing in %1 seconds.</translation>
     </message>
 </context>
 <context>
     <name>TotpSetupDialog</name>
     <message>
         <source>Setup TOTP</source>
-        <translation>Setup TOTP</translation>
+        <translation type="vanished">Setup TOTP</translation>
     </message>
     <message>
         <source>Secret Key:</source>
-        <translation>Secret Key:</translation>
+        <translation type="vanished">Secret Key:</translation>
     </message>
     <message>
         <source>Secret key must be in Base32 format</source>
-        <translation>Secret key must be in Base32 format</translation>
+        <translation type="vanished">Secret key must be in Base32 format</translation>
     </message>
     <message>
         <source>Secret key field</source>
-        <translation>Secret key field</translation>
+        <translation type="vanished">Secret key field</translation>
     </message>
     <message>
         <source>Default settings (RFC 6238)</source>
-        <translation>Default settings (RFC 6238)</translation>
+        <translation type="vanished">Default settings (RFC 6238)</translation>
     </message>
     <message>
         <source>Steam® settings</source>
-        <translation>Steam® settings</translation>
+        <translation type="vanished">Steam® settings</translation>
     </message>
     <message>
         <source>Custom settings:</source>
-        <translation>Custom settings:</translation>
+        <translation type="vanished">Custom settings:</translation>
     </message>
     <message>
         <source>Custom Settings</source>
-        <translation>Custom Settings</translation>
+        <translation type="vanished">Custom Settings</translation>
     </message>
     <message>
         <source>Algorithm:</source>
-        <translation>Algorithm:</translation>
+        <translation type="vanished">Algorithm:</translation>
     </message>
     <message>
         <source>Time step:</source>
-        <translation>Time step:</translation>
+        <translation type="vanished">Time step:</translation>
     </message>
     <message>
         <source>Time step field</source>
-        <translation>Time step field</translation>
+        <translation type="vanished">Time step field</translation>
     </message>
     <message>
         <source> sec</source>
         <comment>Seconds</comment>
-        <translation> sec</translation>
+        <translation type="vanished"> sec</translation>
     </message>
     <message>
         <source>Code size:</source>
-        <translation>Code size:</translation>
+        <translation type="vanished">Code size:</translation>
     </message>
     <message>
         <source> digits</source>
-        <translation> digits</translation>
+        <translation type="vanished"> digits</translation>
     </message>
     <message>
         <source>Invalid TOTP Secret</source>
-        <translation>Invalid TOTP Secret</translation>
+        <translation type="vanished">Invalid TOTP Secret</translation>
     </message>
     <message>
         <source>You have entered an invalid secret key. The key must be in Base32 format.
 Example: JBSWY3DPEHPK3PXP</source>
-        <translation>You have entered an invalid secret key. The key must be in Base32 format.
+        <translation type="vanished">You have entered an invalid secret key. The key must be in Base32 format.
 Example: JBSWY3DPEHPK3PXP</translation>
     </message>
     <message>
         <source>Confirm Remove TOTP Settings</source>
-        <translation>Confirm Remove TOTP Settings</translation>
+        <translation type="vanished">Confirm Remove TOTP Settings</translation>
     </message>
     <message>
         <source>Are you sure you want to delete TOTP settings for this entry?</source>
-        <translation>Are you sure you want to delete TOTP settings for this entry?</translation>
+        <translation type="vanished">Are you sure you want to delete TOTP settings for this entry?</translation>
     </message>
     <message>
         <source>Error: secret key is invalid</source>
-        <translation>Error: secret key is invalid</translation>
+        <translation type="vanished">Error: secret key is invalid</translation>
     </message>
 </context>
 <context>
     <name>URLEdit</name>
     <message>
         <source>Invalid URL</source>
-        <translation>Invalid URL</translation>
+        <translation type="vanished">Invalid URL</translation>
     </message>
 </context>
 <context>
     <name>UpdateCheckDialog</name>
     <message>
         <source>Checking for updates</source>
-        <translation>Checking for updates</translation>
+        <translation type="vanished">Checking for updates</translation>
     </message>
     <message>
         <source>Checking for updates…</source>
-        <translation>Checking for updates…</translation>
+        <translation type="vanished">Checking for updates…</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Close</translation>
+        <translation type="vanished">Close</translation>
     </message>
     <message>
         <source>Software Update</source>
-        <translation>Software Update</translation>
+        <translation type="vanished">Software Update</translation>
     </message>
     <message>
         <source>An error occurred when trying to retrieve update information, please try again later.</source>
-        <translation>An error occurred when trying to retrieve update information, please try again later.</translation>
+        <translation type="vanished">An error occurred when trying to retrieve update information, please try again later.</translation>
     </message>
     <message>
         <source>&lt;strong&gt;A new version is available.&lt;/strong&gt;&lt;br/&gt;KeePassXC %1 can be &lt;a href=&quot;https://keepassxc.org/download/&quot;&gt;downloaded here&lt;/a&gt;.</source>
-        <translation>&lt;strong&gt;A new version is available.&lt;/strong&gt;&lt;br/&gt;KeePassXC %1 can be &lt;a href=&quot;https://keepassxc.org/download/&quot;&gt;downloaded here&lt;/a&gt;.</translation>
+        <translation type="vanished">&lt;strong&gt;A new version is available.&lt;/strong&gt;&lt;br/&gt;KeePassXC %1 can be &lt;a href=&quot;https://keepassxc.org/download/&quot;&gt;downloaded here&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>You have the latest version of KeePassXC</source>
-        <translation>You have the latest version of KeePassXC</translation>
+        <translation type="vanished">You have the latest version of KeePassXC</translation>
+    </message>
+</context>
+<context>
+    <name>WebDavClient</name>
+    <message>
+        <location filename="../../src/webdav/WebDavClient.cpp" line="88"/>
+        <source>Unsupported HTTP verb: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/webdav/WebDavClient.cpp" line="103"/>
+        <source>Request timed out after %1 ms.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>WebDavHandler</name>
+    <message>
+        <location filename="../../src/webdav/WebDavHandler.cpp" line="78"/>
+        <location filename="../../src/webdav/WebDavHandler.cpp" line="153"/>
+        <source>Invalid WebDAV parameters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/webdav/WebDavHandler.cpp" line="119"/>
+        <source>WebDAV server unreachable, using cached copy.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/webdav/WebDavHandler.cpp" line="129"/>
+        <source>Could not create temporary file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/webdav/WebDavHandler.cpp" line="136"/>
+        <source>Downloaded file is empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/webdav/WebDavHandler.cpp" line="159"/>
+        <source>Could not read file for upload: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/webdav/WebDavHandler.cpp" line="168"/>
+        <source>Upload failed (HTTP %1): %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>WebDavOpenDialog</name>
+    <message>
+        <location filename="../../src/webdav/WebDavOpenDialog.ui" line="14"/>
+        <source>Open Database from WebDAV</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/webdav/WebDavOpenDialog.ui" line="22"/>
+        <source>Name</source>
+        <translation type="unfinished">Name</translation>
+    </message>
+    <message>
+        <location filename="../../src/webdav/WebDavOpenDialog.ui" line="29"/>
+        <source>e.g.: My Nextcloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/webdav/WebDavOpenDialog.ui" line="36"/>
+        <source>URL</source>
+        <translation type="unfinished">URL</translation>
+    </message>
+    <message>
+        <location filename="../../src/webdav/WebDavOpenDialog.ui" line="43"/>
+        <source>https://example.com/remote.php/dav/files/user/Database.kdbx</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/webdav/WebDavOpenDialog.ui" line="50"/>
+        <source>Username</source>
+        <translation type="unfinished">Username</translation>
+    </message>
+    <message>
+        <location filename="../../src/webdav/WebDavOpenDialog.ui" line="60"/>
+        <source>Password</source>
+        <translation type="unfinished">Password</translation>
+    </message>
+    <message>
+        <location filename="../../src/webdav/WebDavOpenDialog.ui" line="74"/>
+        <source>Timeout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/webdav/WebDavOpenDialog.ui" line="81"/>
+        <source> seconds</source>
+        <translation type="unfinished"> seconds</translation>
     </message>
 </context>
 <context>
     <name>WelcomeWidget</name>
     <message>
         <source>Start storing your passwords securely in a KeePassXC database</source>
-        <translation>Start storing your passwords securely in a KeePassXC database</translation>
+        <translation type="vanished">Start storing your passwords securely in a KeePassXC database</translation>
     </message>
     <message>
         <source>Recent databases</source>
-        <translation>Recent databases</translation>
+        <translation type="vanished">Recent databases</translation>
     </message>
     <message>
         <source>Open a recent database</source>
-        <translation>Open a recent database</translation>
+        <translation type="vanished">Open a recent database</translation>
     </message>
     <message>
         <source>Welcome to KeePassXC %1</source>
-        <translation>Welcome to KeePassXC %1</translation>
+        <translation type="vanished">Welcome to KeePassXC %1</translation>
     </message>
     <message>
         <source>Create Database</source>
-        <translation>Create Database</translation>
+        <translation type="vanished">Create Database</translation>
     </message>
     <message>
         <source>Open Database</source>
-        <translation>Open Database</translation>
+        <translation type="vanished">Open Database</translation>
     </message>
     <message>
         <source>Import File</source>
-        <translation>Import File</translation>
+        <translation type="vanished">Import File</translation>
     </message>
 </context>
 <context>
     <name>WinUtils</name>
     <message>
         <source>Invalid key code</source>
-        <translation>Invalid key code</translation>
+        <translation type="vanished">Invalid key code</translation>
     </message>
     <message>
         <source>Global shortcut already registered to %1</source>
-        <translation>Global shortcut already registered to %1</translation>
+        <translation type="vanished">Global shortcut already registered to %1</translation>
     </message>
     <message>
         <source>Could not register global shortcut</source>
-        <translation>Could not register global shortcut</translation>
+        <translation type="vanished">Could not register global shortcut</translation>
     </message>
 </context>
 <context>
     <name>YubiKey</name>
     <message>
         <source>General: </source>
-        <translation>General: </translation>
+        <translation type="vanished">General: </translation>
     </message>
     <message>
         <source>Could not find interface for hardware key with serial number %1. Please connect it to continue.</source>
-        <translation>Could not find interface for hardware key with serial number %1. Please connect it to continue.</translation>
+        <translation type="vanished">Could not find interface for hardware key with serial number %1. Please connect it to continue.</translation>
     </message>
 </context>
 <context>
     <name>YubiKeyEditWidget</name>
     <message>
         <source>Hardware key slot selection</source>
-        <translation>Hardware key slot selection</translation>
+        <translation type="vanished">Hardware key slot selection</translation>
     </message>
     <message>
         <source>Could not find any hardware keys!</source>
-        <translation>Could not find any hardware keys!</translation>
+        <translation type="vanished">Could not find any hardware keys!</translation>
     </message>
     <message>
         <source>Selected hardware key slot does not support challenge-response!</source>
-        <translation>Selected hardware key slot does not support challenge-response!</translation>
+        <translation type="vanished">Selected hardware key slot does not support challenge-response!</translation>
     </message>
     <message>
         <source>Challenge-Response</source>
-        <translation>Challenge-Response</translation>
+        <translation type="vanished">Challenge-Response</translation>
     </message>
     <message>
         <source>Add Challenge-Response</source>
-        <translation>Add Challenge-Response</translation>
+        <translation type="vanished">Add Challenge-Response</translation>
     </message>
     <message>
         <source>Change Challenge-Response</source>
-        <translation>Change Challenge-Response</translation>
+        <translation type="vanished">Change Challenge-Response</translation>
     </message>
     <message>
         <source>Remove Challenge-Response</source>
-        <translation>Remove Challenge-Response</translation>
+        <translation type="vanished">Remove Challenge-Response</translation>
     </message>
     <message>
         <source>Challenge-Response set, click to change or remove</source>
-        <translation>Challenge-Response set, click to change or remove</translation>
+        <translation type="vanished">Challenge-Response set, click to change or remove</translation>
     </message>
     <message>
         <source>Detecting hardware keys…</source>
-        <translation>Detecting hardware keys…</translation>
+        <translation type="vanished">Detecting hardware keys…</translation>
     </message>
     <message>
         <source>No hardware keys detected</source>
-        <translation>No hardware keys detected</translation>
+        <translation type="vanished">No hardware keys detected</translation>
     </message>
     <message>
         <source>Refresh hardware keys</source>
-        <translation>Refresh hardware keys</translation>
+        <translation type="vanished">Refresh hardware keys</translation>
     </message>
     <message>
         <source>&lt;p&gt;If you own a &lt;a href=&quot;https://www.yubico.com/&quot;&gt;YubiKey&lt;/a&gt; or &lt;a href=&quot;https://onlykey.io&quot;&gt;OnlyKey&lt;/a&gt;, you can use it for additional security.&lt;/p&gt;&lt;p&gt;The key requires one of its slots to be programmed with &lt;a href=&quot;https://keepassxc.org/docs/#faq-yubikey-howto&quot;&gt;Challenge-Response&lt;/a&gt;.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;If you own a &lt;a href=&quot;https://www.yubico.com/&quot;&gt;YubiKey&lt;/a&gt; or &lt;a href=&quot;https://onlykey.io&quot;&gt;OnlyKey&lt;/a&gt;, you can use it for additional security.&lt;/p&gt;&lt;p&gt;The key requires one of its slots to be programmed with &lt;a href=&quot;https://keepassxc.org/docs/#faq-yubikey-howto&quot;&gt;Challenge-Response&lt;/a&gt;.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;If you own a &lt;a href=&quot;https://www.yubico.com/&quot;&gt;YubiKey&lt;/a&gt; or &lt;a href=&quot;https://onlykey.io&quot;&gt;OnlyKey&lt;/a&gt;, you can use it for additional security.&lt;/p&gt;&lt;p&gt;The key requires one of its slots to be programmed with &lt;a href=&quot;https://keepassxc.org/docs/#faq-yubikey-howto&quot;&gt;Challenge-Response&lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Hardware keys found, but no slots are configured</source>
-        <translation>Hardware keys found, but no slots are configured</translation>
+        <translation type="vanished">Hardware keys found, but no slots are configured</translation>
     </message>
 </context>
 <context>
     <name>YubiKeyInterfacePCSC</name>
     <message>
         <source>Could not find or access hardware key with serial number %1. Please present it to continue. </source>
-        <translation>Could not find or access hardware key with serial number %1. Please present it to continue. </translation>
+        <translation type="vanished">Could not find or access hardware key with serial number %1. Please present it to continue. </translation>
     </message>
     <message>
         <source>Hardware key is locked or timed out. Unlock or re-present it to continue.</source>
-        <translation>Hardware key is locked or timed out. Unlock or re-present it to continue.</translation>
+        <translation type="vanished">Hardware key is locked or timed out. Unlock or re-present it to continue.</translation>
     </message>
     <message>
         <source>Hardware key was not found or is not configured.</source>
-        <translation>Hardware key was not found or is not configured.</translation>
+        <translation type="vanished">Hardware key was not found or is not configured.</translation>
     </message>
     <message>
         <source>(NFC) %1 [%2] - Slot %3, %4</source>
         <comment>YubiKey display fields</comment>
-        <translation>(NFC) %1 [%2] - Slot %3, %4</translation>
+        <translation type="vanished">(NFC) %1 [%2] - Slot %3, %4</translation>
     </message>
     <message>
         <source>Press</source>
         <comment>USB Challenge-Response Key interaction request</comment>
-        <translation>Press</translation>
+        <translation type="vanished">Press</translation>
     </message>
     <message>
         <source>Passive</source>
         <comment>USB Challenge-Response Key no interaction required</comment>
-        <translation>Passive</translation>
+        <translation type="vanished">Passive</translation>
     </message>
     <message>
         <source>The YubiKey PC/SC interface has not been initialized.</source>
-        <translation>The YubiKey PC/SC interface has not been initialised.</translation>
+        <translation type="vanished">The YubiKey PC/SC interface has not been initialised.</translation>
     </message>
     <message>
         <source>Failed to complete a challenge-response, the PC/SC error code was: %1</source>
-        <translation>Failed to complete a challenge-response, the PC/SC error code was: %1</translation>
+        <translation type="vanished">Failed to complete a challenge-response, the PC/SC error code was: %1</translation>
     </message>
 </context>
 <context>
@@ -10628,47 +11313,47 @@ Example: JBSWY3DPEHPK3PXP</translation>
     <message>
         <source>Press</source>
         <comment>USB Challenge-Response Key interaction request</comment>
-        <translation>Press</translation>
+        <translation type="vanished">Press</translation>
     </message>
     <message>
         <source>Passive</source>
         <comment>USB Challenge-Response Key no interaction required</comment>
-        <translation>Passive</translation>
+        <translation type="vanished">Passive</translation>
     </message>
     <message>
         <source>The YubiKey USB interface has not been initialized.</source>
-        <translation>The YubiKey USB interface has not been initialized.</translation>
+        <translation type="vanished">The YubiKey USB interface has not been initialized.</translation>
     </message>
     <message>
         <source>Could not find hardware key with serial number %1. Please plug it in to continue.</source>
-        <translation>Could not find hardware key with serial number %1. Please plug it in to continue.</translation>
+        <translation type="vanished">Could not find hardware key with serial number %1. Please plug it in to continue.</translation>
     </message>
     <message>
         <source>Hardware key timed out waiting for user interaction.</source>
-        <translation>Hardware key timed out waiting for user interaction.</translation>
+        <translation type="vanished">Hardware key timed out waiting for user interaction.</translation>
     </message>
     <message>
         <source>A USB error occurred when accessing the hardware key: %1</source>
-        <translation>A USB error occurred when accessing the hardware key: %1</translation>
+        <translation type="vanished">A USB error occurred when accessing the hardware key: %1</translation>
     </message>
     <message>
         <source>Failed to complete a challenge-response, the specific error was: %1</source>
-        <translation>Failed to complete a challenge-response, the specific error was: %1</translation>
+        <translation type="vanished">Failed to complete a challenge-response, the specific error was: %1</translation>
     </message>
     <message>
         <source>%1 [%2] - Slot %3</source>
         <comment>YubiKey NEO display fields</comment>
-        <translation>%1 [%2] - Slot %3</translation>
+        <translation type="vanished">%1 [%2] - Slot %3</translation>
     </message>
     <message>
         <source>%1 [%2] - Slot %3, %4</source>
         <comment>YubiKey display fields</comment>
-        <translation>%1 [%2] - Slot %3, %4</translation>
+        <translation type="vanished">%1 [%2] - Slot %3, %4</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Unknown hardware key name</comment>
-        <translation>Unknown</translation>
+        <translation type="vanished">Unknown</translation>
     </message>
 </context>
 </TS>

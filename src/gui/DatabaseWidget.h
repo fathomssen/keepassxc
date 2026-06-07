@@ -142,6 +142,7 @@ public:
 #ifdef KPXC_FEATURE_WEBDAV
     void syncWithWebDav(const WebDavParams* params);
     QList<WebDavParams*> getWebDavParams() const;
+    void addWebDavParams(WebDavParams params);
 #endif
 
 signals:

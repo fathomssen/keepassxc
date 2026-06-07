@@ -83,7 +83,7 @@ DatabaseSettingsDialog::DatabaseSettingsDialog(QWidget* parent)
 #ifdef KPXC_FEATURE_WEBDAV
     // Index: General(0) + Security(1) + Remote Sync(2) + WebDAV(3)
     m_webDavPageIndex = 3;
-    addPage(tr("WebDAV Sync"), icons()->icon("network-server"), m_webDavWidget);
+    addPage(tr("WebDAV Sync"), icons()->icon("preferences-system-network-sharing"), m_webDavWidget);
 #endif
 
 #ifdef KPXC_FEATURE_BROWSER

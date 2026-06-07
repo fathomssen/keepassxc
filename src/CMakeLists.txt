@@ -302,6 +302,7 @@ if(KPXC_FEATURE_WEBDAV)
             webdav/WebDavClient.cpp
             webdav/WebDavCredentialStore.cpp
             webdav/WebDavHandler.cpp
+            webdav/WebDavOpenDialog.cpp
             gui/remote/DatabaseSettingsWidgetWebDav.cpp)
 endif()
 
